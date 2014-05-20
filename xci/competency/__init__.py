@@ -6,7 +6,7 @@ import pytz
 import copy
 import uuid
 from xci import models
-
+import logging
 # Medbiq namespaces and types used
 mb_namespaces = {'cf': 'http://ns.medbiq.org/competencyframework/v1/',
               'lom': 'http://ltsc.ieee.org/xsd/LOM',
@@ -27,6 +27,7 @@ def isMB(comp_json):
 
 # Return xml from given uri
 def getXML(uri):
+    logging.warning(addXMLSuffix(copy.copy(uri)))
     res = requests.get(addXMLSuffix(copy.copy(uri))).text
     return ET.XML(res, parser=ET.XMLParser(encoding='utf-8'))
 

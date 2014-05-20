@@ -634,7 +634,24 @@ def quiz():
         score = 5 - wrong
 
         lrs_list = []
-        for prof in user.profile['lrsprofiles']:
+        if user.profile['lrsprofiles']:
+            for prof in user.profile['lrsprofiles']:
+                lrs_result_info = {'name': prof['name']}
+                headers = {
+                        'Authorization': prof['auth'],
+                        'content-type': 'application/json',        
+                        'X-Experience-API-Version': '1.0.0'
+                }
+
+                post_resp = requests.post(prof['endpoint'] + "statements", data=json.dumps(data), headers=headers, verify=False)
+                lrs_result_info['status'] = post_resp.status_code
+                lrs_result_info['content'] = post_resp.content
+
+                lrs_result_info['stmts'], lrs_result_info['sens'] = models.retrieve_statements(lrs_result_info['status'],
+                    lrs_result_info['content'], prof['endpoint'] + "statements", headers)    
+                lrs_list.append(lrs_result_info)
+        else:
+            prof = current_app.config['DEFAULT_PROFILE']
             lrs_result_info = {'name': prof['name']}
             headers = {
                     'Authorization': prof['auth'],

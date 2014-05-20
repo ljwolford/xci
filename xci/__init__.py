@@ -1,5 +1,6 @@
 from flask import Flask
 from werkzeug.contrib.fixers import ProxyFix
+import logging
 
 app = Flask(__name__)
 # app.wsgi_app = ProxyFix(app.wsgi_app)
@@ -12,6 +13,10 @@ def config_app(config_filename=None):
     else:
         app.config.from_object('xci.settings.dev')
 
-    # Import views and return the app
+        file_handler = logging.FileHandler("xcierror.log")
+        app.logger.setLevel(logging.WARNING)
+        app.logger.addHandler(file_handler)
+
+   # Import views and return the app
     import xci.views
     return app

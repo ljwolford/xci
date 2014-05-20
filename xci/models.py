@@ -125,7 +125,7 @@ class User(UserMixin):
         self.userprofile = UserProfile(userid, password, email, first_name, last_name, roles)
         # self.id = userid
         self.password = self.userprofile.profile['password']
-        self.roles = self.userprofile.profile['roles']
+        self.roles = self.userprofile.profile['roles'] if self.userprofile.profile['roles'] else []
 
     @property
     def profile(self):
