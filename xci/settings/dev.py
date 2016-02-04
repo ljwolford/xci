@@ -16,8 +16,8 @@ DEFAULT_PROFILE = {
 ALLOWED_BADGE_EXTENSIONS = set(['png'])
 BADGE_UPLOAD_FOLDER = 'static/badgeclass'
 
-LR_PUBLISH_NAME = ""
-LR_PUBLISH_PASSWORD = ""
+LR_PUBLISH_NAME = "tom.creighton.ctr@adlnet.gov"
+LR_PUBLISH_PASSWORD = "1234512345"
 LR_PUBLISH_ENDPOINT = "https://sandbox.learningregistry.org/publish"
 
 # lr uri to obtain docs
