@@ -5,12 +5,12 @@ import requests
 import urllib
 from flask import current_app
 
-evals = {"http://12.109.40.34/performance-framework/xapi/tetris": 'TetrisPerformanceEval'}
+evals = {"http://40.129.74.199:8080/performance-framework/xapi/tetris": 'TetrisPerformanceEval'}
 
 def evaluate(uri, username):
     if uri not in evals.keys():
         raise UnknownPerformanceURI("The URI [%s] has no known performance evaluation" % uri)
-    return globals()[evals[uri]](uri, username).evaluate()    
+    return globals()[evals[uri]](uri, username).evaluate()
 
 class PerfEval(object):
 
@@ -25,7 +25,7 @@ class PerfEval(object):
         self.userobj = User(self.username)
         self.actor = '{"mbox": "mailto:%s"}' % self.userobj.email
         # tetris doesn't use expapi
-        self.verb = 'http://adlnet.gov/xapi/verbs/completed'
+        self.verb = 'http://adlnet.gov/expapi/verbs/completed'
         self.query_string = '?agent={0}&verb={1}&activity={2}&related_activities={3}'
         if self.userobj.profile['lrsprofiles']:
             self.profiles = self.userobj.profile['lrsprofiles']
@@ -57,7 +57,7 @@ class PerfEval(object):
                 if get_resp.status_code != 200:
                     print "got an error from performance.getStatements: %s" % get_resp.content
                     return []
-            
+
             stmts.extend(json.loads(get_resp.content)['statements'])
         return stmts
 
@@ -65,7 +65,7 @@ class UnknownPerformanceURI(Exception):
     pass
 
 class TetrisPerformanceEval(PerfEval):
-    
+
     def __init__(self, uri, username):
         super(TetrisPerformanceEval, self).__init__(uri, username)
 
@@ -80,17 +80,17 @@ class TetrisPerformanceEval(PerfEval):
             lines.append(s['result']['extensions']['ext:lines'])
             scores.append(s['result']['score']['raw'])
             times.append(s['result']['extensions']['ext:time'])
-        
+
         val = None
         if lines:
             val = self.update(lines, 'comp_lines')
-        
+
         if levels:
             val = self.update(levels, 'comp_levels')
-        
+
         if scores:
             val = self.update(scores, 'comp_scores')
-        
+
         if times:
             val = self.update(times, 'comp_times')
 
@@ -120,7 +120,7 @@ class TetrisPerformanceEval(PerfEval):
                 p['leveldescription'] = plvl['description']
                 p['levelscore'] = plvl['score']['singlevalue']
                 p['score'] =  lvlmax
-                # obj : {id : http://12.109.40.34/competency/xapi/tetris/time#minutes_6} 
+                # obj : {id : http://12.109.40.34/competency/xapi/tetris/time#minutes_6}
                 stmturl = self.sendAchievedBadge(compuri, plvl, comp)
                 if stmturl:
                     p['statementurl'] = stmturl
@@ -135,7 +135,7 @@ class TetrisPerformanceEval(PerfEval):
         data = {
             'actor': self.userobj.getFullAgent(),
             'verb': {'id': 'http://adlnet.gov/expapi/verbs/achieved', 'display':{'en-US': 'achieved'}},
-            'object':{'id':"%s#%s" % (compuri, plvl['id']), 
+            'object':{'id':"%s#%s" % (compuri, plvl['id']),
                       'definition':{
                             'name':{"en-US":"%s - %s" % (comp['title'], plvl['score']['singlevalue'])},
                             'description':{"en-US":plvl['description']},
@@ -143,9 +143,9 @@ class TetrisPerformanceEval(PerfEval):
                         }},
             'context':{'contextActivities':{'other':[{'id': self.uri}]}}
         }
-        post_resp = requests.post(url, data=json.dumps(data), 
+        post_resp = requests.post(url, data=json.dumps(data),
             headers=current_app.config['HEADERS'], verify=False)
-        
+
         if post_resp.status_code != 200:
             print "got an error from performance.getStatements: %s" % post_resp.content
             return

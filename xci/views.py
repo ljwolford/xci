@@ -90,7 +90,7 @@ def index():
             return make_response("%s<br>%s" % (str(e), p), 200)
 
     return render_template('home.html')
-    
+
 # Logout user
 @app.route('/logout')
 @login_required
@@ -134,11 +134,11 @@ def competencies():
     d = {}
     uri = request.args.get('uri', None)
     mb = request.args.get('mb', False)
-    
-    if uri:      
+
+    if uri:
         if current_user.is_authenticated():
             user = User(current_user.id)
-            comps = user.getAllComps()            
+            comps = user.getAllComps()
             d['registered'] = str(hash(uri)) in comps.keys()
 
         d['uri'] = uri
@@ -183,7 +183,7 @@ def me_competencies():
     d = {}
     uri = request.args.get('uri', None)
 
-    if uri:      
+    if uri:
         d['uri'] = uri
         comp = user.getComp(uri)
         d['comp'] = comp
@@ -201,11 +201,11 @@ def frameworks():
         uri = request.args.get('uri', None)
         if uri:
             d = {}
-            if current_user.is_authenticated():         
+            if current_user.is_authenticated():
                 d['registered'] = str(hash(uri)) in User(current_user.id).profile['compfwks'].keys()
 
             d['uri'] = uri
-            
+
             fwk = models.getCompetencyFramework(uri)
             for c in fwk['competencies']:
                 compuri = c['uri']
@@ -263,7 +263,7 @@ def perfwks():
         uri = request.args.get('uri', None)
         d['error'] = request.args.get('error', None)
         if uri:
-            if current_user.is_authenticated():           
+            if current_user.is_authenticated():
                 d['registered'] = str(hash(uri)) in User(current_user.id).profile['perfwks'].keys()
 
             d['uri'] = uri
@@ -316,10 +316,11 @@ def me():
         if c.get('completed',False):
             bs.append(1)
     completed_comps = len(bs)
-    started_comps = len(user_comps) - completed_comps   
+    started_comps = len(user_comps) - completed_comps
     name = user.first_name + ' ' + user.last_name
 
     mozilla_asserts = []
+    print [c for c in user_comps if 'performances' in c]
     for perf in user_comps:
         moz_dict = {}
         moz_dict['asserts'] = []
@@ -432,7 +433,7 @@ def add_endpoint():
 
         user.profile['lrsprofiles'].append(new_prof)
         user.save()
-    
+
     return redirect(url_for('me'))
 
 # Load LR search page
@@ -603,7 +604,7 @@ def add_quiz_to_comp(objid):
         data = models.create_questions(request.form)
         models.addCompetencyQuiz(objid, data)
         return redirect(url_for('competencies', uri=comp['uri']))
-     
+
 @app.route('/competency/quiz', methods=['GET', 'POST'])
 def quiz():
     uri = request.args.get('uri', None)
@@ -613,7 +614,7 @@ def quiz():
 
     if request.method == 'GET':
         return render_template('quiz.html', uri=uri, title=comp['title'], data=comp['quiz'])
-    else:    
+    else:
         questions = []
         answers = []
         types = []
@@ -629,7 +630,7 @@ def quiz():
         actor_name = "%s %s" % (user.first_name, user.last_name)
         quiz_name = "adl_xci:%s" % urllib.quote_plus(comp['title'])
         display_name = comp['title'] + ' quiz'
-       
+
         wrong, data = models.get_result_statements(responses, answers, types, questions, actor, actor_name, quiz_name, display_name, uri)
         score = 5 - wrong
 
@@ -638,7 +639,7 @@ def quiz():
             lrs_result_info = {'name': prof['name']}
             headers = {
                     'Authorization': prof['auth'],
-                    'content-type': 'application/json',        
+                    'content-type': 'application/json',
                     'X-Experience-API-Version': '1.0.0'
             }
 
@@ -647,7 +648,7 @@ def quiz():
             lrs_result_info['content'] = post_resp.content
 
             lrs_result_info['stmts'], lrs_result_info['sens'] = models.retrieve_statements(lrs_result_info['status'],
-                lrs_result_info['content'], prof['endpoint'] + "statements", headers)    
+                lrs_result_info['content'], prof['endpoint'] + "statements", headers)
             lrs_list.append(lrs_result_info)
 
         return render_template('quiz_results.html', title=comp['title'], uri=comp['uri'], score=score, lrs_list=lrs_list)
@@ -663,7 +664,7 @@ def compsearch():
         if sf.validate_on_submit():
             key = sf.search.data
             comps = models.searchComps(key)
-        return render_template('compsearch.html', comps=comps, search_form=sf)        
+        return render_template('compsearch.html', comps=comps, search_form=sf)
 
 @app.route('/static/badgeclass/issuer')
 def tetris_issuer():
@@ -688,12 +689,12 @@ def tetris_badge(perfwk_id, component_id, perf_id):
         b_fwk = models.findPerformanceFrameworks({'uuidurl': perfwk_id})
         if not b_fwk:
             abort(404)
-        
+
         b_class = models.getBadgeClass(perfwk_id, perf_id)
         if not b_class:
             abort(404)
 
-        return b_class 
+        return b_class
 
 @app.route('/view_assertions', methods=['POST'])
 def view_assertions():
