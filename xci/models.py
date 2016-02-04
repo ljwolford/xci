@@ -49,7 +49,7 @@ def getBadgeClass(perf_id, p_id, json_resp=True):
         return None
     del badge['_id']
     del badge['uuidurl']
-    
+
     if json_resp:
         return jsonify(badge)
     else:
@@ -81,7 +81,7 @@ def createAssertion(userprof, uri):
     for k, v in userprof['competencies'].items():
         if 'performances' in v.keys():
             for perf in v['performances']:
-                if 'badgeassertionuri' not in perf:    
+                if 'badgeassertionuri' not in perf:
                     badge_uri = getBadgeClass(uuidurl, perf['levelid'], False)['image'][:-4]
                     badgeassertion = {
                      'recipient':{
@@ -110,7 +110,7 @@ def createAssertion(userprof, uri):
                 # baked_filename = '%s_%s' % (uuidurl, name_encoding)
                 # baked = os.path.join(os.path.dirname(__file__), 'static/baked/%s.png' % baked_filename)
                 # badgebakery.bake_badge(unbaked, baked, perf['badgeassertionuri'])
-    
+
                 # # Once baked image is created, store in mongo
                 # storeBakedBadges()
 
@@ -146,7 +146,7 @@ class User(UserMixin):
     @last_name.setter
     def last_name(self, value):
         self.profile['last_name'] = value
-    
+
     @property
     def first_name(self):
         return self.profile['first_name']
@@ -154,7 +154,7 @@ class User(UserMixin):
     @first_name.setter
     def first_name(self, value):
         self.profile['first_name'] = value
-    
+
     @property
     def email(self):
         return self.profile['email']
@@ -162,7 +162,7 @@ class User(UserMixin):
     @email.setter
     def email(self, value):
         self.profile['email'] = value
-    
+
     def save(self):
         self.userprofile.save()
 
@@ -189,14 +189,14 @@ class User(UserMixin):
             self.updateFwkCompsWithCompletedVal(fwk, json_comp['uri'], json_comp['completed'])
 
     def updateFwkCompsWithCompletedVal(self, fwk, uri, completed):
-        for c in fwk['competencies']: 
+        for c in fwk['competencies']:
             if c['type'] != 'http://ns.medbiq.org/competencyframework/v1/':
                 if c['uri'] == uri:
                     c['completed'] = completed
             else:
                 self.updateFwkCompsWithCompletedVal(c, uri, completed)
         self.save()
-    
+
     def getCompfwk(self, uri):
         return self.profile['compfwks'][str(hash(uri))]
 
@@ -255,9 +255,9 @@ class UserProfile():
         self._profile = db.userprofiles.find_one({'username':userid})
         # make one if it didn't return a profile
         if not self._profile:
-            db.userprofiles.insert({'username': userid, 'password':generate_password_hash(password), 
-                                    'email':email, 'first_name':first_name, 'last_name':last_name, 
-                                    'competencies':{}, 'compfwks':{}, 'perfwks':{}, 'lrsprofiles':[], 
+            db.userprofiles.insert({'username': userid, 'password':generate_password_hash(password),
+                                    'email':email, 'first_name':first_name, 'last_name':last_name,
+                                    'competencies':{}, 'compfwks':{}, 'perfwks':{}, 'lrsprofiles':[],
                                     'roles':roles})
 
             self._profile = db.userprofiles.find_one({'username':userid})
@@ -315,7 +315,7 @@ def updateCompInFwksLR(c_uri, lr_uri):
 # Updates all comps in fwks that are in the userprofiles
 def updateUserFwkByURILR(c_uri, lr_uri):
     comp = db.competency.find_one({'uri': c_uri})
-    if not comp['type'] == 'commoncoreobject':
+    if 'type' in comp and not comp['type'] == 'commoncoreobject':
         try:
             parents = comp['relations']['childof']
         except KeyError:
@@ -328,7 +328,7 @@ def updateUserFwkByURILR(c_uri, lr_uri):
             set_field = 'compfwks.' + h + '.competencies'
             db.userprofiles.update({set_field:{'$elemMatch':{'uri':c_uri}}}, {'$addToSet':{set_field + '.$.lr_data': lr_uri}}, multi=True)
 
-def sendLRParadata(lr_uri, lr_title, user_role, c_type, c_uri, c_content): 
+def sendLRParadata(lr_uri, lr_title, user_role, c_type, c_uri, c_content):
     date = datetime.datetime.now(pytz.utc).isoformat()
     paradata = {
         "documents": [
@@ -383,7 +383,7 @@ def sendLRParadata(lr_uri, lr_title, user_role, c_type, c_uri, c_content):
     }
     r = requests.post(current_app.config['LR_PUBLISH_ENDPOINT'], data=json.dumps(paradata), headers={"Content-Type":"application/json"},
         auth=HTTPBasicAuth(current_app.config['LR_PUBLISH_NAME'], current_app.config['LR_PUBLISH_PASSWORD']), verify=False)
-    
+
     if r.status_code != 200:
         message = json.loads(r.content)['message']
         raise LRException(message)
@@ -507,7 +507,7 @@ def savePerformanceFramework(json_fwk):
 def updatePerformanceFramework(json_fwk):
     val = db.perfwk.update({'uri':json_fwk['uri']}, json_fwk, manipulate=False)
     pfwk_id = db.perfwk.find_one({'uri':json_fwk['uri']})['_id']
-    updatePerfFwkUserProfile(pfwk_id)    
+    updatePerfFwkUserProfile(pfwk_id)
 
 def updatePerfFwkUserProfile(pfwk_id):
     fwk = db.perfwk.find_one({'_id': pfwk_id})
@@ -550,7 +550,7 @@ def create_questions(form):
         q_dict = {}
         q_dict['type'] = form.get('types' + st_i)
         q_dict['question'] = form.get('question' + st_i + 'text')
-        
+
         if q_dict['type'] == 'short answer':
             q_dict['correct'] = form.get('question' + st_i + 'answer').split(' ')
         elif q_dict['type'] == 'true/false':
@@ -578,7 +578,7 @@ def grade_results(types, answers, responses, data):
             if not set(answers[x].lower().strip().split(",")).issubset([str(i).lower().strip() for i in responses[x].split(" ")]):
                 data[x+1]['result']['success'] = False
                 wrong += 1
-    
+
     return wrong, data
 
 def retrieve_statements(status, post_content, endpoint, headers):
@@ -591,7 +591,7 @@ def retrieve_statements(status, post_content, endpoint, headers):
         for x in range(0,7):
             stmts.append(requests.get(endpoint + '?statementId=%s' % content[x], headers=headers, verify=False).content)
             jstmts.append(json.loads(stmts[x]))
-        
+
         sens.append("{0} {1} {2}".format(jstmts[0]['actor']['name'], jstmts[0]['verb']['display']['en-US'], jstmts[0]['object']['definition']['name']['en-US']))
         for x in range(1, 6):
             sens.append("{0} {1} {2} ({3}) with {4}. (Answer was {5})".format(jstmts[x]['actor']['name'], jstmts[x]['verb']['display']['en-US'],
@@ -614,7 +614,7 @@ def get_result_statements(responses, answers, types, questions, actor, actor_nam
         data.append({
             'actor': actor,
             'verb': {'id': 'http://adlnet.gov/expapi/verbs/answered', 'display':{'en-US': 'answered'}},
-            'object':{'id':quiz_name + '_question' + str(x+1), 'definition':{'name':{'en-US':display_name + ' question' + str(x+1)}, 'description':{'en-US':questions[x]}}}, 
+            'object':{'id':quiz_name + '_question' + str(x+1), 'definition':{'name':{'en-US':display_name + ' question' + str(x+1)}, 'description':{'en-US':questions[x]}}},
             'context':{'contextActivities':{'parent':[{'id': quiz_name}]}},
             'result':{'success': True, 'response': responses[x],'extensions': {'answer:correct_answer': answers[x]}}
             })
@@ -627,7 +627,7 @@ def get_result_statements(responses, answers, types, questions, actor, actor_nam
                 'result':{'score':{'min': 0, 'max': 5, 'raw': 5 - wrong}},
                 'context':{'contextActivities':{'other':[{'id': comp_uri}]}}
                 })
-    
+
     if wrong >= 2:
         data[6]['verb']['id'] = 'http://adlnet.gov/expapi/verbs/failed'
         data[6]['verb']['display']['en-US'] = 'failed'

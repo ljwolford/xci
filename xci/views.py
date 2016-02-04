@@ -320,7 +320,7 @@ def me():
     name = user.first_name + ' ' + user.last_name
 
     mozilla_asserts = []
-    print [c for c in user_comps if 'performances' in c]
+    
     for perf in user_comps:
         moz_dict = {}
         moz_dict['asserts'] = []
@@ -571,7 +571,10 @@ def new_comp():
     else:
         f = CompetencyEditForm(request.form)
         if f.validate():
+            if f.ctype.data == "":
+                f.ctype.data = "http://xci.adlnet.gov/custom/competencyobject"
             models.saveCompetency(f.toDict())
+
             return redirect(url_for('competencies', uri=f.uri.data))
         return render_template('edit-comp.html', **{'cform': f})
 
@@ -628,7 +631,7 @@ def quiz():
 
         actor = user.getFullAgent()
         actor_name = "%s %s" % (user.first_name, user.last_name)
-        quiz_name = "adl_xci:%s" % urllib.quote_plus(comp['title'])
+        quiz_name = "http://xci.adlnet.gov/quiz/%s" % urllib.quote_plus(comp['title'])
         display_name = comp['title'] + ' quiz'
 
         wrong, data = models.get_result_statements(responses, answers, types, questions, actor, actor_name, quiz_name, display_name, uri)

@@ -47,7 +47,7 @@ class PerfEval(object):
         for prof in self.profiles:
             query = self.query_string.format(urllib.quote_plus(self.actor), self.verb, objuri, 'true')
             url = prof['endpoint'] + "statements" + query
-            print url
+
             try:
                 get_resp = requests.get(url, headers=current_app.config['HEADERS'], verify=False)
             except Exception, e:
