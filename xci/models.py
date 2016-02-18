@@ -328,7 +328,7 @@ def updateUserFwkByURILR(c_uri, lr_uri):
             set_field = 'compfwks.' + h + '.competencies'
             db.userprofiles.update({set_field:{'$elemMatch':{'uri':c_uri}}}, {'$addToSet':{set_field + '.$.lr_data': lr_uri}}, multi=True)
 
-def sendLRParadata(lr_uri, lr_title, user_role, c_type, c_uri, c_content):
+def sendLRParadata(lr_uri, user_role, c_type, c_uri):
     date = datetime.datetime.now(pytz.utc).isoformat()
     paradata = {
         "documents": [
@@ -355,7 +355,7 @@ def sendLRParadata(lr_uri, lr_title, user_role, c_type, c_uri, c_content):
                 "resource_data": {
                     "activity":{
                         "actor":{
-                            "description": ["ADL XCI " + user_role, lr_title],
+                            "description": ["ADL XCI " + user_role],
                             "objectType": user_role
                         },
                         "verb":{
@@ -373,7 +373,7 @@ def sendLRParadata(lr_uri, lr_title, user_role, c_type, c_uri, c_content):
                         "related":[{
                             "objectType": c_type,
                             "id": c_uri,
-                            "content": c_content
+                            # "content": c_content
                             }],
                         "content": "A resource found at "+lr_uri+" was matched to the "+c_type+" with ID "+c_uri+" by an "+user_role+" on "+current_app.config['DOMAIN_NAME']+" system on "+date
                     }

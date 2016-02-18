@@ -19,6 +19,7 @@ BADGE_UPLOAD_FOLDER = 'static/badgeclass'
 LR_PUBLISH_NAME = "tom.creighton.ctr@adlnet.gov"
 LR_PUBLISH_PASSWORD = "1234512345"
 LR_PUBLISH_ENDPOINT = "https://sandbox.learningregistry.org/publish"
+LR_HARVEST_ENDPOINT = "https://sandbox.learningregistry.org/harvest/getrecord?request_ID="
 
 # lr uri to obtain docs
 LR_NODE = "http://node01.public.learningregistry.net/obtain?request_ID="

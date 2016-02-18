@@ -465,9 +465,7 @@ def lr_search():
 def link_lr_comp():
     lr_uri = request.form['lr_uri']
     c_id = request.form['c_id']
-    lr_title = request.form['lr_title']
     c_uri = request.form['c_uri']
-    c_content = request.form['c_content']
 
     user = User(current_user.id)
     roles = user.roles
@@ -478,25 +476,23 @@ def link_lr_comp():
         user_role = 'teacher'
 
     try:
-        models.updateCompetencyLR(c_id, current_app.config['LR_NODE'] + lr_uri)
+        models.updateCompetencyLR(c_id, lr_uri)
     except Exception, e:
         return e.message
 
     try:
-        doc_id = models.sendLRParadata(lr_uri, lr_title, user_role, "competency", c_uri, c_content)
+        doc_id = models.sendLRParadata(lr_uri, user_role, "competency", c_uri)
     except Exception, e:
         return "Competency updated but paradata was not sent to LR - " + e.message
 
-    return "Successfully linked competency\n Here is the LR paradata doc_ID:" + doc_id
+    return "Successfully linked competency\n Here is the LR paradata doc_ID: %s. It can be found here %s" % (doc_id, current_app.config['LR_HARVEST_ENDPOINT']+doc_id+'&by_doc_ID=true')
 
 # Link lr data to comp fwk
 @app.route('/link_lr_cfwk', methods=['POST'])
 def link_lr_cfwk():
     lr_uri = request.form['lr_uri']
     c_id = request.form['c_id']
-    lr_title = request.form['lr_title']
     c_uri = request.form['c_uri']
-    c_content = request.form['c_content']
 
     user = User(current_user.id)
     roles = user.roles
@@ -507,25 +503,23 @@ def link_lr_cfwk():
         user_role = 'teacher'
 
     try:
-        models.updateCompetencyFrameworkLR(c_id, current_app.config['LR_NODE'] + lr_uri)
+        models.updateCompetencyFrameworkLR(c_id, lr_uri)
     except Exception, e:
         return e.message
 
     try:
-        doc_id = models.sendLRParadata(lr_uri, lr_title, user_role, "competency framework", c_uri, c_content)
+        doc_id = models.sendLRParadata(lr_uri, user_role, "competency framework", c_uri)
     except Exception, e:
         return "Competency framework updated but paradata was not sent to LR - " + e.message
 
-    return "Successfully linked competency framework\n Here is the LR paradata doc_ID:" + doc_id
+    return "Successfully linked competency framework\n Here is the LR paradata doc_ID: %s. It can be found here %s" % (doc_id, current_app.config['LR_HARVEST_ENDPOINT']+doc_id+'&by_doc_ID=true')
 
 # Linke lr data to per fwk
 @app.route('/link_lr_pfwk', methods=['POST'])
 def link_lr_pfwk():
     lr_uri = request.form['lr_uri']
     c_id = request.form['c_id']
-    lr_title = request.form['lr_title']
     c_uri = request.form['c_uri']
-    c_content = request.form['c_content']
 
     user = User(current_user.id)
     roles = user.roles
@@ -536,16 +530,16 @@ def link_lr_pfwk():
         user_role = 'teacher'
 
     try:
-        models.updatePerformanceFrameworkLR(c_id, current_app.config['LR_NODE'] + lr_uri)
+        models.updatePerformanceFrameworkLR(c_id, lr_uri)
     except Exception, e:
         return e.message
 
     try:
-        doc_id = models.sendLRParadata(lr_uri, lr_title, user_role, "performance framework", c_uri, c_content)
+        doc_id = models.sendLRParadata(lr_uri, user_role, "performance framework", c_uri)
     except Exception, e:
         return "Performance framework updated but paradata was not sent to LR - " + e.message
 
-    return "Successfully linked performance framework\n Here is the LR paradata doc_ID:" + doc_id
+    return "Successfully linked performance framework\n Here is the LR paradata doc_ID: %s. It can be found here %s" % (doc_id, current_app.config['LR_HARVEST_ENDPOINT']+doc_id+'&by_doc_ID=true')
 
 # Admin reset button to clear entire db
 @app.route('/admin/reset', methods=["POST"])

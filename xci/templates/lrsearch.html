@@ -94,7 +94,7 @@
 	Get comps from local server
 	*/
 	var SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
-	var LR_SERVER = "http://72.243.185.28/";
+	var LR_SERVER = "http://sandbox.learningregistry.org/";
 	var resultPages = 0;
 	var resultCurrentPage = 0;
 	var comps = {{ comps|safe }}
@@ -259,23 +259,23 @@
 
 	function processData(data){
 		// Add screenshot to each item
-		$.each(data['data'], function(index, value){
-			value['screenshot'] = LR_SERVER + "screenshot/" + value['_id'];
-		});
+		// $.each(data['data'], function(index, value){
+		// 	value['screenshot'] = LR_SERVER + "screenshot/" + value['_id'];
+		// });
 		return data
 	}
 	function addToResultsList(data){
 		// Add result HTML to the resultslist
 		// Add draggable to item (won't bind correctly after document ready)
-		$.each(data['data'], function(index, value){
-			$('#resultslist').append("<li class='media draggable' id='"+value['_id']+"'>"
-									+ "<a class='pull-left' href='"+value['url']+"' target='_blank'>"
-									+ "<img class='media-object' src='"+value['screenshot']+"' alt='"+value['title']+"' height='180px' width='171px'>"
-									+ "</a>"
-									+ "<div class='media-body'>"
-									+ "<h4 class='media-heading'>"
-									+ "<a href='"+value['url']+"' target='_blank'>"+value['title']+"</a></h4>"
-									+ value['description']+"</div></li>");
+		$.each(data['documents'], function(index, value){
+			$('#resultslist').append("<li class='media draggable' id='"+value['doc_ID']+"'>"
+									+ "<a class='pull-left' href='"+value['resource_data_description']['resource_locator']+"' target='_blank'>'"+value['resource_data_description']['resource_locator']+"'"
+									// + "<img class='media-object' src='"+value['screenshot']+"' alt='"+value['title']+"' height='180px' width='171px'>"
+									+ "</a>");
+									// + "<div class='media-body'>"
+									// + "<h4 class='media-heading'>"
+									// + "<a href='"+value['url']+"' target='_blank'>"+value['title']+"</a></h4>"
+									// + value['description']+"</div></li>");
 			$('#resultslist li').last()
 				.draggable({
 					helper: "clone",
@@ -305,8 +305,7 @@
 					greedy: true,
 					hoverClass: "ui-state-hover",
 					drop: function(event, ui){
-						var postData = {'lr_uri': $(ui.draggable).find('a').attr('href'), 'lr_title': $(ui.draggable).find('a').text(),'c_id': value._id, 'c_uri':value.uri,
-							'c_content':value.description};
+						var postData = {'lr_uri': LR_SERVER+'harvest/getrecord?request_ID='+$(ui.draggable).attr('id')+'&by_doc_ID=true','c_id': value._id, 'c_uri':value.uri};
 						$.post(SCRIPT_ROOT+"link_lr_comp", postData, function(data, status){
 							alert(data);
 						});
@@ -330,8 +329,7 @@
 				.droppable({
 					hoverClass: "ui-state-hover",
 					drop: function(event, ui){
-						var postData = {'lr_uri': $(ui.draggable).find('a').attr('href'), 'lr_title': $(ui.draggable).find('a').text(), 'c_id': value._id, 'c_uri':value.uri,
-							'c_content':value.description};
+						var postData = {'lr_uri': LR_SERVER+'harvest/getrecord?request_ID='+$(ui.draggable).attr('id')+'&by_doc_ID=true','c_id': value._id, 'c_uri':value.uri};
 						$.post(SCRIPT_ROOT+"link_lr_cfwk", postData, function(data, status){
 							alert(data);
 						});
@@ -355,8 +353,7 @@
 				.droppable({
 					hoverClass: "ui-state-hover",
 					drop: function(event, ui){
-						var postData = {'lr_uri': $(ui.draggable).find('a').attr('href'), 'lr_title': $(ui.draggable).find('a').text(), 'c_id': value._id, 'c_uri':value.uri,
-							'c_content':value.description};
+						var postData = {'lr_uri': LR_SERVER+'harvest/getrecord?request_ID='+$(ui.draggable).attr('id')+'&by_doc_ID=true','c_id': value._id, 'c_uri':value.uri};
 						$.post(SCRIPT_ROOT+"link_lr_pfwk", postData, function(data, status){
 							alert(data);
 						});
@@ -377,27 +374,29 @@
 		$('#resultPreviousLi').hide();
 		$('#resultNextLi').show();
 		var keyword = $('input[name=search]', this).val();
-		var query = "search?terms=" + keyword;
+		var query = "slice?any_tags=" + keyword;
 		var url = LR_SERVER + query;		
-		var pageQuery = "&page=";
+		var pageQuery = "&resumption_token=";
 
 		$.getJSON(url, function(data){
 			data = processData(data)
 			
 			// Set compTotal count and calculate pages
-			num = data['count']
+			num = data['resultCount']
 			$('#count').html(num);
-			resultPages = (num % 25 == 0) ? (num / 25) - 1 : Math.floor(num / 25)
+			// resultPages = (num % 25 == 0) ? (num / 25) - 1 : Math.floor(num / 25)
 
 			// Set query for next/prev buttons
-			if (resultPages > 1){
-				$('#resultNextLi').attr('href', url + pageQuery + (resultCurrentPage + 1))
-				$('#resultPreviousA').attr('href', url + pageQuery + (resultCurrentPage - 1))
-			}
-			else{
-				$('#resultNextLi').hide()
-				$('#resultPreviousLi').hide()
-			}
+			// if (resultPages > 1){
+			// 	$('#resultNextLi').attr('href', url + pageQuery + (resultCurrentPage + 1))
+			// 	$('#resultPreviousA').attr('href', url + pageQuery + (resultCurrentPage - 1))
+			// }
+			// else{
+			// 	$('#resultNextLi').hide()
+			// 	$('#resultPreviousLi').hide()
+			// }
+			$('#resultNextLi').hide()
+			$('#resultPreviousLi').hide()
 
 			// Display the whole row
 			addToResultsList(data)
