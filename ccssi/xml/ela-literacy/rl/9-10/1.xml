@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="0B77580F32254389B604B13282C77AD7">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/9-10/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.9-10.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DBFA53FE7E3746cc8D762EA5A278EE9E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="1CB9AC5FF80F45759C764C826591BE3B">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/3/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.3.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use linking words and phrases (e.g., &lt;i&gt;also&lt;/i&gt;, &lt;i&gt;another&lt;/i&gt;, &lt;i&gt;and&lt;/i&gt;, &lt;i&gt;more&lt;/i&gt;, &lt;i&gt;but&lt;/i&gt;) to connect ideas within categories of information.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1FA148B54C744762903DB3D8AEE2E5D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="19F69632DCCF4b8eBA3C01A30EDF8447">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a concluding statement or section related to the information or explanation presented.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">ED668494392C43e181930585E3278DC5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

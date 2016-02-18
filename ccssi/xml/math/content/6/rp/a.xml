@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="0B6BD52C0EA74590992EF4972FC805FA">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. &lt;i&gt;For example, "The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak." "For every vote candidate A received, candidate C received nearly three votes."&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">91FABAB899814C55851003A0EE98F8FB</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1F313537A545454283801E86987520FD">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand the concept of a unit rate a/b associated with a ratio a:b with b &amp;ne; 0, and use rate language in the context of a ratio relationship. &lt;i&gt;For example, "This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is 3/4 cup of flour for each cup of sugar." "We paid $75 for 15 hamburgers, which is a rate of $5 per hamburger."&lt;/i&gt;&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">91FABAB899814C55851003A0EE98F8FB</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="76D9105C412B45739450D4FAF3667D6B">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">91FABAB899814C55851003A0EE98F8FB</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>7C6AD49FC1EC4401A3AFA1ACA63BF4A9</Child>
+      <Child>D31433DF25FB4CD78EB603BAF929B294</Child>
+      <Child>A068CFC353A845239E73BF7580A2F924</Child>
+      <Child>FA34B81A7B23457B81D873613F7E7B75</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7C6AD49FC1EC4401A3AFA1ACA63BF4A9">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">76D9105C412B45739450D4FAF3667D6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D31433DF25FB4CD78EB603BAF929B294">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve unit rate problems including those involving unit pricing and constant speed. &lt;i&gt;For example, if it took 7 hours to mow 4 lawns, then at that rate, how many lawns could be mowed in 35 hours? At what rate were lawns being mowed?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">76D9105C412B45739450D4FAF3667D6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A068CFC353A845239E73BF7580A2F924">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means 30/100 times the quantity); solve problems involving finding the whole, given a part and the percent.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">76D9105C412B45739450D4FAF3667D6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FA34B81A7B23457B81D873613F7E7B75">
+    <RefURI>http://corestandards.org/Math/Content/6/RP/A/3/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.RP.A.3d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">76D9105C412B45739450D4FAF3667D6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

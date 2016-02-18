@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="137C90D24DE949558F17713B84161B4D">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret expressions that represent a quantity in terms of its context.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">16247FEF153B4404A115600AF3C81E03</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>529B17211FDB499292FE9DCD0CAAA928</Child>
+      <Child>5155CED2475A42D88AD48B7A676C7943</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="529B17211FDB499292FE9DCD0CAAA928">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret parts of an expression, such as terms, factors, and coefficients.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">137C90D24DE949558F17713B84161B4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5155CED2475A42D88AD48B7A676C7943">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret complicated expressions by viewing one or more of their parts as a single entity. &lt;i&gt;For example, interpret P(1+r)&lt;sup&gt;n&lt;/sup&gt; as the product of P and a factor not depending on P&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">137C90D24DE949558F17713B84161B4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

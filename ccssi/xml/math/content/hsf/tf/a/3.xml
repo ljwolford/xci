@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="3079DC14566A4ed09B88885B9D66A59B">
+    <RefURI>http://corestandards.org/Math/Content/HSF/TF/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-TF.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Use special triangles to determine geometrically the values of sine, cosine, tangent for &amp;pi;/3, &amp;pi;/4 and &amp;pi;/6, and use the unit circle to express the values of sine, cosine, and tangent for &lt;i&gt;x&lt;/i&gt;, &amp;pi; + &lt;i&gt;x&lt;/i&gt;, and 2&amp;pi; - &lt;i&gt;x&lt;/i&gt; in terms of their values for &lt;i&gt;x&lt;/i&gt;, where &lt;i&gt;x&lt;/i&gt; is any real number.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B13FE26FA344dca998C7DEDEBC7E0BF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

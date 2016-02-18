@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="213A35927D6549b283FC3FE1F69465FC">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

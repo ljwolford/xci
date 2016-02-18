@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="5FFBD080786949929FD37F35D817DC01">
+    <RefURI>http://corestandards.org/Math/Content/HSG/CO/B/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSG-CO.B.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2C230AEDFC714C45A4DE2FE3C0D07FC0</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

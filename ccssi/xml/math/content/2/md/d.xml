@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="5F66D83498E841958A1FB10B77664591">
+    <RefURI>http://corestandards.org/Math/Content/2/MD/D/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.2.MD.D.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Generate measurement data by measuring lengths of several objects to the nearest whole unit, or by making repeated measurements of the same object. Show the measurements by making a line plot, where the horizontal scale is marked off in whole-number units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">24A998ECFA5B4E7FAC36036671790ED7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1E9847DB7B284F2C9E412F7EBF3A7A4D">
+    <RefURI>http://corestandards.org/Math/Content/2/MD/D/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.2.MD.D.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and compare problems&lt;sup&gt;1&lt;/sup&gt; using information presented in a bar graph.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">24A998ECFA5B4E7FAC36036671790ED7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1801</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Introduction</title>
+  <content>&lt;p&gt;Functions describe situations where one quantity determines another. For example, the return on $10,000 invested at an annualized percentage rate of 4.25% is a function of the length of time the money is invested. Because we continually make theories about dependencies between quantities in nature and society, functions are important tools in the construction of mathematical models.&lt;/p&gt;
+&lt;p&gt;In school mathematics, functions usually have numerical inputs and outputs and are often defined by an algebraic expression. For example, the time in hours it takes for a car to drive 100 miles is a function of the car's speed in miles per hour, &lt;i&gt;v&lt;/i&gt;; the rule &lt;i&gt;T&lt;/i&gt;(&lt;i&gt;v&lt;/i&gt;) = 100/&lt;i&gt;v&lt;/i&gt; expresses this relationship algebraically and defines a function whose name is &lt;i&gt;T&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;The set of inputs to a function is called its domain. We often infer the domain to be all inputs for which the expression defining a function has a value, or for which the function makes sense in a given context.&lt;/p&gt;
+&lt;p&gt;A function can be described in various ways, such as by a graph (e.g., the trace of a seismograph); by a verbal rule, as in, "I'll give you a state, you give me the capital city;" by an algebraic expression like &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) = &lt;i&gt;a&lt;/i&gt; + &lt;i&gt;bx&lt;/i&gt;; or by a recursive rule. The graph of a function is often a useful way of visualizing the relationship of the function models, and manipulating a mathematical expression for a function can throw light on the function's properties.&lt;/p&gt;
+&lt;p&gt;Functions presented as expressions can model many important phenomena. Two important families of functions characterized by laws of growth are linear functions, which grow at a constant rate, and exponential functions, which grow at a constant percent rate. Linear functions with a constant term of zero describe proportional relationships.&lt;/p&gt;
+&lt;p&gt;A graphing utility or a computer algebra system can be used to experiment with properties of these functions and their graphs and to build computational models of functions, including recursively defined functions.&lt;/p&gt;
+
+&lt;h2&gt;Connections to Expressions, Equations, Modeling, and Coordinates.&lt;/h2&gt;
+&lt;p&gt;Determining an output value for a particular input involves evaluating an expression; finding inputs that yield a given output involves solving an equation. Questions about when two functions have the same value for the same input lead to equations, whose solutions can be visualized from the intersection of their graphs. Because functions describe relationships between quantities, they are frequently used in modeling. Sometimes functions are defined by a recursive process, which can be displayed effectively using a spreadsheet or other technology.&lt;/p&gt;
+
+&lt;h2&gt;Functions Overview&lt;/h2&gt;
+
+&lt;h3&gt;Interpreting Functions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understand the concept of a function and use function notation&lt;/li&gt;
+  &lt;li&gt;Interpret functions that arise in applications in terms of the context&lt;/li&gt;
+  &lt;li&gt;Analyze functions using different representations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Building Functions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Build a function that models a relationship between two quantities&lt;/li&gt;
+  &lt;li&gt;Build new functions from existing functions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Linear, Quadratic, and Exponential Models&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Construct and compare linear and exponential models and solve problems&lt;/li&gt;
+  &lt;li&gt;Interpret expressions for functions in terms of the situation they model&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Trigonometric Functions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Extend the domain of trigonometric functions using the unit circle&lt;/li&gt;
+  &lt;li&gt;Model periodic phenomena with trigonometric functions&lt;/li&gt;
+  &lt;li&gt;Prove and apply trigonometric identities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mathematical Practices&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Make sense of problems and persevere in solving them.&lt;/li&gt;
+  &lt;li&gt;Reason abstractly and quantitatively.&lt;/li&gt;
+  &lt;li&gt;Construct viable arguments and critique the reasoning of others.&lt;/li&gt;
+  &lt;li&gt;Model with mathematics.&lt;/li&gt;
+  &lt;li&gt;Use appropriate tools strategically.&lt;/li&gt;
+  &lt;li&gt;Attend to precision.&lt;/li&gt;
+  &lt;li&gt;Look for and make use of structure.&lt;/li&gt;
+  &lt;li&gt;Look for and express regularity in repeated reasoning.&lt;/li&gt;
+&lt;/ol&gt;</content>
+  <date>2014-02-15 19:11:36 UTC</date>
+</page>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="213A35927D6549b283FC3FE1F69465FC">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B6EB16B8BECE43df8C825C12AB4AC398">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the central ideas or conclusions of a text; summarize complex concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AD46BD5C53C640a3B41330BB78C3E7B6">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EFCA04AA58B14ff082E0165D038197ED">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to &lt;em&gt;grades 11-12 texts and topics&lt;/em&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D817405C96E0489aAFB844AE3EA6F7E2">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze how the text structures information or ideas into categories or hierarchies, demonstrating understanding of the information or ideas.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DCA30DA214ED4c87BA43C8A025B23760">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text, identifying important issues that remain unresolved.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7E2757E59AC24f83A8491D31D6462DA7">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DF6BFE48B7B9449980EAB1DC7DDF58D5">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="91417133EB5B4b1699EB5C79C46DC7A5">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FDE526CED471454b9203123F47F18C13">
+    <RefURI>http://corestandards.org/ELA-Literacy/RST/11-12/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RST.11-12.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>By the end of grade 12, read and comprehend science/technical texts in the grades 11-CCR text complexity band independently and proficiently.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">249B3BF40E014fcb87C4B633253F60EC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

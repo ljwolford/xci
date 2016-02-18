@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="6B92A5720478456FAFF81454BA4CFDA2">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret the product (&lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt;) × &lt;i&gt;q&lt;/i&gt; as &lt;em&gt;a&lt;/em&gt; parts of a partition of &lt;i&gt;q&lt;/i&gt; into &lt;i&gt;b&lt;/i&gt; equal parts; equivalently, as the result of a sequence of operations&lt;i&gt; a&lt;/i&gt; × &lt;i&gt;q&lt;/i&gt; ÷ &lt;i&gt;b&lt;/i&gt;. &lt;i&gt;For example, use a visual fraction model to show (2/3) × 4 = 8/3, and create a story context for this equation. Do the same with (2/3) × (4/5) = 8/15. (In general, (a/b) × (c/d) = ac/bd.)&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D270A624395246338200753501C0BF0E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

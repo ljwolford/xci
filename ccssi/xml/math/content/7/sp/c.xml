@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="094D610A5BA44E7DAB9D19B61690628B">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.&lt;/li&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F32180F51D5D445EAD4B6F394F3A67EB">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability. &lt;i&gt;For example, when rolling a number cube 600 times, predict that a 3 or 6 would be rolled roughly 200 times, but probably not exactly 200 times&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="472222394A204D26844BA834703EAC55">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>716CB223FD464557990DA2C256BDC030</Child>
+      <Child>09E56ADF76064716A2076F71820F95F3</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="716CB223FD464557990DA2C256BDC030">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/7/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.7a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events. &lt;i&gt;For example, if a student is selected at random from a class, find the probability that Jane will be selected and the probability that a girl will be selected&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">472222394A204D26844BA834703EAC55</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="09E56ADF76064716A2076F71820F95F3">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process. &lt;i&gt;For example, find the approximate probability that a spinning penny will land heads up or that a tossed paper cup will land open-end down. Do the outcomes for the spinning penny appear to be equally likely based on the observed frequencies?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">472222394A204D26844BA834703EAC55</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1001223E3087486CBB73C6BAA21516DF">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>F9897607C3E8445E8391D0F7284D37E0</Child>
+      <Child>0ED4E865656449238229475118C793D4</Child>
+      <Child>1159DE3EB8BF4B24AE2DB38F66D346CF</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F9897607C3E8445E8391D0F7284D37E0">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1001223E3087486CBB73C6BAA21516DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0ED4E865656449238229475118C793D4">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., "rolling double sixes"), identify the outcomes in the sample space which compose the event.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1001223E3087486CBB73C6BAA21516DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1159DE3EB8BF4B24AE2DB38F66D346CF">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Design and use a simulation to generate frequencies for compound events. &lt;i&gt;For example, use random digits as a simulation tool to approximate the answer to the question: If 40% of donors have type A blood, what is the probability that it will take at least 4 donors to find one with type A blood?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1001223E3087486CBB73C6BAA21516DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

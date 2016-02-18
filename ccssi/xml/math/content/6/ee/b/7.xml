@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="1AE7958ADE2C41A3AF81ED2463DF4CAE">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/B/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.B.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real-world and mathematical problems by writing and solving equations of the form &lt;i&gt;x&lt;/i&gt; + &lt;i&gt;p&lt;/i&gt; = &lt;i&gt;q&lt;/i&gt; and&lt;i&gt; px&lt;/i&gt; = &lt;i&gt;q&lt;/i&gt; for cases in which &lt;i&gt;p&lt;/i&gt;, &lt;i&gt;q&lt;/i&gt; and &lt;i&gt;x&lt;/i&gt; are all nonnegative rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E67594E323034EDFAD123E9BC4B258BE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

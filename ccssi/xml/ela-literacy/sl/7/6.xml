@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="FD1EA3FA0A7A4dc981B065C4911B2D06">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/7/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.7.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate. (See grade 7 Language standards 1 and 3 [link to="CCSS.ELA-Literacy.L.7"]here[/link] for specific expectations.)</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F4454E34871742c18331688CA705927C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="1724BB9BB4964D4BBFA0D6E4BFCEBBC7">
+    <RefURI>http://corestandards.org/Math/Content/HSS/MD/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSS-MD.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C36505788B144F25AB2E5D3693E257B6</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>9B5191DE265C4408985B7D86C943EC07</Child>
+      <Child>26F801DADEEB411EAF34A557F4C5D3C8</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9B5191DE265C4408985B7D86C943EC07">
+    <RefURI>http://corestandards.org/Math/Content/HSS/MD/B/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSS-MD.B.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find the expected payoff for a game of chance. &lt;i&gt;For example, find the expected winnings from a state lottery ticket or a game at a fast-food restaurant.&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1724BB9BB4964D4BBFA0D6E4BFCEBBC7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="26F801DADEEB411EAF34A557F4C5D3C8">
+    <RefURI>http://corestandards.org/Math/Content/HSS/MD/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSS-MD.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Evaluate and compare strategies on the basis of expected values. &lt;i&gt;For example, compare a high-deductible versus a low-deductible automobile insurance policy using various, but reasonable, chances of having a minor or a major accident.&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1724BB9BB4964D4BBFA0D6E4BFCEBBC7</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

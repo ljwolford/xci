@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="AEAAE712523D460a8DCB158F539CF8EE">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/3/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.3.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write opinion pieces on topics or texts, supporting a point of view with reasons.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F01B2BD6BAD84923A255E7A0236BDF8F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>007AE0603CAC460fBA36D2713F0788E7</Child>
+      <Child>72AD5CD808D94cdf8064961A3EE8ADD8</Child>
+      <Child>DA3DCB70C5AE40ffBCF65F5E618B7338</Child>
+      <Child>0868583996264ea2B6D669420089A164</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="007AE0603CAC460fBA36D2713F0788E7">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/3/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.3.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AEAAE712523D460a8DCB158F539CF8EE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="72AD5CD808D94cdf8064961A3EE8ADD8">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/3/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.3.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide reasons that support the opinion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AEAAE712523D460a8DCB158F539CF8EE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DA3DCB70C5AE40ffBCF65F5E618B7338">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/3/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.3.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use linking words and phrases (e.g., &lt;i&gt;because&lt;/i&gt;, &lt;i&gt;therefore&lt;/i&gt;, &lt;i&gt;since&lt;/i&gt;, &lt;i&gt;for&lt;/i&gt; &lt;i&gt;example&lt;/i&gt;) to connect opinion and reasons.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AEAAE712523D460a8DCB158F539CF8EE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0868583996264ea2B6D669420089A164">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/3/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.3.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a concluding statement or section.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AEAAE712523D460a8DCB158F539CF8EE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

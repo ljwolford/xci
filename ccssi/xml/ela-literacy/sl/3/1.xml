@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="3A57DB9B1A5248f6BAA0B42CB66CEB88">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/3/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.3.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on &lt;i&gt;grade 3 topics and texts&lt;/i&gt;, building on others' ideas and expressing their own clearly.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">172698BB7544457787198E0B8EFE5D19</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>C33FDDE7E6A64819B1A176AC790F0BFC</Child>
+      <Child>EB3A758D56ED4e46862F4D07A10B5FDE</Child>
+      <Child>1ABF7294B86947a7AFD6D63ECB98162E</Child>
+      <Child>6DE2C3EEB9C145d2AFC0AA214FE0A3ED</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C33FDDE7E6A64819B1A176AC790F0BFC">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/3/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.3.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3A57DB9B1A5248f6BAA0B42CB66CEB88</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EB3A758D56ED4e46862F4D07A10B5FDE">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/3/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.3.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care, speaking one at a time about the topics and texts under discussion).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3A57DB9B1A5248f6BAA0B42CB66CEB88</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1ABF7294B86947a7AFD6D63ECB98162E">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/3/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.3.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Ask questions to check understanding of information presented, stay on topic, and link their comments to the remarks of others.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3A57DB9B1A5248f6BAA0B42CB66CEB88</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6DE2C3EEB9C145d2AFC0AA214FE0A3ED">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/3/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.3.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain their own ideas and understanding in light of the discussion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3A57DB9B1A5248f6BAA0B42CB66CEB88</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

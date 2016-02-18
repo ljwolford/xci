@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>2649</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Table 5</title>
+  <content>Table 5. The properties of inequality. Here a, b, and c stand for arbitrary numbers in the rational or real number systems.&#13;
+&lt;div class="table-1-columns-container"&gt;&#13;
+&lt;table width="100%" border="1"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;Exactly one of the following is true: a &amp;lt; b, a = b, a &amp;gt; b.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b and b &amp;gt; c then a &amp;gt; c.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b, b &amp;lt; a.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b, then -a &amp;lt;-b.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b, then a ± c &amp;gt; b ± c.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b and c &amp;gt; 0, then a x c &amp;gt; b x c.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b and c &amp;lt; 0, then a x c &amp;lt; b x c.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b and c &amp;gt; 0, then a ÷ c &amp;gt; b ÷ c.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&#13;
+&lt;div align="center"&gt;If a &amp;gt; b and c &amp;lt; 0, then a ÷ c &amp;lt; b ÷ c.&lt;/div&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/div&gt;</content>
+  <date>2014-06-17 12:04:49 UTC</date>
+</page>

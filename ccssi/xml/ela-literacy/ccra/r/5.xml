@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="6111325D7A034a5b970D092B17FB0B3A">
+    <RefURI>http://corestandards.org/ELA-Literacy/CCRA/R/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.CCRA.R.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze the structure of texts, including how specific sentences, paragraphs, and larger portions of the text (e.g., a section, chapter, scene, or stanza) relate to each other and the whole.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+      <GradeLevel>01</GradeLevel>
+      <GradeLevel>02</GradeLevel>
+      <GradeLevel>03</GradeLevel>
+      <GradeLevel>04</GradeLevel>
+      <GradeLevel>05</GradeLevel>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+  </LearningStandardItem>
+</LearningStandards>

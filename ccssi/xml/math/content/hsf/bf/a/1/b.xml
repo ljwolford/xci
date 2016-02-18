@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="7C24A27D8C154d37A8F4C00AFA8EE4A1">
+    <RefURI>http://corestandards.org/Math/Content/HSF/BF/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-BF.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Combine standard function types using arithmetic operations. &lt;i&gt;For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">148058CA1C12486fBED93EA48399BFB5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

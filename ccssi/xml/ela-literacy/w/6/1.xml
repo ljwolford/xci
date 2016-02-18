@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="9BA2A21A0F1E4789A976A505A7AD2944">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/6/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.6.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write arguments to support claims with clear reasons and relevant evidence.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FF6D73B1F2914c77BA925F641088C03A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>74086025F7354c5aBBCAD95F1438562C</Child>
+      <Child>3350C57554814d5b88E837024D1BCA9B</Child>
+      <Child>546E2236726E45b2BC6C4ED3D7682EA5</Child>
+      <Child>4BFA222B149945bfB946599B78ECD859</Child>
+      <Child>F95DEE6E591D4b26AD855D798678ECF0</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="74086025F7354c5aBBCAD95F1438562C">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/6/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.6.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Introduce claim(s) and organize the reasons and evidence clearly.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">9BA2A21A0F1E4789A976A505A7AD2944</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3350C57554814d5b88E837024D1BCA9B">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/6/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.6.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of the topic or text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">9BA2A21A0F1E4789A976A505A7AD2944</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="546E2236726E45b2BC6C4ED3D7682EA5">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/6/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.6.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">9BA2A21A0F1E4789A976A505A7AD2944</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4BFA222B149945bfB946599B78ECD859">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/6/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.6.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Establish and maintain a formal style.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">9BA2A21A0F1E4789A976A505A7AD2944</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F95DEE6E591D4b26AD855D798678ECF0">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/6/1/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.6.1e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a concluding statement or section that follows from the argument presented.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">9BA2A21A0F1E4789A976A505A7AD2944</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

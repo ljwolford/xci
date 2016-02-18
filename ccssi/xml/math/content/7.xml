@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="DDA127661AED435481B8FCD67A9CBB2B">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B8B28A72AADF4D5C9D819A0AD29E830F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="714C5DE265264B2694B0E864F32FE2AE">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related. &lt;i&gt;For example, a + 0.05a = 1.05a means that "increase by 5%" is the same as "multiply by 1.05."&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B8B28A72AADF4D5C9D819A0AD29E830F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BD7C2039AF6A41409D5B23B1D5A753F3">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies. &lt;i&gt;For example: If a woman making $25 an hour gets a 10% raise, she will make an additional 1/10 of her salary an hour, or $2.50, for a new salary of $27.50. If you want to place a towel bar 9 3/4 inches long in the center of a door that is 27 1/2 inches wide, you will need to place the bar about 9 inches from each edge; this estimate can be used as a check on the exact computation&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">28C6157CE6114983AE2E7334B88BB477</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5C4A177A795D42178DD81C960C176EAC">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">28C6157CE6114983AE2E7334B88BB477</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>2F1135F18E434B77BB694AC9D3EEE575</Child>
+      <Child>38D1A0732B9A4055BA1E28B6D44D2493</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="2F1135F18E434B77BB694AC9D3EEE575">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve word problems leading to equations of the form &lt;i&gt;px&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; = &lt;i&gt;r&lt;/i&gt; and &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt;) = &lt;i&gt;r&lt;/i&gt;, where &lt;i&gt;p&lt;/i&gt;, &lt;i&gt;q&lt;/i&gt;, and &lt;i&gt;r&lt;/i&gt; are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach. &lt;i&gt;For example, the perimeter of a rectangle is 54 cm. Its length is 6 cm. What is its width?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5C4A177A795D42178DD81C960C176EAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="38D1A0732B9A4055BA1E28B6D44D2493">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve word problems leading to inequalities of the form &lt;i&gt;px&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; &amp;gt; &lt;i&gt;r&lt;/i&gt; or &lt;i&gt;px&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; &amp;lt; &lt;i&gt;r&lt;/i&gt;, where &lt;i&gt;p&lt;/i&gt;, &lt;i&gt;q&lt;/i&gt;, and &lt;i&gt;r&lt;/i&gt; are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem. &lt;i&gt;For example: As a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make, and describe the solutions&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5C4A177A795D42178DD81C960C176EAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="58588B92180F4668974CB3703D7A2BCF">
+    <RefURI>http://corestandards.org/Math/Content/7/G/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.G.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5995C336BE744A67B7D2D5FD8DC54086</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BF9BA82A90C4445F90F97C8FADCC8943">
+    <RefURI>http://corestandards.org/Math/Content/7/G/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.G.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5995C336BE744A67B7D2D5FD8DC54086</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="34805B0C060B46A699F8DD41034E82DF">
+    <RefURI>http://corestandards.org/Math/Content/7/G/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.G.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5995C336BE744A67B7D2D5FD8DC54086</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8111E58EA0054B8C8DE2CF7AA27F2FD8">
+    <RefURI>http://corestandards.org/Math/Content/7/G/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.G.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D8C53E0B5E7445D1B3493BEB30AAD017</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1EEBD749CD1949C6B06AC489ACA8DA9E">
+    <RefURI>http://corestandards.org/Math/Content/7/G/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.G.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.&lt;/li&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D8C53E0B5E7445D1B3493BEB30AAD017</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0D6F6749CCC8449DA70EA198411C2998">
+    <RefURI>http://corestandards.org/Math/Content/7/G/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.G.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D8C53E0B5E7445D1B3493BEB30AAD017</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3C0139D0DA344DBCAC06DBC4CBC41F9C">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3DDCF0B192B04D66AEE3E2C9EC8B7CAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>AEFCAD7F6D18406aA4769EF34D8AEAC6</Child>
+      <Child>F020570FB095480193A4F969241B8029</Child>
+      <Child>9C1435F358A84468956E149747DF8D85</Child>
+      <Child>CECCADE8384141139CA663AEC03D37B5</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AEFCAD7F6D18406aA4769EF34D8AEAC6">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe situations in which opposite quantities combine to make 0. &lt;i&gt;For example, a hydrogen atom has 0 charge because its two constituents are oppositely charged&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F020570FB095480193A4F969241B8029">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand &lt;i&gt;p&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; as the number located a distance |&lt;i&gt;q&lt;/i&gt;| from &lt;i&gt;p&lt;/i&gt;, in the positive or negative direction depending on whether &lt;i&gt;q&lt;/i&gt; is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9C1435F358A84468956E149747DF8D85">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand subtraction of rational numbers as adding the additive inverse, &lt;i&gt;p&lt;/i&gt; - &lt;i&gt;q&lt;/i&gt; = &lt;i&gt;p&lt;/i&gt; + (-&lt;i&gt;q&lt;/i&gt;). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="CECCADE8384141139CA663AEC03D37B5">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply properties of operations as strategies to add and subtract rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="416206BA82F74726987E836991FB89F8">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3DDCF0B192B04D66AEE3E2C9EC8B7CAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>90A64AED5CA141F2844E11A8A381F0F9</Child>
+      <Child>8E31252383F148FEA1E748BEB841036E</Child>
+      <Child>23541ADA26D346F09FCC989C5E04848E</Child>
+      <Child>23541ADA26D346F09FCC989C5E04848F</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="90A64AED5CA141F2844E11A8A381F0F9">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8E31252383F148FEA1E748BEB841036E">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If &lt;i&gt;p&lt;/i&gt; and &lt;i&gt;q&lt;/i&gt; are integers, then -(&lt;i&gt;p&lt;/i&gt;/&lt;i&gt;q&lt;/i&gt;) = (-&lt;i&gt;p&lt;/i&gt;)/&lt;i&gt;q&lt;/i&gt; = &lt;i&gt;p&lt;/i&gt;/(-&lt;i&gt;q&lt;/i&gt;). Interpret quotients of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="23541ADA26D346F09FCC989C5E04848E">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply properties of operations as strategies to multiply and divide rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="23541ADA26D346F09FCC989C5E04848F">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7DCF884FEE914f5998EF84E2810BB4D1">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real-world and mathematical problems involving the four operations with rational numbers.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3DDCF0B192B04D66AEE3E2C9EC8B7CAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6FC2501BA58B4695979EA68AC7E2C988">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units. &lt;i&gt;For example, if a person walks 1/2 mile in each 1/4 hour, compute the unit rate as the complex fraction &lt;sup&gt;1/2&lt;/sup&gt;/&lt;sub&gt;1/4&lt;/sub&gt; miles per hour, equivalently 2 miles per hour&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">71C7D669B568463CB1189D089CF4C723</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A57D2EDF9830409CB97D9F8DBD6763DD">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and represent proportional relationships between quantities.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">71C7D669B568463CB1189D089CF4C723</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>46FC84C961254E79BFBEE8399477632D</Child>
+      <Child>3ADAFFEF079D4FC3809513B650D91D9F</Child>
+      <Child>A0D3F72097A44707B921C2A4AD288AAE</Child>
+      <Child>C2918ADA67414c57AC6A37C2F3BB7815</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="46FC84C961254E79BFBEE8399477632D">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3ADAFFEF079D4FC3809513B650D91D9F">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A0D3F72097A44707B921C2A4AD288AAE">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent proportional relationships by equations. &lt;i&gt;For example, if total cost t is proportional to the number n of items purchased at a constant price p, the relationship between the total cost and the number of items can be expressed as t = pn&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C2918ADA67414c57AC6A37C2F3BB7815">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain what a point (&lt;i&gt;x&lt;/i&gt;, &lt;i&gt;y&lt;/i&gt;) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, &lt;i&gt;r&lt;/i&gt;) where r is the unit rate.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A8D0BB2A92C64B4F92D99D7C899703D0">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use proportional relationships to solve multistep ratio and percent problems. Examples: simple interest, tax, markups and markdowns, gratuities and commissions, fees, percent increase and decrease, percent error.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">71C7D669B568463CB1189D089CF4C723</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3DCB5D6E72154F9FAD1A4EEADB8AC125">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">30690CE0AA584E25B4C8AA897DC93E34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1E9C8DCF5D8B444AB189EFE40E899EAB">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions. &lt;i&gt;For example, estimate the mean word length in a book by randomly sampling words from the book; predict the winner of a school election based on randomly sampled survey data. Gauge how far off the estimate or prediction might be&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">30690CE0AA584E25B4C8AA897DC93E34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EC52E8776E5F4A498AE2DEE64FFB60DD">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability. &lt;i&gt;For example, the mean height of players on the basketball team is 10 cm greater than the mean height of players on the soccer team, about twice the variability (mean absolute deviation) on either team; on a dot plot, the separation between the two distributions of heights is noticeable&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">929EBEA1A93948A3B0B8B31E3CA106FC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="067475BBB3A04DC88E24731D6D606C1F">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations. &lt;i&gt;For example, decide whether the words in a chapter of a seventh-grade science book are generally longer than the words in a chapter of a fourth-grade science book&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">929EBEA1A93948A3B0B8B31E3CA106FC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="094D610A5BA44E7DAB9D19B61690628B">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.&lt;/li&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F32180F51D5D445EAD4B6F394F3A67EB">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability. &lt;i&gt;For example, when rolling a number cube 600 times, predict that a 3 or 6 would be rolled roughly 200 times, but probably not exactly 200 times&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="472222394A204D26844BA834703EAC55">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>716CB223FD464557990DA2C256BDC030</Child>
+      <Child>09E56ADF76064716A2076F71820F95F3</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="716CB223FD464557990DA2C256BDC030">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/7/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.7a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events. &lt;i&gt;For example, if a student is selected at random from a class, find the probability that Jane will be selected and the probability that a girl will be selected&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">472222394A204D26844BA834703EAC55</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="09E56ADF76064716A2076F71820F95F3">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process. &lt;i&gt;For example, find the approximate probability that a spinning penny will land heads up or that a tossed paper cup will land open-end down. Do the outcomes for the spinning penny appear to be equally likely based on the observed frequencies?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">472222394A204D26844BA834703EAC55</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1001223E3087486CBB73C6BAA21516DF">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C62D7937C1DD4C009128AE62E48A92C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>F9897607C3E8445E8391D0F7284D37E0</Child>
+      <Child>0ED4E865656449238229475118C793D4</Child>
+      <Child>1159DE3EB8BF4B24AE2DB38F66D346CF</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F9897607C3E8445E8391D0F7284D37E0">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1001223E3087486CBB73C6BAA21516DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0ED4E865656449238229475118C793D4">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., "rolling double sixes"), identify the outcomes in the sample space which compose the event.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1001223E3087486CBB73C6BAA21516DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1159DE3EB8BF4B24AE2DB38F66D346CF">
+    <RefURI>http://corestandards.org/Math/Content/7/SP/C/8/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.SP.C.8c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Design and use a simulation to generate frequencies for compound events. &lt;i&gt;For example, use random digits as a simulation tool to approximate the answer to the question: If 40% of donors have type A blood, what is the probability that it will take at least 4 donors to find one with type A blood?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1001223E3087486CBB73C6BAA21516DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

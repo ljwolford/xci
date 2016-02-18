@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="FBFBA64C70074AC99425390F527D0A85">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/D/11/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.D.11</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain why the &lt;i&gt;x&lt;/i&gt;-coordinates of the points where the graphs of the equations &lt;i&gt;y&lt;/i&gt; = &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and &lt;i&gt;y&lt;/i&gt; = &lt;i&gt;g&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) intersect are the solutions of the equation &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) = &lt;i&gt;g&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;); find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and/or &lt;i&gt;g&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A65B3884A9784D21B409AC13B11DFD9B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

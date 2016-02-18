@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="713DB49BCDF74b8fA3F8973D0BF25929">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">829CFFF273FE4d2794FD0ED2A7D880FC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>55ADA701DF7840ed97DB01863150ABDA</Child>
+      <Child>C439F7D3ABBE44b8A7D69A6C1B420177</Child>
+      <Child>29059D99E58347a6B8A128FF1FB089DA</Child>
+      <Child>9D6E0F3703E14c65ABDF78AC8F4DC055</Child>
+      <Child>09A448877DC3442e892F7470058649A5</Child>
+      <Child>8CA33B61DD6546778B0035A298026A1D</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="55ADA701DF7840ed97DB01863150ABDA">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Introduce a topic; organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">713DB49BCDF74b8fA3F8973D0BF25929</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C439F7D3ABBE44b8A7D69A6C1B420177">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">713DB49BCDF74b8fA3F8973D0BF25929</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="29059D99E58347a6B8A128FF1FB089DA">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">713DB49BCDF74b8fA3F8973D0BF25929</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9D6E0F3703E14c65ABDF78AC8F4DC055">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use precise language, domain-specific vocabulary, and techniques such as metaphor, simile, and analogy to manage the complexity of the topic.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">713DB49BCDF74b8fA3F8973D0BF25929</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="09A448877DC3442e892F7470058649A5">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">713DB49BCDF74b8fA3F8973D0BF25929</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8CA33B61DD6546778B0035A298026A1D">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/11-12/2/f/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.11-12.2f</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">713DB49BCDF74b8fA3F8973D0BF25929</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="4056EC7D109E419FB1499E54CE352507">
+    <RefURI>http://corestandards.org/Math/Content/3/NBT/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NBT.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Multiply one-digit whole numbers by multiples of 10 in the range 10-90 (e.g., 9 &amp;times; 80, 5 &amp;times; 60) using strategies based on place value and properties of operations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">600ED56CB17B45BCA84F742EF6CE451C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

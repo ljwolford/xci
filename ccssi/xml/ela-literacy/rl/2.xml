@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C915B8DFF14243069B4916D5C35CF763">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Ask and answer such questions as &lt;i&gt;who, what, where, when, why&lt;/i&gt;, and &lt;i&gt;how&lt;/i&gt; to demonstrate understanding of key details in a text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="58AA0D1BF67E4520B9550F1880E81CD9">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recount stories, including fables and folktales from diverse cultures, and determine their central message, lesson, or moral.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="27E94D3D3B6E419bA63D220699BA15B0">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe how characters in a story respond to major events and challenges.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="52129160DB384861A2E1BB4730745C9E">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe how words and phrases (e.g., regular beats, alliteration, rhymes, repeated lines) supply rhythm and meaning in a story, poem, or song.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="04030F04A6544040BB1A29334AB49610">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe the overall structure of a story, including describing how the beginning introduces the story and the ending concludes the action.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F86BC10ECB88465eB944AA6B3897C22D">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Acknowledge differences in the points of view of characters, including by speaking in a different voice for each character when reading dialogue aloud.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="19404BA40DD94afbB22DE6EDB3E15C77">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use information gained from the illustrations and words in a print or digital text to demonstrate understanding of its characters, setting, or plot.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode></StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(RL.2.8 not applicable to literature)</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="088B997523F0446f8A45F1D4E8B5C8F4">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare and contrast two or more versions of the same story (e.g., Cinderella stories) by different authors or from different cultures.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7A81F157DC644efcBF00BE40129142C1">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>By the end of the year, read and comprehend literature, including stories and poetry, in the grades 2-3 text complexity band proficiently, with scaffolding as needed at the high end of the range.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

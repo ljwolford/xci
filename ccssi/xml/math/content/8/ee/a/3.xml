@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="0FC0B4EB2CD94EEA97757C7E474A4609">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other. &lt;em&gt;For example, estimate the population of the United States as 3 times 10&lt;sup&gt;8&lt;/sup&gt; and the population of the world as 7 times 10&lt;sup&gt;9&lt;/sup&gt;, and determine that the world population is more than 20 times larger&lt;/em&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">42D43D973FEF4A028D2AEAC7151A01DB</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

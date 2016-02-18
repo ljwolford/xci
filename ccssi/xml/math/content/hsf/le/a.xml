@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="13898F5B9227486aBB749E5A8D5F0BA2">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish between situations that can be modeled with linear functions and with exponential functions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EA31B803149948c1AB6FCB71C7EE6E23</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>39F3AF9140744f049D8A7F16C1E1C11B</Child>
+      <Child>40FD278805FB4f0091985412D2591720</Child>
+      <Child>5E2567D4DEEA4e71971D8405AD83282D</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="39F3AF9140744f049D8A7F16C1E1C11B">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Prove that linear functions grow by equal differences over equal intervals, and that exponential functions grow by equal factors over equal intervals.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13898F5B9227486aBB749E5A8D5F0BA2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="40FD278805FB4f0091985412D2591720">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13898F5B9227486aBB749E5A8D5F0BA2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5E2567D4DEEA4e71971D8405AD83282D">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize situations in which a quantity grows or decays by a constant percent rate per unit interval relative to another.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13898F5B9227486aBB749E5A8D5F0BA2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="43C90B2EE7834c20AC59B88CBE3222E8">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EA31B803149948c1AB6FCB71C7EE6E23</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="69E7CE927BB04137A41E2065D3F27FFC">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Observe using graphs and tables that a quantity increasing exponentially eventually exceeds a quantity increasing linearly, quadratically, or (more generally) as a polynomial function.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EA31B803149948c1AB6FCB71C7EE6E23</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="69E7CE927BB04137A41E2065D3F27FFD">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>For exponential models, express as a logarithm the solution to &lt;i&gt;ab&lt;sup&gt;ct&lt;/sup&gt;&lt;/i&gt; = &lt;i&gt;d&lt;/i&gt; where &lt;i&gt;a&lt;/i&gt;, &lt;i&gt;c&lt;/i&gt;, and &lt;i&gt;d&lt;/i&gt; are numbers and the base &lt;i&gt;b&lt;/i&gt; is 2, 10, or &lt;i&gt;e&lt;/i&gt;; evaluate the logarithm using technology.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EA31B803149948c1AB6FCB71C7EE6E23</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="8DC8E2BF1D274098AADA8ADB5AE294D9">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">AEF7E7CDDA614bf2BFA9FEEB0CE9F7DF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>CEAC5CBA990642cf93F4E705D5B1F4B8</Child>
+      <Child>286B41FF731648568BD891301D851A73</Child>
+      <Child>F359B38CA1DB4fe4A7916A8C2B5CA7C4</Child>
+      <Child>84C47AD16E404b968B65BDB27A44AF14</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="CEAC5CBA990642cf93F4E705D5B1F4B8">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Capitalize the first word in a sentence and the pronoun &lt;em&gt;I&lt;/em&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8DC8E2BF1D274098AADA8ADB5AE294D9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="286B41FF731648568BD891301D851A73">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and name end punctuation.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8DC8E2BF1D274098AADA8ADB5AE294D9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F359B38CA1DB4fe4A7916A8C2B5CA7C4">
+    <RefURI>http://corestandards.org/ELA-Literacy/L/K/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.L.K.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write a letter or letters for most consonant and short-vowel sounds (phonemes).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8DC8E2BF1D274098AADA8ADB5AE294D9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

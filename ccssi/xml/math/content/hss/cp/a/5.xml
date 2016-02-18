@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="F2BB8A9B6C6E4864B38B1B0CE5624B69">
+    <RefURI>http://corestandards.org/Math/Content/HSS/CP/A/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSS-CP.A.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement> Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations. &lt;i&gt;For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer.&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EAD8FB0CC6514306B4018FF8AA698AFC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

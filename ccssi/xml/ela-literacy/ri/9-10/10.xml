@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="9E5B5BE5D4E144e28A396066AF456486">
+    <RefURI>http://corestandards.org/ELA-Literacy/RI/9-10/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RI.9-10.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>By the end of grade 9, read and comprehend literary nonfiction in the grades 9-10 text complexity band proficiently, with scaffolding as needed at the high end of the range.&#13;
+&#13;
+By the end of grade 10, read and comprehend literary nonfiction at the high end of the grades 9-10 text complexity band independently and proficiently.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0DA1E66B47654e739180CFE53E341C4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

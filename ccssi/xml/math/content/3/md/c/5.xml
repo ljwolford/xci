@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C3AE47EBADAC4FD3806961236A97793F">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize area as an attribute of plane figures and understand concepts of area measurement.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">834B17E279C64263AA83F7625F5D2993</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>F82EDE7D54704B7F97AB74D10A56D228</Child>
+      <Child>F0B097C190F4482BA735FEC560DA0A7F</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F82EDE7D54704B7F97AB74D10A56D228">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A square with side length 1 unit, called "a unit square," is said to have "one square unit" of area, and can be used to measure area.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C3AE47EBADAC4FD3806961236A97793F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F0B097C190F4482BA735FEC560DA0A7F">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A plane figure which can be covered without gaps or overlaps by &lt;i&gt;n&lt;/i&gt; unit squares is said to have an area of &lt;i&gt;n&lt;/i&gt; square units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C3AE47EBADAC4FD3806961236A97793F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

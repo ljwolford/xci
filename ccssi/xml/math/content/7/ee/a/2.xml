@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="714C5DE265264B2694B0E864F32FE2AE">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related. &lt;i&gt;For example, a + 0.05a = 1.05a means that "increase by 5%" is the same as "multiply by 1.05."&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B8B28A72AADF4D5C9D819A0AD29E830F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

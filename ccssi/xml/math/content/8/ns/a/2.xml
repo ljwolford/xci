@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="ED035A47D0D54C119DE9C0EB1C078C39">
+    <RefURI>http://corestandards.org/Math/Content/8/NS/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.NS.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use rational approximations of irrational numbers to compare the size of irrational numbers, locate them approximately on a number line diagram, and estimate the value of expressions (e.g., &amp;pi;&lt;sup&gt;2&lt;/sup&gt;). &lt;i&gt;For example, by truncating the decimal expansion of &amp;radic;2, show that &amp;radic;2 is between 1 and 2, then between 1.4 and 1.5, and explain how to continue on to get better approximations&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">73B661BC829045CA834CB4F5419EB83E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

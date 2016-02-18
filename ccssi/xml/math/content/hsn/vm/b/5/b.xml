@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="FA032D8A02564B37A0BAF505A0296FB4">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compute the magnitude of a scalar multiple &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; using ||&lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;|| = |&lt;i&gt;c&lt;/i&gt;|&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;. Compute the direction of &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; knowing that when |&lt;i&gt;c&lt;/i&gt;|&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; &amp;ne; 0, the direction of &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is either along &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; (for &lt;i&gt;c&lt;/i&gt; &amp;gt; 0) or against &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; (for &lt;i&gt;c&lt;/i&gt; &amp;lt; 0).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5B4228464AF24FC2A8B23CF733ABD5D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

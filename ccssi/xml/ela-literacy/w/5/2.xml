@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="ED668494392C43e181930585E3278DC5">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write informative/explanatory texts to examine a topic and convey ideas and information clearly.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3D64687303A2475eA391F0680C920B6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>159F7FFDB2C240168A1EC34AC71BCEC5</Child>
+      <Child>3527C23C54274fb8B1E3C9119CA6013D</Child>
+      <Child>04C0C9960DEB424b86E0ECEB6A89F6FE</Child>
+      <Child>6595BBD0D905478cA3D5CAA02AD66B23</Child>
+      <Child>19F69632DCCF4b8eBA3C01A30EDF8447</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="159F7FFDB2C240168A1EC34AC71BCEC5">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Introduce a topic clearly, provide a general observation and focus, and group related information logically; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">ED668494392C43e181930585E3278DC5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3527C23C54274fb8B1E3C9119CA6013D">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">ED668494392C43e181930585E3278DC5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="04C0C9960DEB424b86E0ECEB6A89F6FE">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Link ideas within and across categories of information using words, phrases, and clauses (e.g., &lt;i&gt;in&lt;/i&gt; &lt;i&gt;contrast&lt;/i&gt;, &lt;i&gt;especially&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">ED668494392C43e181930585E3278DC5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6595BBD0D905478cA3D5CAA02AD66B23">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use precise language and domain-specific vocabulary to inform about or explain the topic.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">ED668494392C43e181930585E3278DC5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="19F69632DCCF4b8eBA3C01A30EDF8447">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/2/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.2e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a concluding statement or section related to the information or explanation presented.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">ED668494392C43e181930585E3278DC5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

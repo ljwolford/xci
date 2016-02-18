@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="61864044228F4141AF5A894EC059DFB7">
+    <RefURI>http://corestandards.org/Math/Content/2/G/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.2.G.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces.&lt;sup&gt;1&lt;/sup&gt; Identify triangles, quadrilaterals, pentagons, hexagons, and cubes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E82ECFD919D748a7AD0F9AFDDF8EA50F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="792E0263C0B641e3A750825A162477E2">
+    <RefURI>http://corestandards.org/ELA-Literacy/CCRA/L/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.CCRA.L.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+      <GradeLevel>01</GradeLevel>
+      <GradeLevel>02</GradeLevel>
+      <GradeLevel>03</GradeLevel>
+      <GradeLevel>04</GradeLevel>
+      <GradeLevel>05</GradeLevel>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+  </LearningStandardItem>
+</LearningStandards>

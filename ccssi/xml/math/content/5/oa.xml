@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="DB7A9168437744809096645140085C00">
+    <RefURI>http://corestandards.org/Math/Content/5/OA/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.OA.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BFE360826DBB414F917BF59E9D2BB5D1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6374EEDF137B4F58AD9613766F4C7A2B">
+    <RefURI>http://corestandards.org/Math/Content/5/OA/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.OA.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. &lt;i&gt;For example, express the calculation "add 8 and 7, then multiply by 2" as 2 &amp;times; (8 + 7). Recognize that 3 &amp;times; (18932 + 921) is three times as large as 18932 + 921, without having to calculate the indicated sum or product&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BFE360826DBB414F917BF59E9D2BB5D1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1F2E02E134B34b55A5CF482E3002B665">
+    <RefURI>http://corestandards.org/Math/Content/5/OA/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.OA.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane. &lt;i&gt;For example, given the rule "Add 3" and the starting number 0, and given the rule "Add 6" and the starting number 0, generate terms in the resulting sequences, and observe that the terms in one sequence are twice the corresponding terms in the other sequence. Explain informally why this is so&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E9FDE5E39856429F89106808E49664ED</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

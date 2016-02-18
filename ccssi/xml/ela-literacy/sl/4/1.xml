@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="0CF4ED3111414d47A4E65018EA4EB04E">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/4/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.4.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on &lt;em&gt;grade 4 topics and texts&lt;/em&gt;, building on others' ideas and expressing their own clearly.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1F6A1E89E1684cb4AF5EB123E689E020</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>5E00435C5E554b3c9D86CDDD71F7E239</Child>
+      <Child>C813E9CB178644f3ADC31F3B84BA6E40</Child>
+      <Child>39AD4EBA197F47519113743D0B75877F</Child>
+      <Child>D33A08233F2040c2BEBECF5D251770B2</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5E00435C5E554b3c9D86CDDD71F7E239">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/4/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.4.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0CF4ED3111414d47A4E65018EA4EB04E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C813E9CB178644f3ADC31F3B84BA6E40">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/4/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.4.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Follow agreed-upon rules for discussions and carry out assigned roles.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0CF4ED3111414d47A4E65018EA4EB04E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="39AD4EBA197F47519113743D0B75877F">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/4/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.4.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Pose and respond to specific questions to clarify or follow up on information, and make comments that contribute to the discussion and link to the remarks of others.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0CF4ED3111414d47A4E65018EA4EB04E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D33A08233F2040c2BEBECF5D251770B2">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/4/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.4.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Review the key ideas expressed and explain their own ideas and understanding in light of the discussion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0CF4ED3111414d47A4E65018EA4EB04E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

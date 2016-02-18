@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1869</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Introduction</title>
+  <content>&lt;p&gt;An understanding of the attributes and relationships of geometric objects can be applied in diverse contexts&amp;mdash;interpreting a schematic drawing, estimating the amount of wood needed to frame a sloping roof, rendering computer graphics, or designing a sewing pattern for the most efficient use of material.&lt;/p&gt;
+&lt;p&gt;Although there are many types of geometry, school mathematics is devoted primarily to plane Euclidean geometry, studied both synthetically (without coordinates) and analytically (with coordinates). Euclidean geometry is characterized most importantly by the Parallel Postulate, that through a point not on a given line there is exactly one parallel line. (Spherical geometry, in contrast, has no parallel lines.)&lt;/p&gt;
+&lt;p&gt;During high school, students begin to formalize their geometry experiences from elementary and middle school, using more precise definitions and developing careful proofs. Later in college some students develop Euclidean and other geometries carefully from a small set of axioms.&lt;/p&gt;
+&lt;p&gt;The concepts of congruence, similarity, and symmetry can be understood from the perspective of geometric transformation. Fundamental are the rigid motions: translations, rotations, reflections, and combinations of these, all of which are here assumed to preserve distance and angles (and therefore shapes generally). Reflections and rotations each explain a particular type of symmetry, and the symmetries of an object offer insight into its attributes&amp;mdash;as when the reflective symmetry of an isosceles triangle assures that its base angles are congruent.&lt;/p&gt;
+&lt;p&gt;In the approach taken here, two geometric figures are defined to be congruent if there is a sequence of rigid motions that carries one onto the other. This is the principle of superposition. For triangles, congruence means the equality of all corresponding pairs of sides and all corresponding pairs of angles. During the middle grades, through experiences drawing triangles from given conditions, students notice ways to specify enough measures in a triangle to ensure that all triangles drawn with those measures are congruent. Once these triangle congruence criteria (ASA, SAS, and SSS) are established using rigid motions, they can be used to prove theorems about triangles, quadrilaterals, and other geometric figures.&lt;/p&gt;
+&lt;p&gt;Similarity transformations (rigid motions followed by dilations) define similarity in the same way that rigid motions define congruence, thereby formalizing the similarity ideas of &amp;quot;same shape&amp;quot; and &amp;quot;scale factor&amp;quot; developed in the middle grades. These transformations lead to the criterion for triangle similarity that two pairs of corresponding angles are congruent.&lt;/p&gt;
+&lt;p&gt;The definitions of sine, cosine, and tangent for acute angles are founded on right triangles and similarity, and, with the Pythagorean Theorem, are fundamental in many real-world and theoretical situations. The Pythagorean Theorem is generalized to non-right triangles by the Law of Cosines. Together, the Laws of Sines and Cosines embody the triangle congruence criteria for the cases where three pieces of information suffice to completely solve a triangle. Furthermore, these laws yield two possible solutions in the ambiguous case, illustrating that Side-Side-Angle is not a congruence criterion.Analytic geometry connects algebra and geometry, resulting in powerful methods of analysis and problem solving. Just as the number line associates numbers with locations in one dimension, a pair of perpendicular axes associates pairs of numbers with locations in two dimensions. This correspondence between numerical coordinates and geometric points allows methods from algebra to be applied to geometry and vice versa. The solution set of an equation becomes a geometric curve, making visualization a tool for doing and understanding algebra. Geometric shapes can be described by equations, making algebraic manipulation into a tool for geometric understanding,&amp;nbsp; odeling, and proof. Geometric transformations of the graphs of equations correspond to algebraic changes in their equations.&lt;/p&gt;
+&lt;p&gt;Dynamic geometry environments provide students with experimental and modeling tools that allow them to investigate geometric phenomena in much the same way as computer algebra systems allow them to experiment with algebraic phenomena.&lt;/p&gt;
+
+&lt;h3&gt;Connections to Equations&lt;/h3&gt;
+&lt;p&gt;The correspondence between numerical coordinates and geometric points allows methods from algebra to be applied to geometry and vice versa. The solution set of an equation becomes a geometric curve, making visualization a tool for doing and understanding algebra. Geometric shapes can be described by equations, making algebraic manipulation into a tool for geometric understanding, modeling, and proof.&lt;/p&gt;
+
+&lt;h2&gt;Geometry Overview&lt;/h2&gt;
+
+&lt;h3&gt;Congruence&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Experiment with transformations in the plane&lt;/li&gt;
+  &lt;li&gt;Understand congruence in terms of rigid motions&lt;/li&gt;
+  &lt;li&gt;Prove geometric theorems&lt;/li&gt;
+  &lt;li&gt;Make geometric constructions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Similarity, Right Triangles, and Trigonometry&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understand similarity in terms of similarity transformations&lt;/li&gt;
+  &lt;li&gt;Prove theorems involving similarity&lt;/li&gt;
+  &lt;li&gt;Define trigonometric ratios and solve problems involving right triangles&lt;/li&gt;
+  &lt;li&gt;Apply trigonometry to general triangles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Circles&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understand and apply theorems about circles&lt;/li&gt;
+  &lt;li&gt;Find arc lengths and areas of sectors of circles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Expressing Geometric Properties with Equations&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Translate between the geometric description and the equation for a conic section&lt;/li&gt;
+  &lt;li&gt;Use coordinates to prove simple geometric theorems algebraically&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Geometric Measurement and Dimension&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Explain volume formulas and use them to solve problems&lt;/li&gt;
+  &lt;li&gt;Visualize relationships between two-dimensional and three-dimensional objects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Modeling with Geometry&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Apply geometric concepts in modeling situations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mathematical Practices&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Make sense of problems and persevere in solving them.&lt;/li&gt;
+  &lt;li&gt;Reason abstractly and quantitatively.&lt;/li&gt;
+  &lt;li&gt;Construct viable arguments and critique the reasoning of others.&lt;/li&gt;
+  &lt;li&gt;Model with mathematics.&lt;/li&gt;
+  &lt;li&gt;Use appropriate tools strategically.&lt;/li&gt;
+  &lt;li&gt;Attend to precision.&lt;/li&gt;
+  &lt;li&gt;Look for and make use of structure.&lt;/li&gt;
+  &lt;li&gt;Look for and express regularity in repeated reasoning.&lt;/li&gt;
+&lt;/ol&gt;</content>
+  <date>2014-02-15 19:11:47 UTC</date>
+</page>

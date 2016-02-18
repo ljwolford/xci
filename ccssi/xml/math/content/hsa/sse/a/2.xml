@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="DE5D310B24EA4A7398462924C80EC4BA">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the structure of an expression to identify ways to rewrite it. &lt;i&gt;For example, see x&lt;sup&gt;4&lt;/sup&gt; - y&lt;sup&gt;4&lt;/sup&gt; as (x&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; - (y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;, thus recognizing it as a difference of squares that can be factored as (x&lt;sup&gt;2&lt;/sup&gt; - y&lt;sup&gt;2&lt;/sup&gt;)(x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt;)&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">16247FEF153B4404A115600AF3C81E03</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C3AE47EBADAC4FD3806961236A97793F">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize area as an attribute of plane figures and understand concepts of area measurement.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">834B17E279C64263AA83F7625F5D2993</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>F82EDE7D54704B7F97AB74D10A56D228</Child>
+      <Child>F0B097C190F4482BA735FEC560DA0A7F</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F82EDE7D54704B7F97AB74D10A56D228">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A square with side length 1 unit, called "a unit square," is said to have "one square unit" of area, and can be used to measure area.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C3AE47EBADAC4FD3806961236A97793F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F0B097C190F4482BA735FEC560DA0A7F">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A plane figure which can be covered without gaps or overlaps by &lt;i&gt;n&lt;/i&gt; unit squares is said to have an area of &lt;i&gt;n&lt;/i&gt; square units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C3AE47EBADAC4FD3806961236A97793F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E0F954B85C7648AFBC3E993420559C1B">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Measure areas by counting unit squares (square cm, square m, square in, square ft, and improvised units).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">834B17E279C64263AA83F7625F5D2993</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DB1670D9BA2E4F6BA040EEA5EE826670">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Relate area to the operations of multiplication and addition.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">834B17E279C64263AA83F7625F5D2993</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>83167CA50D1442788B85C6140A20E39D</Child>
+      <Child>C18643B92D4D47398EC8F283A2947631</Child>
+      <Child>4E5415C8BEA348EEA13B1A1C825A5036</Child>
+      <Child>B0DFFB3792F84CDAACFF99CE6F0381C6</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="83167CA50D1442788B85C6140A20E39D">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/7/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.7a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find the area of a rectangle with whole-number side lengths by tiling it, and show that the area is the same as would be found by multiplying the side lengths.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DB1670D9BA2E4F6BA040EEA5EE826670</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C18643B92D4D47398EC8F283A2947631">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Multiply side lengths to find areas of rectangles with whole-number side lengths in the context of solving real world and mathematical problems, and represent whole-number products as rectangular areas in mathematical reasoning.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DB1670D9BA2E4F6BA040EEA5EE826670</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4E5415C8BEA348EEA13B1A1C825A5036">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/7/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.7c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt; + &lt;i&gt;c&lt;/i&gt; is the sum of &lt;i&gt;a&lt;/i&gt; &amp;times; &lt;i&gt;b&lt;/i&gt; and &lt;i&gt;a&lt;/i&gt; &amp;times; &lt;i&gt;c&lt;/i&gt;. Use area models to represent the distributive property in mathematical reasoning.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DB1670D9BA2E4F6BA040EEA5EE826670</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B0DFFB3792F84CDAACFF99CE6F0381C6">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/7/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.7d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize area as additive. Find areas of rectilinear figures by decomposing them into non-overlapping rectangles and adding the areas of the non-overlapping parts, applying this technique to solve real world problems.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DB1670D9BA2E4F6BA040EEA5EE826670</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

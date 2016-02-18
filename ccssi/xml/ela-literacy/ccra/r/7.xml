@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="45470757A91A4f10BD96F48F23C5F7E2">
+    <RefURI>http://corestandards.org/ELA-Literacy/CCRA/R/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.CCRA.R.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+      <GradeLevel>01</GradeLevel>
+      <GradeLevel>02</GradeLevel>
+      <GradeLevel>03</GradeLevel>
+      <GradeLevel>04</GradeLevel>
+      <GradeLevel>05</GradeLevel>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+  </LearningStandardItem>
+</LearningStandards>

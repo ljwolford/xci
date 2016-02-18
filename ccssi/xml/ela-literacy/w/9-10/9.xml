@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="B99916F9E70242d1AD8F2C7943182C08">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/9-10/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.9-10.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Draw evidence from literary or informational texts to support analysis, reflection, and research.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">CD2A3CFC8B704a41804CFABB3CB33CD3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>DF051CB6820849ea93C1358DF961829D</Child>
+      <Child>12D5C7FACF834bfeA07DA5D24B518A9B</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DF051CB6820849ea93C1358DF961829D">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/9-10/9/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.9-10.9a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply &lt;i&gt;grades 9-10 Reading standards&lt;/i&gt; to literature (e.g., "Analyze how an author draws on and transforms source material in a specific work [e.g., how Shakespeare treats a theme or topic from Ovid or the Bible or how a later author draws on a play by Shakespeare]").</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B99916F9E70242d1AD8F2C7943182C08</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="12D5C7FACF834bfeA07DA5D24B518A9B">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/9-10/9/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.9-10.9b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply &lt;i&gt;grades 9-10 Reading standards&lt;/i&gt; to literary nonfiction (e.g., "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is valid and the evidence is relevant and sufficient; identify false statements and fallacious reasoning").</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B99916F9E70242d1AD8F2C7943182C08</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

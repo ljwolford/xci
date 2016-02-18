@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="5AA07FB2E9934DCAB59F4AE0D1624C8B">
+    <RefURI>http://corestandards.org/Math/Content/4/NF/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.4.NF.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand a fraction &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; as a multiple of 1/&lt;i&gt;b&lt;/i&gt;. &lt;i&gt;For example, use a visual fraction model to represent 5/4 as the product 5 &amp;times; (1/4), recording the conclusion by the equation 5/4 = 5 &amp;times; (1/4)&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D7B0A4C892974E05B3789666B34F8C50</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

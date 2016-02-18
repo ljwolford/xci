@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="0FD052F169B04888A6259C2A5D126892">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret division of a whole number by a unit fraction, and compute such quotients. &lt;i&gt;For example, create a story context for 4 &amp;divide; (1/5), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that 4 &amp;divide; (1/5) = 20 because 20 &amp;times; (1/5) = 4&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6662A64E904C4480B0940FA7F7EAE5BC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

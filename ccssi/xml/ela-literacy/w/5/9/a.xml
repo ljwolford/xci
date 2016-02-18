@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="F6C23F871E714b18A63D62BC876DEA9F">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/9/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.9a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply &lt;i&gt;grade 5 Reading standards&lt;/i&gt; to literature (e.g., "Compare and contrast two or more characters, settings, or events in a story or a drama, drawing on specific details in the text [e.g., how characters interact]").</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">1F660FD3F00148cdA44B0D5BC3B48218</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

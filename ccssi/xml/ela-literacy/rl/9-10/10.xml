@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="FE2EDB35E84A4a918254065AEE033AA6">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/9-10/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.9-10.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>&lt;p&gt;By the end of grade 9, read and comprehend literature, including stories, dramas, and poems, in the grades 9-10 text complexity band proficiently, with scaffolding as needed at the high end of the range.&lt;/p&gt;
+
+&lt;p&gt;By the end of grade 10, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 9-10 text complexity band independently and proficiently.&lt;/p&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DBFA53FE7E3746cc8D762EA5A278EE9E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

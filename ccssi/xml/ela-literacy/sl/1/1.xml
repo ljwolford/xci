@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="14BCFED58745444588E0F1E24E6844D8">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/1/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.1.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Participate in collaborative conversations with diverse partners about &lt;i&gt;grade 1 topics and texts&lt;/i&gt; with peers and adults in small and larger groups.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E64E3051D7AC472a962462A69600C63E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>31B991750C6C44bf87FB225613634AF8</Child>
+      <Child>50099228DF4B4023AB83F7289D75B1E4</Child>
+      <Child>3748A21AC5BA4441973C6825F396BC40</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="31B991750C6C44bf87FB225613634AF8">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/1/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.1.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Follow agreed-upon rules for discussions (e.g., listening to others with care, speaking one at a time about the topics and texts under discussion).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">14BCFED58745444588E0F1E24E6844D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="50099228DF4B4023AB83F7289D75B1E4">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/1/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.1.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Build on others' talk in conversations by responding to the comments of others through multiple exchanges.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">14BCFED58745444588E0F1E24E6844D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3748A21AC5BA4441973C6825F396BC40">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/1/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.1.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Ask questions to clear up any confusion about the topics and texts under discussion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">14BCFED58745444588E0F1E24E6844D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="B52AE5C8C02746a5AEE3C6F873937209">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/4/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.4.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Link ideas within categories of information using words and phrases (e.g., &lt;i&gt;another&lt;/i&gt;, &lt;i&gt;for example&lt;/i&gt;, &lt;i&gt;also&lt;/i&gt;, &lt;i&gt;because&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">18080C7AD04A43558AEB1F67C92CF72F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

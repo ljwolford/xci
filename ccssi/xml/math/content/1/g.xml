@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="695C21D7C2ED45838FDDBBA3E48FDF14">
+    <RefURI>http://corestandards.org/Math/Content/1/G/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.G.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Distinguish between defining attributes (e.g., triangles are closed and three-sided) versus non-defining attributes (e.g., color, orientation, overall size); build and draw shapes to possess defining attributes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">17A1459188434C839096339B99C457B1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F48B95FFE5F9481086A6668B635A07F5">
+    <RefURI>http://corestandards.org/Math/Content/1/G/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.G.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compose two-dimensional shapes (rectangles, squares, trapezoids, triangles, half-circles, and quarter-circles) or three-dimensional shapes (cubes, right rectangular prisms, right circular cones, and right circular cylinders) to create a composite shape, and compose new shapes from the composite shape.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">17A1459188434C839096339B99C457B1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C4D09FCFEBA140FDB513430B4C182C3F">
+    <RefURI>http://corestandards.org/Math/Content/1/G/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.G.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Partition circles and rectangles into two and four equal shares, describe the shares using the words &lt;i&gt;halves&lt;/i&gt;, &lt;i&gt;fourths&lt;/i&gt;, and &lt;i&gt;quarters&lt;/i&gt;, and use the phrases &lt;i&gt;half of&lt;/i&gt;, &lt;i&gt;fourth of&lt;/i&gt;, and &lt;i&gt;quarter of&lt;/i&gt;. Describe the whole as two of, or four of the shares. Understand for these examples that decomposing into more equal shares creates smaller shares.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">17A1459188434C839096339B99C457B1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

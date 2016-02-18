@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C67462424FF44231B0500E71BC10F76D">
+    <RefURI>http://corestandards.org/Math/Content/HSS/CP/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSS-CP.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that two events &lt;i&gt;A&lt;/i&gt; and &lt;i&gt;B&lt;/i&gt; are independent if the probability of &lt;i&gt;A&lt;/i&gt; and &lt;i&gt;B&lt;/i&gt; occurring together is the product of their probabilities, and use this characterization to determine if they are independent.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EAD8FB0CC6514306B4018FF8AA698AFC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="217B91B942D647F6B3E78E4B3FC90196">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Know and apply the Binomial Theorem for the expansion of (&lt;i&gt;x&lt;/i&gt; + &lt;i&gt;y&lt;/i&gt;)&lt;sup&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sup&gt; in powers of &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt; for a positive integer &lt;i&gt;n&lt;/i&gt;, where &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt; are any numbers, with coefficients determined for example by Pascal's Triangle.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A2539A99653A47DBAFA1740D2F0BE124</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

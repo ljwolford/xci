@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>2643</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Table 3</title>
+  <content>The properties of operations. Here a, b and c stand for arbitrary numbers in a given number system. The properties of operations apply to the rational number system, the real number system, and the complex number.&#13;
+&lt;div class="table-2-columns-container"&gt;&#13;
+&lt;table width="100%" border="0"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Associative property of addition&lt;/td&gt;&#13;
+&lt;td&gt;(a +b) + c = a + (b+c)&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Commutative property of addition&lt;/td&gt;&#13;
+&lt;td&gt;a + b = b + a&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Additive identity property of 0&lt;/td&gt;&#13;
+&lt;td&gt;a + 0 = 0 + a = a&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Existence of additive inverses&lt;/td&gt;&#13;
+&lt;td&gt;For every &lt;em&gt;a&lt;/em&gt; there exists &lt;em&gt;-a&lt;/em&gt; so that a + (-a) = (-a) + a = 0&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Associative property of multiplication&lt;/td&gt;&#13;
+&lt;td&gt;(a x b) x c = a x (b x c)&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Commutative property of multplication&lt;/td&gt;&#13;
+&lt;td&gt;a x b = b x a&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Multiplicative identity property 1&lt;/td&gt;&#13;
+&lt;td&gt;a x 1 = 1 x a = a&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Existence of multiplicative inverses&lt;/td&gt;&#13;
+&lt;td&gt;For every &lt;em&gt;a&lt;/em&gt; = 0 there exists 1/&lt;em&gt;a&lt;/em&gt; so that &lt;em&gt;a&lt;/em&gt; x 1/&lt;em&gt;a&lt;/em&gt; = 1/&lt;em&gt;a&lt;/em&gt; x &lt;em&gt;a&lt;/em&gt; = 1&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Distributive propery of multiplication over additions&lt;/td&gt;&#13;
+&lt;td&gt;a x (b + c) = a x b + a x c&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/div&gt;</content>
+  <date>2014-06-17 12:02:21 UTC</date>
+</page>

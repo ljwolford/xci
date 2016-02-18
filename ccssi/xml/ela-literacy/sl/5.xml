@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="2582C182E21641eeB3EF44AB2D38F717">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on &lt;em&gt;grade 5 topics and texts&lt;/em&gt;, building on others' ideas and expressing their own clearly.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>4C099B6873A14f5e8D4252E141B8B874</Child>
+      <Child>A24AAF9C6B0E4e5eA3F29E9CEC6EF415</Child>
+      <Child>0AE1E34097564f3aA400B7432D1E216E</Child>
+      <Child>1F161436E4364308B4311EDA44FD9187</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4C099B6873A14f5e8D4252E141B8B874">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2582C182E21641eeB3EF44AB2D38F717</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A24AAF9C6B0E4e5eA3F29E9CEC6EF415">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Follow agreed-upon rules for discussions and carry out assigned roles.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2582C182E21641eeB3EF44AB2D38F717</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0AE1E34097564f3aA400B7432D1E216E">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Pose and respond to specific questions by making comments that contribute to the discussion and elaborate on the remarks of others.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2582C182E21641eeB3EF44AB2D38F717</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1F161436E4364308B4311EDA44FD9187">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Review the key ideas expressed and draw conclusions in light of information and knowledge gained from the discussions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2582C182E21641eeB3EF44AB2D38F717</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F06E4DD2FD594e61A493047B7ABDD1BC">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Summarize a written text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C9C7E863FA784cbb98C35FC65CD5BF88">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Summarize the points a speaker makes and explain how each claim is supported by reasons and evidence.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="870FD885576946cf855F282E97E6179B">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F2B8AA5D9F0D42049B5618690143B054">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Include multimedia components (e.g., graphics, sound) and visual displays in presentations when appropriate to enhance the development of main ideas or themes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="81EB4AA30CA141ccBC96550D8A3BE0C6">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Adapt speech to a variety of contexts and tasks, using formal English when appropriate to task and situation. (See grade 5 Language standards 1 and
+3 [link to="CCSS.ELA-Literacy.L.5"]here[/link] for specific expectations.)</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

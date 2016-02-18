@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="800715566B824BB3A5A8C464E961C2B4">
+    <RefURI>http://corestandards.org/Math/Content/2/OA/B/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.2.OA.B.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Fluently add and subtract within 20 using mental strategies.&lt;sup&gt;2&lt;/sup&gt; By end of Grade 2, know from memory all sums of two one-digit numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">21FF72D85AF248E28B8AD028ABF94DDE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

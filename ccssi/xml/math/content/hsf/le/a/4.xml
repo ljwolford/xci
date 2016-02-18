@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="69E7CE927BB04137A41E2065D3F27FFD">
+    <RefURI>http://corestandards.org/Math/Content/HSF/LE/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-LE.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>For exponential models, express as a logarithm the solution to &lt;i&gt;ab&lt;sup&gt;ct&lt;/sup&gt;&lt;/i&gt; = &lt;i&gt;d&lt;/i&gt; where &lt;i&gt;a&lt;/i&gt;, &lt;i&gt;c&lt;/i&gt;, and &lt;i&gt;d&lt;/i&gt; are numbers and the base &lt;i&gt;b&lt;/i&gt; is 2, 10, or &lt;i&gt;e&lt;/i&gt;; evaluate the logarithm using technology.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">EA31B803149948c1AB6FCB71C7EE6E23</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

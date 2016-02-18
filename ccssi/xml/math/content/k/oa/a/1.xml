@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C815B29CD8F546BBBB4C647B9D163942">
+    <RefURI>http://corestandards.org/Math/Content/K/OA/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.OA.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent addition and subtraction with objects, fingers, mental images, drawings&lt;sup&gt;1&lt;/sup&gt;, sounds (e.g., claps), acting out situations, verbal explanations, expressions, or equations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E754542E6C144EEC8D7E332063FF4F67</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

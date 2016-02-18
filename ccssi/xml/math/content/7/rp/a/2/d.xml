@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C2918ADA67414c57AC6A37C2F3BB7815">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain what a point (&lt;i&gt;x&lt;/i&gt;, &lt;i&gt;y&lt;/i&gt;) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, &lt;i&gt;r&lt;/i&gt;) where r is the unit rate.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

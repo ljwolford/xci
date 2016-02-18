@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="F80C5C1C8625463a9EB144BB691CEC78">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/4/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.4.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write opinion pieces on topics or texts, supporting a point of view with reasons and information.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B21363CEEE1E4cd681C412FA0C1BBB86</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>7270524EFB754fdf81BB567C5BAE0B02</Child>
+      <Child>3295F18F026147088BDCD2AAB678C537</Child>
+      <Child>E7793634B5DD44a4AC3134B657231875</Child>
+      <Child>30CD4BC6556A4c7082D881F59002ABB7</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7270524EFB754fdf81BB567C5BAE0B02">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/4/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.4.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Introduce a topic or text clearly, state an opinion, and create an organizational structure in which related ideas are grouped to support the writer's purpose.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F80C5C1C8625463a9EB144BB691CEC78</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3295F18F026147088BDCD2AAB678C537">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/4/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.4.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide reasons that are supported by facts and details.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F80C5C1C8625463a9EB144BB691CEC78</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E7793634B5DD44a4AC3134B657231875">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/4/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.4.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Link opinion and reasons using words and phrases (e.g., &lt;i&gt;for instance&lt;/i&gt;, &lt;i&gt;in order to&lt;/i&gt;, &lt;i&gt;in addition&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F80C5C1C8625463a9EB144BB691CEC78</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="30CD4BC6556A4c7082D881F59002ABB7">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/4/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.4.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a concluding statement or section related to the opinion presented.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F80C5C1C8625463a9EB144BB691CEC78</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

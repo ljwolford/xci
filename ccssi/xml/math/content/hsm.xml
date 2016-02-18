@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1870</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>High School: Modeling</title>
+  <content>&lt;p&gt;Modeling links classroom mathematics and statistics to everyday life, work, and decision-making. Modeling is the process of choosing and using appropriate mathematics and statistics to analyze empirical situations, to understand them better, and to improve decisions. Quantities and their relationships in physical, economic, public policy, social, and everyday situations can be modeled using mathematical and statistical methods. When making mathematical models, technology is valuable for varying assumptions, exploring consequences, and comparing predictions with data.&lt;/p&gt;
+&lt;p&gt;A model can be very simple, such as writing total cost as a product of unit price and number bought, or using a geometric shape to describe a physical object like a coin. Even such simple models involve making choices. It is up to us whether to model a coin as a three-dimensional cylinder, or whether a two-dimensional disk works well enough for our purposes. Other situations&amp;mdash;modeling a delivery route, a production schedule, or a comparison of loan amortizations&amp;mdash;need more elaborate models that use other tools from the mathematical sciences. Real-world situations are not organized and labeled for analysis; formulating tractable models, representing such models, and analyzing them is appropriately a creative process. Like every such process, this depends on acquired expertise as well as creativity.Some examples of such situations might include:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;Estimating how much water and food is needed for emergency relief in a devastated city of 3 million people, and how it might be distributed.&lt;/li&gt;
+    &lt;li&gt;Planning a table tennis tournament for 7 players at a club with 4 tables, where each player plays against each other player.&lt;/li&gt;
+    &lt;li&gt;Designing the layout of the stalls in a school fair so as to raise as much money as possible.&lt;/li&gt;
+    &lt;li&gt;Analyzing stopping distance for a car.&lt;/li&gt;
+    &lt;li&gt;Modeling savings account balance, bacterial colony growth, or investment growth.&lt;/li&gt;
+    &lt;li&gt;Engaging in critical path analysis, e.g., applied to turnaround of an aircraft at an airport.&lt;/li&gt;
+    &lt;li&gt;Analyzing risk in situations such as extreme sports, pandemics, and terrorism.&lt;/li&gt;
+    &lt;li&gt;Relating population statistics to individual predictions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In situations like these, the models devised depend on a number of factors: How precise an answer do we want or need? What aspects of the situation do we most need to understand, control, or optimize? What resources of time and tools do we have? The range of models that we can create and analyze is also constrained by the limitations of our mathematical, statistical, and technical skills, and our ability to recognize significant variables and relationships among them. Diagrams of various kinds, spreadsheets and other technology, and algebra are powerful tools for understanding and solving problems drawn from different types of real-world situations.&lt;/p&gt;
+&lt;p&gt;One of the insights provided by mathematical modeling is that essentially the same mathematical or statistical structure can sometimes model seemingly different situations. Models can also shed light on the mathematical structures themselves, for example, as when a model of bacterial growth makes more vivid the explosive growth of the exponential function.&lt;/p&gt;
+&lt;p&gt;The basic modeling cycle is summarized in the diagram. It involves (1) identifying variables in the situation and selecting those that represent essential features, (2) formulating a model by creating and selecting geometric, graphical, tabular, algebraic, or statistical representations that describe relationships between the variables, (3) analyzing and performing operations on these relationships to draw conclusions, (4) interpreting the results of the mathematics in terms of the original situation, (5) validating the conclusions by comparing them with the situation, and then either improving the model or, if it is acceptable, (6) reporting on the conclusions and the reasoning behind them.&lt;/p&gt;
+
+&lt;h2&gt;Choices, assumptions, and approximations are present throughout this cycle.&lt;/h2&gt;
+&lt;p&gt;In descriptive modeling, a model simply describes the phenomena or summarizes them in a compact form. Graphs of observations are a familiar descriptive model&amp;mdash;for example, graphs of global temperature and atmospheric CO2 over time. Analytic modeling seeks to explain data on the basis of deeper theoretical ideas, albeit with parameters that are empirically based; for example, exponential growth of bacterial colonies (until cut-off mechanisms such as pollution or starvation intervene) follows from a constant reproduction rate. Functions are an important tool for analyzing such problems.&lt;/p&gt;
+&lt;p&gt;Graphing utilities, spreadsheets, computer algebra systems, and dynamic geometry software are powerful tools that can be used to model purely mathematical phenomena (e.g., the behavior of polynomials) as well as physical phenomena.&lt;/p&gt;
+&lt;h2&gt;Modeling Standards&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Modeling is best interpreted not as a collection of isolated topics but rather in relation to other standards. Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards appear throughout the high school standards indicated by a star symbol&lt;/i&gt; (*).&lt;/p&gt;</content>
+  <date>2014-02-15 19:11:47 UTC</date>
+</page>

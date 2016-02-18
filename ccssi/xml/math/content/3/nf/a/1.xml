@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="EFC133CD8D34442CA35311157F372C97">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand a fraction 1/&lt;i&gt;b&lt;/i&gt; as the quantity formed by 1 part when a whole is partitioned into &lt;i&gt;b&lt;/i&gt; equal parts; understand a fraction &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; as the quantity formed by &lt;i&gt;a&lt;/i&gt; parts of size 1/&lt;i&gt;b&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FB0C3EF6E0254112BE3E1A3B3BBE691C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

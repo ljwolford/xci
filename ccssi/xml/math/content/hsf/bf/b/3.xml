@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="6FAED174A2944dfeAA00D24C2CFBE708">
+    <RefURI>http://corestandards.org/Math/Content/HSF/BF/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-BF.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify the effect on the graph of replacing &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) by &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) + &lt;i&gt;k&lt;/i&gt;,&lt;i&gt; k&lt;/i&gt; &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;kx&lt;/i&gt;), and &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt; + &lt;i&gt;k&lt;/i&gt;) for specific values of &lt;i&gt;k&lt;/i&gt; (both positive and negative); find the value of &lt;i&gt;k&lt;/i&gt; given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0D80A8E0EDC34cfeA85B47771F813955</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

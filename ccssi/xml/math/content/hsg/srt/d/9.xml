@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="01CDBE322105436687A53BB97574B14C">
+    <RefURI>http://corestandards.org/Math/Content/HSG/SRT/D/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSG-SRT.D.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Derive the formula &lt;i&gt;A&lt;/i&gt; = 1/2 &lt;i&gt;ab&lt;/i&gt; sin(C) for the area of a triangle by drawing an auxiliary line from a vertex perpendicular to the opposite side.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F892626502934381A5369630B6D847AA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

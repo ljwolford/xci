@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="024460620E624fb2BADC665C38AC3981">
+    <RefURI>http://corestandards.org/Math/Content/HSF/IF/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-IF.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. If &lt;i&gt;f&lt;/i&gt; is a function and &lt;i&gt;x&lt;/i&gt; is an element of its domain, then &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) denotes the output of &lt;i&gt;f&lt;/i&gt; corresponding to the input &lt;i&gt;x&lt;/i&gt;. The graph of &lt;i&gt;f&lt;/i&gt; is the graph of the equation &lt;i&gt;y&lt;/i&gt; = &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">59E4F5F26EF044869249ED3E7CC0AD95</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

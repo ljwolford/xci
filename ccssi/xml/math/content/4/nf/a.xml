@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="138DC8D66B4545BB92DA44D6C78205DD">
+    <RefURI>http://corestandards.org/Math/Content/4/NF/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.4.NF.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain why a fraction &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; is equivalent to a fraction (&lt;i&gt;n&lt;/i&gt; &amp;times; &lt;i&gt;a&lt;/i&gt;)/(&lt;i&gt;n&lt;/i&gt; &amp;times; &lt;i&gt;b&lt;/i&gt;) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5E9ED66B8DBE490EB71B397896148D60</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="72F5C564F8744643B0876628789CFBC4">
+    <RefURI>http://corestandards.org/Math/Content/4/NF/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.4.NF.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols &amp;gt;, =, or &amp;lt;, and justify the conclusions, e.g., by using a visual fraction model.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5E9ED66B8DBE490EB71B397896148D60</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

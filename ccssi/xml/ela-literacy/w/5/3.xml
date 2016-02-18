@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="6C69127F1C5B437c9B964EA3E8DC51EF">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3D64687303A2475eA391F0680C920B6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>0D56E370692F451d8E485C85C9C8AF63</Child>
+      <Child>C8396BF5F1CA4f1b89DC76E3766EFDF1</Child>
+      <Child>AB17B90F2D0F433bBC5F33F67BA2CA4B</Child>
+      <Child>80FB8D1087C54d2aAD1DF095A279A0C9</Child>
+      <Child>DD5E4723177041b0B4854DECB88B9BDD</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0D56E370692F451d8E485C85C9C8AF63">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6C69127F1C5B437c9B964EA3E8DC51EF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C8396BF5F1CA4f1b89DC76E3766EFDF1">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use narrative techniques, such as dialogue, description, and pacing, to develop experiences and events or show the responses of characters to situations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6C69127F1C5B437c9B964EA3E8DC51EF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AB17B90F2D0F433bBC5F33F67BA2CA4B">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use a variety of transitional words, phrases, and clauses to manage the sequence of events.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6C69127F1C5B437c9B964EA3E8DC51EF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="80FB8D1087C54d2aAD1DF095A279A0C9">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/3/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.3d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use concrete words and phrases and sensory details to convey experiences and events precisely.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6C69127F1C5B437c9B964EA3E8DC51EF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DD5E4723177041b0B4854DECB88B9BDD">
+    <RefURI>http://corestandards.org/ELA-Literacy/W/5/3/e/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.W.5.3e</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Provide a conclusion that follows from the narrated experiences or events.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6C69127F1C5B437c9B964EA3E8DC51EF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

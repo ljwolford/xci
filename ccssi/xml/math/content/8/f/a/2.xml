@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C664AE63D0664AC480941A65A0C8C8A6">
+    <RefURI>http://corestandards.org/Math/Content/8/F/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.F.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). &lt;i&gt;For example, given a linear function represented by a table of values and a linear function represented by an algebraic expression, determine which function has the greater rate of change&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B9013BEAF8364E749A2E6C67FDA59EE5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="4E5415C8BEA348EEA13B1A1C825A5036">
+    <RefURI>http://corestandards.org/Math/Content/3/MD/C/7/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.MD.C.7c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt; + &lt;i&gt;c&lt;/i&gt; is the sum of &lt;i&gt;a&lt;/i&gt; &amp;times; &lt;i&gt;b&lt;/i&gt; and &lt;i&gt;a&lt;/i&gt; &amp;times; &lt;i&gt;c&lt;/i&gt;. Use area models to represent the distributive property in mathematical reasoning.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DB1670D9BA2E4F6BA040EEA5EE826670</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

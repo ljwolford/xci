@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="130F1CC227FF4C219095EC708C237FCD">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E67594E323034EDFAD123E9BC4B258BE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="666AA11DF39241C68112FFBE28D811C4">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E67594E323034EDFAD123E9BC4B258BE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1AE7958ADE2C41A3AF81ED2463DF4CAE">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/B/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.B.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real-world and mathematical problems by writing and solving equations of the form &lt;i&gt;x&lt;/i&gt; + &lt;i&gt;p&lt;/i&gt; = &lt;i&gt;q&lt;/i&gt; and&lt;i&gt; px&lt;/i&gt; = &lt;i&gt;q&lt;/i&gt; for cases in which &lt;i&gt;p&lt;/i&gt;, &lt;i&gt;q&lt;/i&gt; and &lt;i&gt;x&lt;/i&gt; are all nonnegative rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E67594E323034EDFAD123E9BC4B258BE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AC4D37B9DF88460E98D9B2B8B014BD72">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/B/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.B.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write an inequality of the form &lt;i&gt;x&lt;/i&gt; &amp;gt; &lt;i&gt;c&lt;/i&gt; or &lt;i&gt;x&lt;/i&gt; &amp;lt; &lt;i&gt;c&lt;/i&gt; to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form &lt;i&gt;x&lt;/i&gt; &amp;gt; &lt;i&gt;c&lt;/i&gt; or&lt;i&gt; x&lt;/i&gt; &amp;lt; c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E67594E323034EDFAD123E9BC4B258BE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

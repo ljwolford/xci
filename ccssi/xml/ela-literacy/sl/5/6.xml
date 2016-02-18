@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="81EB4AA30CA141ccBC96550D8A3BE0C6">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/5/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.5.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Adapt speech to a variety of contexts and tasks, using formal English when appropriate to task and situation. (See grade 5 Language standards 1 and
+3 [link to="CCSS.ELA-Literacy.L.5"]here[/link] for specific expectations.)</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A18E8A428B6142e5AF9C69119ECCD7C3</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

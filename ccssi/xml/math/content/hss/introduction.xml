@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1968</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Introduction</title>
+  <content>&lt;p&gt;Decisions or predictions are often based on data&amp;mdash;numbers in context. These decisions or predictions would be easy if the data always sent a clear message, but the message is often obscured by variability. Statistics provides tools for describing variability in data and for making informed decisions that take it into account.&lt;/p&gt;&#13;
+&lt;p&gt;Data are gathered, displayed, summarized, examined, and interpreted to discover patterns and deviations from patterns. Quantitative data can be described in terms of key characteristics: measures of shape, center, and spread. The shape of a data distribution might be described as symmetric, skewed, flat, or bell shaped, and it might be summarized by a statistic measuring center (such as mean or median) and a statistic measuring spread (such as standard deviation or interquartile range). Different distributions can be compared numerically using these statistics or compared visually using plots. Knowledge of center and spread are not enough to describe a distribution. Which statistics to compare, which plots to use, and what the results of a comparison might mean, depend on the question to be investigated and the real-life actions to be taken.&lt;/p&gt;&#13;
+&lt;p&gt;Randomization has two important uses in drawing statistical conclusions. First, collecting data from a random sample of a population makes it possible to draw valid conclusions about the whole population, taking variability into account. Second, randomly assigning individuals to different treatments allows a fair comparison of the effectiveness of those treatments. A statistically significant outcome is one that is unlikely to be due to chance alone, and this can be evaluated only under the condition of randomness. The conditions under which data are collected are important in drawing conclusions from the data; in critically reviewing uses of statistics in public media and other reports, it is important to consider the study design, how the data were gathered, and the analyses employed as well as the data summaries and the conclusions drawn.&lt;/p&gt;&#13;
+&lt;p&gt;Random processes can be described mathematically by using a probability model: a list or description of the possible outcomes (the sample space), each of which is assigned a probability. In situations such as flipping a coin, rolling a number cube, or drawing a card, it might be reasonable to assume various outcomes are equally likely. In a probability model, sample points represent outcomes and combine to make up events; probabilities of events can be computed by applying the Addition and Multiplication Rules. Interpreting these probabilities relies on an understanding of independence and conditional probability, which can be approached through the analysis of two-way tables.&lt;/p&gt;&#13;
+&lt;p&gt;Technology plays an important role in statistics and probability by making it possible to generate plots, regression functions, and correlation coefficients, and to simulate many possible outcomes in a short amount of time.&lt;/p&gt;&#13;
+&lt;h3&gt;Connections to Functions and Modeling&lt;/h3&gt;&#13;
+&lt;p&gt;Functions may be used to describe data; if the data suggest a linear relationship, the relationship can be modeled with a regression line, and its strength and direction can be expressed through a correlation coefficient.&lt;/p&gt;&#13;
+&#13;
+&lt;h2&gt;Statistics &amp;amp; Probability Overview&lt;/h2&gt;&#13;
+&#13;
+&lt;h3&gt;Interpreting Categorical and Quantitative Data&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;Summarize, represent, and interpret data on a single count or measurement variable&lt;/li&gt;&#13;
+  &lt;li&gt;Summarize, represent, and interpret data on two categorical and quantitative variables&lt;/li&gt;&#13;
+  &lt;li&gt;Interpret linear models&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Making Inferences and Justifying Conclusions&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;Understand and evaluate random processes underlying statistical experiments&lt;/li&gt;&#13;
+  &lt;li&gt;Make inferences and justify conclusions from sample surveys, experiments and observational studies&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Conditional Probability and the Rules of Probability&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;Understand independence and conditional probability and use them to interpret data&lt;/li&gt;&#13;
+  &lt;li&gt;Use the rules of probability to compute probabilities of compound events in a uniform probability model&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Using Probability to Make Decisions&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;Calculate expected values and use them to solve problems&lt;/li&gt;&#13;
+  &lt;li&gt;Use probability to evaluate outcomes of decisions&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Mathematical Practices&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+  &lt;li&gt;Make sense of problems and persevere in solving them.&lt;/li&gt;&#13;
+  &lt;li&gt;Reason abstractly and quantitatively.&lt;/li&gt;&#13;
+  &lt;li&gt;Construct viable arguments and critique the reasoning of others.&lt;/li&gt;&#13;
+  &lt;li&gt;Model with mathematics.&lt;/li&gt;&#13;
+  &lt;li&gt;Use appropriate tools strategically.&lt;/li&gt;&#13;
+  &lt;li&gt;Attend to precision.&lt;/li&gt;&#13;
+  &lt;li&gt;Look for and make use of structure.&lt;/li&gt;&#13;
+  &lt;li&gt;Look for and express regularity in repeated reasoning.&lt;/li&gt;&#13;
+&lt;/ol&gt;</content>
+  <date>2014-02-15 19:12:03 UTC</date>
+</page>

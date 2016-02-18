@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="5BD6F36D021A429E951EE42C678F1CF5">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the method of completing the square to transform any quadratic equation in &lt;i&gt;x&lt;/i&gt; into an equation of the form (&lt;i&gt;x&lt;/i&gt; - &lt;i&gt;p&lt;/i&gt;)&lt;sup&gt;2&lt;/sup&gt; = &lt;i&gt;q&lt;/i&gt; that has the same solutions. Derive the quadratic formula from this form.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">87B0241DE22D4A18943F3BC6CBF5DA82</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

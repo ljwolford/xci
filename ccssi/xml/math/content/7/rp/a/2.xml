@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="A57D2EDF9830409CB97D9F8DBD6763DD">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and represent proportional relationships between quantities.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">71C7D669B568463CB1189D089CF4C723</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>46FC84C961254E79BFBEE8399477632D</Child>
+      <Child>3ADAFFEF079D4FC3809513B650D91D9F</Child>
+      <Child>A0D3F72097A44707B921C2A4AD288AAE</Child>
+      <Child>C2918ADA67414c57AC6A37C2F3BB7815</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="46FC84C961254E79BFBEE8399477632D">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3ADAFFEF079D4FC3809513B650D91D9F">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A0D3F72097A44707B921C2A4AD288AAE">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent proportional relationships by equations. &lt;i&gt;For example, if total cost t is proportional to the number n of items purchased at a constant price p, the relationship between the total cost and the number of items can be expressed as t = pn&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C2918ADA67414c57AC6A37C2F3BB7815">
+    <RefURI>http://corestandards.org/Math/Content/7/RP/A/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.RP.A.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain what a point (&lt;i&gt;x&lt;/i&gt;, &lt;i&gt;y&lt;/i&gt;) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, &lt;i&gt;r&lt;/i&gt;) where r is the unit rate.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A57D2EDF9830409CB97D9F8DBD6763DD</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="D07C6A24D9F045EFACB20582472FC7EB">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the properties of exponents to transform expressions for exponential functions. &lt;i&gt;For example the expression 1.15&lt;sup&gt;t&lt;/sup&gt; can be rewritten as (1.15&lt;sup&gt;1/12&lt;/sup&gt;)&lt;sup&gt;12t&lt;/sup&gt; &amp;asymp; 1.012&lt;sup&gt;12t&lt;/sup&gt; to reveal the approximate equivalent monthly interest rate if the annual rate is 15%&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

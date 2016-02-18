@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="FBCBB7C696FE475695920CA622B1C85A">
+    <RefURI>http://corestandards.org/Math/Practice/MP7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Practice.MP7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>&lt;p&gt;Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 &amp;times; 8 equals the well remembered 7 &amp;times; 5 + 7 &amp;times; 3, in preparation for learning about the distributive property. In the expression &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; + 9&lt;i&gt;x&lt;/i&gt; + 14, older students can see the 14 as 2 &amp;times; 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 - 3(&lt;i&gt;x&lt;/i&gt; - &lt;i&gt;y&lt;/i&gt;)&lt;sup&gt;2&lt;/sup&gt; as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt;.&lt;/p&gt;
+</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+      <GradeLevel>01</GradeLevel>
+      <GradeLevel>02</GradeLevel>
+      <GradeLevel>03</GradeLevel>
+      <GradeLevel>04</GradeLevel>
+      <GradeLevel>05</GradeLevel>
+      <GradeLevel>06</GradeLevel>
+      <GradeLevel>07</GradeLevel>
+      <GradeLevel>08</GradeLevel>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FBCBB7C696FE475695920CA622B1C854</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1685</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Introduction</title>
+  <content>&lt;p&gt;In Grade 8, instructional time should focus on three critical areas: (1) formulating and reasoning about expressions and equations, including modeling an association in bivariate data with a linear equation, and solving linear equations and systems of linear equations; (2) grasping the concept of a function and using functions to describe quantitative relationships; (3) analyzing two- and three-dimensional space and figures using distance, angle, similarity, and congruence, and understanding and applying the Pythagorean Theorem.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    Students use linear equations and systems of linear equations to represent, analyze, and solve a variety of problems. Students recognize equations for proportions (&lt;i&gt;y&lt;/i&gt;/&lt;i&gt;x&lt;/i&gt; = &lt;i&gt;m&lt;/i&gt; or &lt;i&gt;y&lt;/i&gt; = &lt;i&gt;mx&lt;/i&gt;) as special linear equations (&lt;i&gt;y&lt;/i&gt; = &lt;i&gt;mx&lt;/i&gt; + &lt;i&gt;b&lt;/i&gt;), understanding that the constant of proportionality (&lt;i&gt;m&lt;/i&gt;) is the slope, and the graphs are lines through the origin. They understand that the slope (&lt;i&gt;m&lt;/i&gt;) of a line is a constant rate of change, so that if the input or &lt;i&gt;x&lt;/i&gt;-coordinate changes by an amount &lt;i&gt;A&lt;/i&gt;, the output or &lt;i&gt;y&lt;/i&gt;-coordinate changes by the amount &lt;i&gt;m&amp;middot;A&lt;/i&gt;. Students also use a linear equation to describe the association between two quantities in bivariate data (such as arm span vs. height for students in a classroom). At this grade, fitting the model, and assessing its fit to the data are done informally. Interpreting the model in the context of the data requires students to express a relationship between the two quantities in question and to interpret components of the relationship (such as slope and &lt;i&gt;y&lt;/i&gt;-intercept) in terms of the situation. &lt;br /&gt;
+    &lt;br /&gt;
+    Students strategically choose and efficiently implement procedures to solve linear equations in one variable, understanding that when they use the properties of equality and the concept of logical equivalence, they maintain the solutions of the original equation. Students solve systems of two linear equations in two variables and relate the systems to pairs of lines in the plane; these intersect, are parallel, or are the same line. Students use linear equations, systems of linear equations, linear functions, and their understanding of slope of a line to analyze situations and solve problems.&lt;/li&gt;
+  &lt;li&gt;Students grasp the concept of a function as a rule that assigns to each input exactly one output. They understand that functions describe situations where one quantity determines another. They can translate among representations and partial representations of functions (noting that tabular and graphical representations may be partial representations), and they describe how aspects of the function are reflected in the different representations.&lt;/li&gt;
+  &lt;li&gt;Students use ideas about distance and angles, how they behave under translations, rotations, reflections, and dilations, and ideas about congruence and similarity to describe and analyze two-dimensional figures and to solve problems. Students show that the sum of the angles in a triangle is the angle formed by a straight line, and that various configurations of lines give rise to similar triangles because of the angles created when a transversal cuts parallel lines. Students understand the statement of the Pythagorean Theorem and its converse, and can explain why the Pythagorean Theorem holds, for example, by decomposing a square in two different ways. They apply the Pythagorean Theorem to find distances between points on the coordinate plane, to find lengths, and to analyze polygons. Students complete their work on volume by solving problems involving cones, cylinders, and spheres.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Grade 8 Overview&lt;/h2&gt;
+
+&lt;h3&gt;The Number System&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Know that there are numbers that are not rational, and approximate them by rational numbers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Expressions and Equations&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Work with radicals and integer exponents.&lt;/li&gt;
+  &lt;li&gt;Understand the connections between proportional relationships, lines, and linear equations.&lt;/li&gt;
+  &lt;li&gt;Analyze and solve linear equations and pairs of simultaneous linear equations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Functions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Define, evaluate, and compare functions.&lt;/li&gt;
+  &lt;li&gt;Use functions to model relationships between quantities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Geometry&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understand congruence and similarity using physical models, transparencies, or geometry software.&lt;/li&gt;
+  &lt;li&gt;Understand and apply the Pythagorean Theorem.&lt;/li&gt;
+  &lt;li&gt;Solve real-world and mathematical problems involving volume of cylinders, cones and spheres.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Statistics and Probability&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Investigate patterns of association in bivariate data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mathematical Practices&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Make sense of problems and persevere in solving them.&lt;/li&gt;
+  &lt;li&gt;Reason abstractly and quantitatively.&lt;/li&gt;
+  &lt;li&gt;Construct viable arguments and critique the reasoning of others.&lt;/li&gt;
+  &lt;li&gt;Model with mathematics.&lt;/li&gt;
+  &lt;li&gt;Use appropriate tools strategically.&lt;/li&gt;
+  &lt;li&gt;Attend to precision.&lt;/li&gt;
+  &lt;li&gt;Look for and make use of structure.&lt;/li&gt;
+  &lt;li&gt;Look for and express regularity in repeated reasoning.&lt;/li&gt;
+&lt;/ol&gt;</content>
+  <date>2014-02-15 19:11:16 UTC</date>
+</page>

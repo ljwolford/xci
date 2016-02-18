@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="D55BE0EDAFBC47B0BBDB1B88F9DF8781">
+    <RefURI>http://corestandards.org/Math/Content/K/G/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe objects in the environment using names of shapes, and describe the relative positions of these objects using terms such as &lt;i&gt;above&lt;/i&gt;, &lt;i&gt;below&lt;/i&gt;, &lt;i&gt;beside&lt;/i&gt;, &lt;i&gt;in front of&lt;/i&gt;, &lt;i&gt;behind&lt;/i&gt;, and &lt;i&gt;next to&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B1AC98EADE4145689E70EEEBD9B8CC18</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4F0A52E0906841DFA13739BFC87B330B">
+    <RefURI>http://corestandards.org/Math/Content/K/G/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Correctly name shapes regardless of their orientations or overall size.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B1AC98EADE4145689E70EEEBD9B8CC18</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="01938BB1EE4E47319738DAC239A2B141">
+    <RefURI>http://corestandards.org/Math/Content/K/G/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify shapes as two-dimensional (lying in a plane, "flat") or three-dimensional ("solid").</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B1AC98EADE4145689E70EEEBD9B8CC18</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C712BAA86FEF4BFAB703AD2EB402B2DE">
+    <RefURI>http://corestandards.org/Math/Content/K/G/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze and compare two- and three-dimensional shapes, in different sizes and orientations, using informal language to describe their similarities, differences, parts (e.g., number of sides and vertices/"corners") and other attributes (e.g., having sides of equal length).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5F9DA7B7BFD04F33B5A925A4825B1DB1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="029C278A66E34C28B42161B49DFA773B">
+    <RefURI>http://corestandards.org/Math/Content/K/G/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Model shapes in the world by building shapes from components (e.g., sticks and clay balls) and drawing shapes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5F9DA7B7BFD04F33B5A925A4825B1DB1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B0D1D575B5E247988906DE33D93A156A">
+    <RefURI>http://corestandards.org/Math/Content/K/G/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compose simple shapes to form larger shapes. &lt;i&gt;For example, "Can you join these two triangles with full sides touching to make a rectangle&lt;/i&gt;?"</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5F9DA7B7BFD04F33B5A925A4825B1DB1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

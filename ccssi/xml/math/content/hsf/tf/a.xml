@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="AD929225303444039816AB290ECA8E44">
+    <RefURI>http://corestandards.org/Math/Content/HSF/TF/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-TF.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B13FE26FA344dca998C7DEDEBC7E0BF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0A8CB87ECFF541b69DCD30731F122EA6">
+    <RefURI>http://corestandards.org/Math/Content/HSF/TF/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-TF.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B13FE26FA344dca998C7DEDEBC7E0BF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3079DC14566A4ed09B88885B9D66A59B">
+    <RefURI>http://corestandards.org/Math/Content/HSF/TF/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-TF.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Use special triangles to determine geometrically the values of sine, cosine, tangent for &amp;pi;/3, &amp;pi;/4 and &amp;pi;/6, and use the unit circle to express the values of sine, cosine, and tangent for &lt;i&gt;x&lt;/i&gt;, &amp;pi; + &lt;i&gt;x&lt;/i&gt;, and 2&amp;pi; - &lt;i&gt;x&lt;/i&gt; in terms of their values for &lt;i&gt;x&lt;/i&gt;, where &lt;i&gt;x&lt;/i&gt; is any real number.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B13FE26FA344dca998C7DEDEBC7E0BF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E1FA68F31C204dd0B94D58A32D9C6E42">
+    <RefURI>http://corestandards.org/Math/Content/HSF/TF/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-TF.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B13FE26FA344dca998C7DEDEBC7E0BF</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

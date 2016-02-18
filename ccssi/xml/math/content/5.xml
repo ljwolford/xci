@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="18DAB6D1049C43D8931A96EF74B1A08B">
+    <RefURI>http://corestandards.org/Math/Content/5/G/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.G.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., &lt;i&gt;x&lt;/i&gt;-axis and &lt;i&gt;x&lt;/i&gt;-coordinate, &lt;i&gt;y&lt;/i&gt;-axis and&lt;i&gt; y&lt;/i&gt;-coordinate).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3363FCD84F3C4CB4B928C0BE1151DBDC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7F14BA6D3F05420A8EACE9D87556A240">
+    <RefURI>http://corestandards.org/Math/Content/5/G/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.G.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3363FCD84F3C4CB4B928C0BE1151DBDC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4A929DB5A41A4DD192F3B7790EBF0B8F">
+    <RefURI>http://corestandards.org/Math/Content/5/G/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.G.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category. For example, all rectangles have four right angles and squares are rectangles, so all squares have four right angles.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5C683021E8394B7597AE0222D0BBE59E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="82F6249E2DC446BD9DF8CC224D03D6B6">
+    <RefURI>http://corestandards.org/Math/Content/5/G/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.G.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Classify two-dimensional figures in a hierarchy based on properties.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5C683021E8394B7597AE0222D0BBE59E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="2D0ABC2082044403BD1260D7E8535AA0">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Convert among different-sized standard measurement units within a given measurement system (e.g., convert 5 cm to 0.05 m), and use these conversions in solving multi-step, real world problems.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DC3BDA42AAD245D6AD4025C0C1AA61F1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="055D92F32A6F4AEC83D80FA8E4578507">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/B/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.B.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Use operations on fractions for this grade to solve problems involving information presented in line plots. &lt;i&gt;For example, given different measurements of liquid in identical beakers, find the amount of liquid each beaker would contain if the total amount in all the beakers were redistributed equally&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3FFC6CAA5E994DA180B63210C3DA5142</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="36D5E16885004574B88BAF6886FA2911">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize volume as an attribute of solid figures and understand concepts of volume measurement.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">295D70687EC34B7C87B27C0D3D9A39AA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>164CCBB72823487A88079EC2593D9354</Child>
+      <Child>E92C6ADEAB084243BE335C4B561D1CEA</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="164CCBB72823487A88079EC2593D9354">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A cube with side length 1 unit, called a "unit cube," is said to have "one cubic unit" of volume, and can be used to measure volume.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">36D5E16885004574B88BAF6886FA2911</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E92C6ADEAB084243BE335C4B561D1CEA">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A solid figure which can be packed without gaps or overlaps using &lt;i&gt;n&lt;/i&gt; unit cubes is said to have a volume of &lt;i&gt;n&lt;/i&gt; cubic units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">36D5E16885004574B88BAF6886FA2911</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EDE82892A19749A9A8A1EF89D36F403D">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">295D70687EC34B7C87B27C0D3D9A39AA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B8EEE0176EDE4F9998AB63E1055E0068">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">295D70687EC34B7C87B27C0D3D9A39AA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>90E0C13F4411422189D10B2BB526E609</Child>
+      <Child>C5BB4D4030BE40A4A51FD07282BBEF75</Child>
+      <Child>6B05F71ECDDA44CB9148AC09EB30CE9C</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="90E0C13F4411422189D10B2BB526E609">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B8EEE0176EDE4F9998AB63E1055E0068</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C5BB4D4030BE40A4A51FD07282BBEF75">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply the formulas &lt;i&gt;V&lt;/i&gt; = &lt;i&gt;l&lt;/i&gt; &amp;times; &lt;i&gt;w&lt;/i&gt; &amp;times; &lt;i&gt;h&lt;/i&gt; and &lt;i&gt;V&lt;/i&gt; = &lt;i&gt;b&lt;/i&gt; &amp;times; &lt;i&gt;h&lt;/i&gt; for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real world and mathematical problems.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B8EEE0176EDE4F9998AB63E1055E0068</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6B05F71ECDDA44CB9148AC09EB30CE9C">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/5/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.5c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize volume as additive. Find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real world problems.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B8EEE0176EDE4F9998AB63E1055E0068</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DAAF1FF14A414C0F830C64D5C75B5854">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7226510F74B34FD3ACAEE829293D7576</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A2708178C80540F7B53436A46FED535F">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7226510F74B34FD3ACAEE829293D7576</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BE6257FC08DA4AA896C87FC4A19F6520">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read, write, and compare decimals to thousandths.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7226510F74B34FD3ACAEE829293D7576</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>959ACB4A9E1D4A6897A43FA910E55589</Child>
+      <Child>8353967DFA6844188C5A5B4E596BBD2D</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="959ACB4A9E1D4A6897A43FA910E55589">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/A/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.A.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., 347.392 = 3 &amp;times; 100 + 4 &amp;times; 10 + 7 &amp;times; 1 + 3 &amp;times; (1/10) + 9 &amp;times; (1/100) + 2 &amp;times; (1/1000).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BE6257FC08DA4AA896C87FC4A19F6520</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8353967DFA6844188C5A5B4E596BBD2D">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/A/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.A.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare two decimals to thousandths based on meanings of the digits in each place, using &amp;gt;, =, and &amp;lt; symbols to record the results of comparisons.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BE6257FC08DA4AA896C87FC4A19F6520</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="73E2B0CAACFC423A8E6E5ACE18918741">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use place value understanding to round decimals to any place.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7226510F74B34FD3ACAEE829293D7576</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="91516855132E48E19AA8EC19D5EF6739">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Fluently multiply multi-digit whole numbers using the standard algorithm.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">63C3F21F71684B79B0C994BDCF9AC481</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="867A71BD1E35497A847049DD8A3EFE29">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">63C3F21F71684B79B0C994BDCF9AC481</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7E8ADBEC52174A8EB1E0407D65FDAEAB">
+    <RefURI>http://corestandards.org/Math/Content/5/NBT/B/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NBT.B.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">63C3F21F71684B79B0C994BDCF9AC481</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9FD14A2979274E479F119295CB217668">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators. &lt;i&gt;For example, 2/3 + 5/4 = 8/12 + 15/12 = 23/12. (In general, a/b + c/d = (ad + bc)/bd.)&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">89DB00AD36014824847EBE83D78E1399</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="CF8736112A1D48BDBC831706077D69FB">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers. &lt;i&gt;For example, recognize an incorrect result 2/5 + 1/2 = 3/7, by observing that 3/7 &amp;lt; 1/2&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">89DB00AD36014824847EBE83D78E1399</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7E90E46B4E7E49CCBFCE96C5C0900CFD">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret a fraction as division of the numerator by the denominator (&lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; = &lt;i&gt;a&lt;/i&gt; &amp;divide; &lt;i&gt;b&lt;/i&gt;). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem. &lt;i&gt;For example, interpret 3/4 as the result of dividing 3 by 4, noting that 3/4 multiplied by 4 equals 3, and that when 3 wholes are shared equally among 4 people each person has a share of size 3/4. If 9 people want to share a 50-pound sack of rice equally by weight, how many pounds of rice should each person get? Between what two whole numbers does your answer lie?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D270A624395246338200753501C0BF0E">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>6B92A5720478456FAFF81454BA4CFDA2</Child>
+      <Child>7A2B7EB8894848DD84B9B4E869755FE1</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6B92A5720478456FAFF81454BA4CFDA2">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret the product (&lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt;) × &lt;i&gt;q&lt;/i&gt; as &lt;em&gt;a&lt;/em&gt; parts of a partition of &lt;i&gt;q&lt;/i&gt; into &lt;i&gt;b&lt;/i&gt; equal parts; equivalently, as the result of a sequence of operations&lt;i&gt; a&lt;/i&gt; × &lt;i&gt;q&lt;/i&gt; ÷ &lt;i&gt;b&lt;/i&gt;. &lt;i&gt;For example, use a visual fraction model to show (2/3) × 4 = 8/3, and create a story context for this equation. Do the same with (2/3) × (4/5) = 8/15. (In general, (a/b) × (c/d) = ac/bd.)&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D270A624395246338200753501C0BF0E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7A2B7EB8894848DD84B9B4E869755FE1">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D270A624395246338200753501C0BF0E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F81FE2BA03074CD7AFB0C48A37A9D51A">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret multiplication as scaling (resizing), by:</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>036DA6C72EEB4DA38D456F6CD768A182</Child>
+      <Child>FD677276B89E4F55AEEC482260D345C2</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="036DA6C72EEB4DA38D456F6CD768A182">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F81FE2BA03074CD7AFB0C48A37A9D51A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FD677276B89E4F55AEEC482260D345C2">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; = (&lt;i&gt;n&lt;/i&gt; &amp;times; &lt;i&gt;a&lt;/i&gt;)/(&lt;i&gt;n&lt;/i&gt; &amp;times; &lt;i&gt;b&lt;/i&gt;) to the effect of multiplying &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; by 1.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F81FE2BA03074CD7AFB0C48A37A9D51A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="50A2FAB14FBF4233BF4BAB88288DF277">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6662A64E904C4480B0940FA7F7EAE5BC">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>4D8482255802431492B2AB084EA082F0</Child>
+      <Child>0FD052F169B04888A6259C2A5D126892</Child>
+      <Child>34128D58FD89458C84AFB84FE54AB1C8</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="4D8482255802431492B2AB084EA082F0">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/7/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.7a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret division of a unit fraction by a non-zero whole number, and compute such quotients. &lt;i&gt;For example, create a story context for (1/3) &amp;divide; 4, and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that (1/3) &amp;divide; 4 = 1/12 because (1/12) &amp;times; 4 = 1/3&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6662A64E904C4480B0940FA7F7EAE5BC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="0FD052F169B04888A6259C2A5D126892">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret division of a whole number by a unit fraction, and compute such quotients. &lt;i&gt;For example, create a story context for 4 &amp;divide; (1/5), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that 4 &amp;divide; (1/5) = 20 because 20 &amp;times; (1/5) = 4&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6662A64E904C4480B0940FA7F7EAE5BC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="34128D58FD89458C84AFB84FE54AB1C8">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/7/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.7c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem. &lt;i&gt;For example, how much chocolate will each person get if 3 people share 1/2 lb of chocolate equally? How many 1/3-cup servings are in 2 cups of raisins?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6662A64E904C4480B0940FA7F7EAE5BC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DB7A9168437744809096645140085C00">
+    <RefURI>http://corestandards.org/Math/Content/5/OA/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.OA.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BFE360826DBB414F917BF59E9D2BB5D1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6374EEDF137B4F58AD9613766F4C7A2B">
+    <RefURI>http://corestandards.org/Math/Content/5/OA/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.OA.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. &lt;i&gt;For example, express the calculation "add 8 and 7, then multiply by 2" as 2 &amp;times; (8 + 7). Recognize that 3 &amp;times; (18932 + 921) is three times as large as 18932 + 921, without having to calculate the indicated sum or product&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BFE360826DBB414F917BF59E9D2BB5D1</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1F2E02E134B34b55A5CF482E3002B665">
+    <RefURI>http://corestandards.org/Math/Content/5/OA/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.OA.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane. &lt;i&gt;For example, given the rule "Add 3" and the starting number 0, and given the rule "Add 6" and the starting number 0, generate terms in the resulting sequences, and observe that the terms in one sequence are twice the corresponding terms in the other sequence. Explain informally why this is so&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E9FDE5E39856429F89106808E49664ED</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

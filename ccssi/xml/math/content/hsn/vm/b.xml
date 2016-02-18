@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="FA9C047FE1C547998A6CBB16C323FAD8">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Add and subtract vectors.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">608A98D224DE4CA9B945897C7A58799C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>E71EAB46BC9E474C861A53C60CAB9D2C</Child>
+      <Child>984534D6C05B4CFB9E257E5BB29EF018</Child>
+      <Child>B5969B9BA727452CAB1EF05C4694974C</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E71EAB46BC9E474C861A53C60CAB9D2C">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="984534D6C05B4CFB9E257E5BB29EF018">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B5969B9BA727452CAB1EF05C4694974C">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand vector subtraction &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; - &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; as &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; + (-&lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt;), where -&lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; is the additive inverse of &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt;, with the same magnitude as &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5B4228464AF24FC2A8B23CF733ABD5D8">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Multiply a vector by a scalar.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">608A98D224DE4CA9B945897C7A58799C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>FA032D8A02564B37A0BAF505A0296FB5</Child>
+      <Child>FA032D8A02564B37A0BAF505A0296FB4</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FA032D8A02564B37A0BAF505A0296FB5">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as &lt;i&gt;c&lt;/i&gt;(&lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;, &lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt;) = (&lt;i&gt;cv&lt;/i&gt;&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;, &lt;i&gt;cv&lt;/i&gt;&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5B4228464AF24FC2A8B23CF733ABD5D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FA032D8A02564B37A0BAF505A0296FB4">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compute the magnitude of a scalar multiple &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; using ||&lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;|| = |&lt;i&gt;c&lt;/i&gt;|&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;. Compute the direction of &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; knowing that when |&lt;i&gt;c&lt;/i&gt;|&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; &amp;ne; 0, the direction of &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is either along &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; (for &lt;i&gt;c&lt;/i&gt; &amp;gt; 0) or against &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; (for &lt;i&gt;c&lt;/i&gt; &amp;lt; 0).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5B4228464AF24FC2A8B23CF733ABD5D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

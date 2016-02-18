@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="1F72443D6AC449C7B959047522ED087B">
+    <RefURI>http://corestandards.org/Math/Content/3/OA/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.OA.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret products of whole numbers, e.g., interpret 5 &amp;times; 7 as the total number of objects in 5 groups of 7 objects each. &lt;i&gt;For example, describe a context in which a total number of objects can be expressed as 5 &amp;times; 7&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13E091EB7A6C41949CFF99799A39D3C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D9008C43187E44DDA9B676FFEAA78311">
+    <RefURI>http://corestandards.org/Math/Content/3/OA/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.OA.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret whole-number quotients of whole numbers, e.g., interpret 56 &amp;divide; 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each. &lt;i&gt;For example, describe a context in which a number of shares or a number of groups can be expressed as 56 &amp;divide; 8&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13E091EB7A6C41949CFF99799A39D3C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1F2BFEA5A0204D71A7FD29883E22CB9D">
+    <RefURI>http://corestandards.org/Math/Content/3/OA/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.OA.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13E091EB7A6C41949CFF99799A39D3C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="ACB26A2ED7114E59911EE985D8D02B6D">
+    <RefURI>http://corestandards.org/Math/Content/3/OA/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.OA.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Determine the unknown whole number in a multiplication or division equation relating three whole numbers. &lt;i&gt;For example, determine the unknown number that makes the equation true in each of the equations 8 &amp;times; ? = 48, 5 = _ &amp;divide; 3, 6 &amp;times; 6 = ?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">13E091EB7A6C41949CFF99799A39D3C2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

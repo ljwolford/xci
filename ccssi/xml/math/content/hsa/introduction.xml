@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1740</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Introduction</title>
+  <content>&lt;h2&gt;Expressions.&lt;/h2&gt;
+&lt;p&gt;An expression is a record of a computation with numbers, symbols that represent numbers, arithmetic operations, exponentiation, and, at more advanced levels, the operation of evaluating a function. Conventions about the use of parentheses and the order of operations assure that each expression is unambiguous. Creating an expression that describes a computation involving a general quantity requires the ability to express the computation in general terms, abstracting from specific instances.&lt;/p&gt;
+&lt;p&gt;Reading an expression with comprehension involves analysis of its underlying structure. This may suggest a different but equivalent way of writing the expression that exhibits some different aspect of its meaning. For example, &lt;i&gt;p&lt;/i&gt; + 0.05&lt;i&gt;p&lt;/i&gt; can be interpreted as the addition of a 5% tax to a price &lt;i&gt;p&lt;/i&gt;. Rewriting &lt;i&gt;p&lt;/i&gt; + 0.05&lt;i&gt;p&lt;/i&gt; as 1.05&lt;i&gt;p&lt;/i&gt; shows that adding a tax is the same as multiplying the price by a constant factor.&lt;/p&gt;
+&lt;p&gt;Algebraic manipulations are governed by the properties of operations and exponents, and the conventions of algebraic notation. At times, an expression is the result of applying operations to simpler expressions. For example, &lt;i&gt;p&lt;/i&gt; + 0.05&lt;i&gt;p&lt;/i&gt; is the sum of the simpler expressions &lt;i&gt;p&lt;/i&gt; and 0.05&lt;i&gt;p&lt;/i&gt;. Viewing an expression as the result of operation on simpler expressions can sometimes clarify its underlying structure.&lt;/p&gt;
+&lt;p&gt;A spreadsheet or a computer algebra system (CAS) can be used to experiment with algebraic expressions, perform complicated algebraic manipulations, and understand how algebraic manipulations behave.&lt;/p&gt;
+
+&lt;h2&gt;Equations and inequalities.&lt;/h2&gt;
+&lt;p&gt;An equation is a statement of equality between two expressions, often viewed as a question asking for which values of the variables the expressions on either side are in fact equal. These values are the solutions to the equation. An identity, in contrast, is true for all values of the variables; identities are often developed by rewriting an expression in an equivalent form.&lt;/p&gt;
+&lt;p&gt;The solutions of an equation in one variable form a set of numbers; the solutions of an equation in two variables form a set of ordered pairs of numbers, which can be plotted in the coordinate plane. Two or more equations and/or inequalities form a system. A solution for such a system must satisfy every equation and inequality in the system.&lt;/p&gt;
+&lt;p&gt;An equation can often be solved by successively deducing from it one or more simpler equations. For example, one can add the same constant to both sides without changing the solutions, but squaring both sides might lead to extraneous solutions. Strategic competence in solving includes looking ahead for productive manipulations and anticipating the nature and number of solutions.&lt;/p&gt;
+&lt;p&gt;Some equations have no solutions in a given number system, but have a solution in a larger system. For example, the solution of &lt;i&gt;x&lt;/i&gt; + 1 = 0 is an integer, not a whole number; the solution of 2&lt;i&gt;x&lt;/i&gt; + 1 = 0 is a rational number, not an integer; the solutions of &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; - 2 = 0 are real numbers, not rational numbers; and the solutions of &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; + 2 = 0 are complex numbers, not real numbers.&lt;/p&gt;
+&lt;p&gt;The same solution techniques used to solve equations can be used to rearrange formulas. For example, the formula for the area of a trapezoid, &lt;i&gt;A&lt;/i&gt; = ((&lt;i&gt;b&lt;/i&gt;&lt;sub&gt;1&lt;/sub&gt;+&lt;i&gt;b&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;)/2)&lt;i&gt;h&lt;/i&gt;, can be solved for &lt;i&gt;h&lt;/i&gt; using the same deductive process. Inequalities can be solved by reasoning about the properties of inequality. Many, but not all, of the properties of equality continue to hold for inequalities and can be useful in solving them.&lt;/p&gt;
+&lt;p&gt;Connections to Functions and Modeling. Expressions can define functions, and equivalent expressions define the same function. Asking when two functions have the same value for the same input leads to an equation; graphing the two functions allows for finding approximate solutions of the equation. Converting a verbal description to an equation, inequality, or system of these is an essential skill in modeling.&lt;/p&gt;
+
+&lt;h2&gt;Algebra Overview&lt;/h2&gt;
+
+&lt;h3&gt;Seeing Structure in Expressions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Interpret the structure of expressions&lt;/li&gt;
+  &lt;li&gt;Write expressions in equivalent forms to solve problems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Arithmetic with Polynomials and Rational Functions&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Perform arithmetic operations on polynomials&lt;/li&gt;
+  &lt;li&gt;Understand the relationship between zeros and factors of polynomials&lt;/li&gt;
+  &lt;li&gt;Use polynomial identities to solve problems&lt;/li&gt;
+  &lt;li&gt;Rewrite rational functions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Creating Equations&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create equations that describe numbers or relationships&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Reasoning with Equations and Inequalities&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Understand solving equations as a process of reasoning and explain the reasoning&lt;/li&gt;
+  &lt;li&gt;Solve equations and inequalities in one variable&lt;/li&gt;
+  &lt;li&gt;Solve systems of equations&lt;/li&gt;
+  &lt;li&gt;Represent and solve equations and inequalities graphically&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Mathematical Practices&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Make sense of problems and persevere in solving them.&lt;/li&gt;
+  &lt;li&gt;Reason abstractly and quantitatively.&lt;/li&gt;
+  &lt;li&gt;Construct viable arguments and critique the reasoning of others.&lt;/li&gt;
+  &lt;li&gt;Model with mathematics.&lt;/li&gt;
+  &lt;li&gt;Use appropriate tools strategically.&lt;/li&gt;
+  &lt;li&gt;Attend to precision.&lt;/li&gt;
+  &lt;li&gt;Look for and make use of structure.&lt;/li&gt;
+  &lt;li&gt;Look for and express regularity in repeated reasoning.&lt;/li&gt;
+&lt;/ol&gt;</content>
+  <date>2014-02-15 19:11:26 UTC</date>
+</page>

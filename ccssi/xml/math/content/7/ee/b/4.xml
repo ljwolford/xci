@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="5C4A177A795D42178DD81C960C176EAC">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">28C6157CE6114983AE2E7334B88BB477</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>2F1135F18E434B77BB694AC9D3EEE575</Child>
+      <Child>38D1A0732B9A4055BA1E28B6D44D2493</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="2F1135F18E434B77BB694AC9D3EEE575">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve word problems leading to equations of the form &lt;i&gt;px&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; = &lt;i&gt;r&lt;/i&gt; and &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt;) = &lt;i&gt;r&lt;/i&gt;, where &lt;i&gt;p&lt;/i&gt;, &lt;i&gt;q&lt;/i&gt;, and &lt;i&gt;r&lt;/i&gt; are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach. &lt;i&gt;For example, the perimeter of a rectangle is 54 cm. Its length is 6 cm. What is its width?&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5C4A177A795D42178DD81C960C176EAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="38D1A0732B9A4055BA1E28B6D44D2493">
+    <RefURI>http://corestandards.org/Math/Content/7/EE/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.EE.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve word problems leading to inequalities of the form &lt;i&gt;px&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; &amp;gt; &lt;i&gt;r&lt;/i&gt; or &lt;i&gt;px&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; &amp;lt; &lt;i&gt;r&lt;/i&gt;, where &lt;i&gt;p&lt;/i&gt;, &lt;i&gt;q&lt;/i&gt;, and &lt;i&gt;r&lt;/i&gt; are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem. &lt;i&gt;For example: As a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make, and describe the solutions&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5C4A177A795D42178DD81C960C176EAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

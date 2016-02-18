@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="EFC133CD8D34442CA35311157F372C97">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand a fraction 1/&lt;i&gt;b&lt;/i&gt; as the quantity formed by 1 part when a whole is partitioned into &lt;i&gt;b&lt;/i&gt; equal parts; understand a fraction &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; as the quantity formed by &lt;i&gt;a&lt;/i&gt; parts of size 1/&lt;i&gt;b&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FB0C3EF6E0254112BE3E1A3B3BBE691C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8C551F4EF2224A61AED96E27F7BB8852">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand a fraction as a number on the number line; represent fractions on a number line diagram.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FB0C3EF6E0254112BE3E1A3B3BBE691C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>74D0C6FACE7E4939BD8B01C5E729871C</Child>
+      <Child>D31E57DF888541EAA539B9C1954C76E1</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="74D0C6FACE7E4939BD8B01C5E729871C">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent a fraction 1/&lt;i&gt;b&lt;/i&gt; on a number line diagram by defining the interval from 0 to 1 as the whole and partitioning it into &lt;i&gt;b&lt;/i&gt; equal parts. Recognize that each part has size 1/&lt;i&gt;b&lt;/i&gt; and that the endpoint of the part based at 0 locates the number 1/&lt;i&gt;b&lt;/i&gt; on the number line.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8C551F4EF2224A61AED96E27F7BB8852</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D31E57DF888541EAA539B9C1954C76E1">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent a fraction &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; on a number line diagram by marking off a lengths 1/&lt;i&gt;b&lt;/i&gt; from 0. Recognize that the resulting interval has size &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; and that its endpoint locates the number &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; on the number line.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8C551F4EF2224A61AED96E27F7BB8852</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="95A47E3EB7134F7FA65667B692D6F23E">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FB0C3EF6E0254112BE3E1A3B3BBE691C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>F80BD4BFFDB946DCB74AFA807DF07F0C</Child>
+      <Child>8A6F987095B24FD8825585A2510C4356</Child>
+      <Child>70C12332BEED45098AA0A0BBCD977376</Child>
+      <Child>43F9FB0B127B45738F173195B04CAF6B</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F80BD4BFFDB946DCB74AFA807DF07F0C">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand two fractions as equivalent (equal) if they are the same size, or the same point on a number line.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">95A47E3EB7134F7FA65667B692D6F23E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8A6F987095B24FD8825585A2510C4356">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize and generate simple equivalent fractions, e.g., 1/2 = 2/4, 4/6 = 2/3. Explain why the fractions are equivalent, e.g., by using a visual fraction model.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">95A47E3EB7134F7FA65667B692D6F23E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="70C12332BEED45098AA0A0BBCD977376">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers. &lt;i&gt;Examples: Express 3 in the form 3 = 3/1; recognize that 6/1 = 6; locate 4/4 and 1 at the same point of a number line diagram&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">95A47E3EB7134F7FA65667B692D6F23E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="43F9FB0B127B45738F173195B04CAF6B">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/3/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.3d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare two fractions with the same numerator or the same denominator by reasoning about their size. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with the symbols &amp;gt;, =, or &amp;lt;, and justify the conclusions, e.g., by using a visual fraction model.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">95A47E3EB7134F7FA65667B692D6F23E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

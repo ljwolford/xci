@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="BB5EA8046C4C4207A113105C9AF885F6">
+    <RefURI>http://corestandards.org/Math/Content/8/F/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.F.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B9013BEAF8364E749A2E6C67FDA59EE5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C664AE63D0664AC480941A65A0C8C8A6">
+    <RefURI>http://corestandards.org/Math/Content/8/F/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.F.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). &lt;i&gt;For example, given a linear function represented by a table of values and a linear function represented by an algebraic expression, determine which function has the greater rate of change&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B9013BEAF8364E749A2E6C67FDA59EE5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B217829E5F084E90A41194DC4C80F050">
+    <RefURI>http://corestandards.org/Math/Content/8/F/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.F.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret the equation &lt;i&gt;y = mx + b&lt;/i&gt; as defining a linear function, whose graph is a straight line; give examples of functions that are not linear. &lt;i&gt;For example, the function A = s&lt;sup&gt;2&lt;/sup&gt; giving the area of a square as a function of its side length is not linear because its graph contains the points (1,1), (2,4) and (3,9), which are not on a straight line&lt;/i&gt;. </Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B9013BEAF8364E749A2E6C67FDA59EE5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

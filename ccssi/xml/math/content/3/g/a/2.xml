@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="368CBD5C10534702841D3C659B5DAC65">
+    <RefURI>http://corestandards.org/Math/Content/3/G/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.G.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Partition shapes into parts with equal areas. Express the area of each part as a unit fraction of the whole. &lt;i&gt;For example, partition a shape into 4 parts with equal area, and describe the area of each part as 1/4 of the area of the shape&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">834B17E279C64263AA83F7625F5D2994</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

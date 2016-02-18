@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="86C2F83D480C4300939245389E99711A">
+    <RefURI>http://corestandards.org/Math/Content/3/OA/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.OA.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply properties of operations as strategies to multiply and divide.&lt;sup&gt;2&lt;/sup&gt; &lt;i&gt;Examples: If 6 &amp;times; 4 = 24 is known, then 4 &amp;times; 6 = 24 is also known. (Commutative property of multiplication.) 3 &amp;times; 5 &amp;times; 2 can be found by 3 &amp;times; 5 = 15, then 15 &amp;times; 2 = 30, or by 5 &amp;times; 2 = 10, then 3 &amp;times; 10 = 30. (Associative property of multiplication.) Knowing that 8 &amp;times; 5 = 40 and 8 &amp;times; 2 = 16, one can find 8 &amp;times; 7 as 8 &amp;times; (5 + 2) = (8 &amp;times; 5) + (8 &amp;times; 2) = 40 + 16 = 56. (Distributive property.)&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2553905A2EE948F2924E4E48ECDC1274</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E7A132DB485E49D2905C50BA78C571F5">
+    <RefURI>http://corestandards.org/Math/Content/3/OA/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.OA.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand division as an unknown-factor problem. &lt;i&gt;For example, find 32 &amp;divide; 8 by finding the number that makes 32 when multiplied by 8&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2553905A2EE948F2924E4E48ECDC1274</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

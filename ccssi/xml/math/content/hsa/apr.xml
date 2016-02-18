@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C6A2AB2938E447BEA1860CF04A23E51F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that polynomials form a system analogous to the integers, namely, they are closed under the operations of addition, subtraction, and multiplication; add, subtract, and multiply polynomials.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">86029C6936A24246AC435CA696634800</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A9EFAC8BB7B0455B8681498B6704A85F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/B/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.B.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know and apply the Remainder Theorem: For a polynomial &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and a number &lt;i&gt;a&lt;/i&gt;, the remainder on division by &lt;i&gt;x - a&lt;/i&gt; is &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;a&lt;/i&gt;), so &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;a&lt;/i&gt;) = 0 if and only if (&lt;i&gt;x - a&lt;/i&gt;) is a factor of &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F807C53F9EDE43FDB34DF614CA072F87</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="167C41930CA145BC80099871ECDCD20F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F807C53F9EDE43FDB34DF614CA072F87</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C7BC027B615547799C1CE8D7F7896DAD">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/C/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.C.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Prove polynomial identities and use them to describe numerical relationships. &lt;i&gt;For example, the polynomial identity (x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; = (x&lt;sup&gt;2&lt;/sup&gt; - y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; + (2xy)&lt;sup&gt;2&lt;/sup&gt; can be used to generate Pythagorean triples.&lt;/i&gt;&lt;/li&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A2539A99653A47DBAFA1740D2F0BE124</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="217B91B942D647F6B3E78E4B3FC90196">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Know and apply the Binomial Theorem for the expansion of (&lt;i&gt;x&lt;/i&gt; + &lt;i&gt;y&lt;/i&gt;)&lt;sup&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sup&gt; in powers of &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt; for a positive integer &lt;i&gt;n&lt;/i&gt;, where &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt; are any numbers, with coefficients determined for example by Pascal's Triangle.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A2539A99653A47DBAFA1740D2F0BE124</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8A2EA76C20624FB690F10DAE3C354D5B">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/D/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.D.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Rewrite simple rational expressions in different forms; write &lt;sup&gt;&lt;i&gt;a&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sup&gt;/&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sub&gt; in the form &lt;i&gt;q&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) + &lt;sup&gt;&lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sup&gt;/&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sub&gt;, where &lt;i&gt;a&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;q&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), and &lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) are polynomials with the degree of &lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) less than the degree of &lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), using inspection, long division, or, for the more complicated examples, a computer algebra system.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0EC032FAF5F34E04B00A864C2E588A09</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6C6F6417C2EF4908A018E4005ADBB318">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/D/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.D.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Understand that rational expressions form a system analogous to the rational numbers, closed under addition, subtraction, multiplication, and division by a nonzero rational expression; add, subtract, multiply, and divide rational expressions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0EC032FAF5F34E04B00A864C2E588A09</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

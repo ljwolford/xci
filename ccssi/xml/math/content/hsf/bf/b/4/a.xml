@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="392F16871F5443c9BE065FD1A9DE39C2">
+    <RefURI>http://corestandards.org/Math/Content/HSF/BF/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-BF.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse. &lt;i&gt;For example, f(x) =2 x&lt;sup&gt;3&lt;/sup&gt; or f(x) = (x+1)/(x-1) for x &amp;ne; 1&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D600962249FF4b1aADC5857575D228AE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

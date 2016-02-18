@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="841BE31211C44bdaA83885B24694BFED">
+    <RefURI>http://corestandards.org/ELA-Literacy/SL/11-12/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.SL.11-12.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Adapt speech to a variety of contexts and tasks, demonstrating a command of formal English when indicated or appropriate. (See grades 11-12 Language standards 1 and 3 [link to="CCSS.ELA-Literacy.L.11-12"]here[/link] for specific expectations.)</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FF341919CDE644998C711D756916B7E9</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

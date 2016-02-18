@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="3C0139D0DA344DBCAC06DBC4CBC41F9C">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3DDCF0B192B04D66AEE3E2C9EC8B7CAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>AEFCAD7F6D18406aA4769EF34D8AEAC6</Child>
+      <Child>F020570FB095480193A4F969241B8029</Child>
+      <Child>9C1435F358A84468956E149747DF8D85</Child>
+      <Child>CECCADE8384141139CA663AEC03D37B5</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="AEFCAD7F6D18406aA4769EF34D8AEAC6">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe situations in which opposite quantities combine to make 0. &lt;i&gt;For example, a hydrogen atom has 0 charge because its two constituents are oppositely charged&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F020570FB095480193A4F969241B8029">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand &lt;i&gt;p&lt;/i&gt; + &lt;i&gt;q&lt;/i&gt; as the number located a distance |&lt;i&gt;q&lt;/i&gt;| from &lt;i&gt;p&lt;/i&gt;, in the positive or negative direction depending on whether &lt;i&gt;q&lt;/i&gt; is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9C1435F358A84468956E149747DF8D85">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand subtraction of rational numbers as adding the additive inverse, &lt;i&gt;p&lt;/i&gt; - &lt;i&gt;q&lt;/i&gt; = &lt;i&gt;p&lt;/i&gt; + (-&lt;i&gt;q&lt;/i&gt;). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="CECCADE8384141139CA663AEC03D37B5">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/1/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.1d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply properties of operations as strategies to add and subtract rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3C0139D0DA344DBCAC06DBC4CBC41F9C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="416206BA82F74726987E836991FB89F8">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3DDCF0B192B04D66AEE3E2C9EC8B7CAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>90A64AED5CA141F2844E11A8A381F0F9</Child>
+      <Child>8E31252383F148FEA1E748BEB841036E</Child>
+      <Child>23541ADA26D346F09FCC989C5E04848E</Child>
+      <Child>23541ADA26D346F09FCC989C5E04848F</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="90A64AED5CA141F2844E11A8A381F0F9">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8E31252383F148FEA1E748BEB841036E">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If &lt;i&gt;p&lt;/i&gt; and &lt;i&gt;q&lt;/i&gt; are integers, then -(&lt;i&gt;p&lt;/i&gt;/&lt;i&gt;q&lt;/i&gt;) = (-&lt;i&gt;p&lt;/i&gt;)/&lt;i&gt;q&lt;/i&gt; = &lt;i&gt;p&lt;/i&gt;/(-&lt;i&gt;q&lt;/i&gt;). Interpret quotients of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="23541ADA26D346F09FCC989C5E04848E">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply properties of operations as strategies to multiply and divide rational numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="23541ADA26D346F09FCC989C5E04848F">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7DCF884FEE914f5998EF84E2810BB4D1">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real-world and mathematical problems involving the four operations with rational numbers.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">3DDCF0B192B04D66AEE3E2C9EC8B7CAC</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

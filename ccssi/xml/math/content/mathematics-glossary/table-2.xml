@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>2641</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Table 2</title>
+  <content>Common multiplication and division situations.&lt;sup&gt;1&lt;/sup&gt;&#13;
+&lt;div class="table-4-columns-container"&gt;&#13;
+&lt;table border="0" width="100%"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr class="sub-header"&gt;&#13;
+&lt;td width="15%"&gt;&lt;/td&gt;&#13;
+&lt;td width="21%"&gt;Unknown Product&lt;/td&gt;&#13;
+&lt;td width="35%"&gt;Group Size Unknown ("How many in each group?" Division)&lt;/td&gt;&#13;
+&lt;td width="29%"&gt;Number of Groups Unknown ("How many groups?" Division)&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&lt;/td&gt;&#13;
+&lt;td&gt;&lt;strong&gt;3 x 6 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;&lt;strong&gt;3 x ? = 18&lt;/strong&gt;, and&#13;
+&lt;strong&gt;18 ÷ 3 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;&lt;strong&gt;? x 6 = 18&lt;/strong&gt;, and&#13;
+&lt;strong&gt;18 ÷ 6 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;Equal Groups&lt;/td&gt;&#13;
+&lt;td&gt;There are 3 bags with 6 plums in each bag. How many plums are there in all?&#13;
+&lt;em&gt;Measurement example.&lt;/em&gt; You need 3 lengths of string, each 6 inches long. How much string will you need altogether?&lt;/td&gt;&#13;
+&lt;td&gt;If 18 plums are shared equally into 3 bags, then how many plums will be in each bag?&#13;
+&lt;em&gt;Measurement example.&lt;/em&gt; You have 18 inches of string, which you will cut into 3 equal pieces. How long will each piece of string be?&lt;/td&gt;&#13;
+&lt;td&gt;If 18 plums are to be packed 6 to a bag, then how many bags are needed?&#13;
+&lt;em&gt;Measurement example.&lt;/em&gt; You have 18 inches of string, which you will cut into pieces that are 6 inches long. How many pieces of string will you have?&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;Arrays&lt;sup&gt;2&lt;/sup&gt;, Area&lt;sup&gt;3&lt;/sup&gt;&lt;/td&gt;&#13;
+&lt;td&gt;There are 3 rows of apples with 6 apples in each row. How many apples are there?&#13;
+&lt;em&gt;Area example.&lt;/em&gt; What is the area of a 3 cm by 6 cm rectangle?&lt;/td&gt;&#13;
+&lt;td&gt;If 18 apples are arranged into 3 equal rows, how many apples will be in each row?&#13;
+&lt;em&gt;Area example.&lt;/em&gt; A rectangle has area 18 square centimeters. If one side is 3 cm long, how long is a side next to it?&lt;/td&gt;&#13;
+&lt;td&gt;If 18 apples are arranged into equal rows of 6 apples, how many rows will there be?&#13;
+&lt;em&gt;Area example.&lt;/em&gt; A rectangle has area 18 square centimeters. If one side is 6 cm long, how long is a side next to it?&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;Compare&lt;/td&gt;&#13;
+&lt;td&gt;A blue hat costs $6. A red hat costs 3 times as much as the blue hat. How much does the red hat cost?&#13;
+&lt;em&gt;Measurement example.&lt;/em&gt; A rubber band is 6 cm long. How long will the rubber band be when it is stretched to be 3 times as long?&lt;/td&gt;&#13;
+&lt;td&gt;A red hat costs $18 and that is 3 times as much as a blue hat costs. How much does a blue hat cost?&#13;
+&lt;em&gt;Measurement example.&lt;/em&gt; A rubber band is stretched to be 18 cm long and that is 3 times as long as it was at first. How long was the rubber band at first?&lt;/td&gt;&#13;
+&lt;td&gt;A red hat costs $18 and a blue hat costs $6. How many times as much does the red hat cost as the blue hat?&#13;
+&lt;em&gt;Measurement example.&lt;/em&gt; A rubber band was 6 cm long at first. Now it is stretched to be 18 cm long. How many times as long is the rubber band now as it was at first?&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;General&lt;/td&gt;&#13;
+&lt;td&gt;&lt;strong&gt;a x b = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;&lt;strong&gt;a x ? = p&lt;/strong&gt; and&#13;
+&lt;strong&gt;p ÷ a = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;&lt;strong&gt;? x b = p&lt;/strong&gt;, and&#13;
+&lt;strong&gt;p ÷ b = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;1&lt;/sup&gt;The language in the array examples shows the easiest form of array problems. A harder form is to use the terms rows and columns: The apples in the grocery window are in 3 rows and 6 columns. How many apples are in there? Both forms are valuable.&lt;/p&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;2&lt;/sup&gt;Area involves arrays of squares that have been pushed together so that there are no gaps or overlaps, so array problems include these especially important measurement situations.&lt;/p&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;3&lt;/sup&gt;The first examples in each cell are examples of discrete things. These are easier for students and should be given before the measurement examples.&lt;/p&gt;</content>
+  <date>2014-06-17 11:52:40 UTC</date>
+</page>

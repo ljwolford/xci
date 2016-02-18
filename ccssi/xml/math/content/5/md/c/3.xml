@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="36D5E16885004574B88BAF6886FA2911">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize volume as an attribute of solid figures and understand concepts of volume measurement.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">295D70687EC34B7C87B27C0D3D9A39AA</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>164CCBB72823487A88079EC2593D9354</Child>
+      <Child>E92C6ADEAB084243BE335C4B561D1CEA</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="164CCBB72823487A88079EC2593D9354">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A cube with side length 1 unit, called a "unit cube," is said to have "one cubic unit" of volume, and can be used to measure volume.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">36D5E16885004574B88BAF6886FA2911</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E92C6ADEAB084243BE335C4B561D1CEA">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A solid figure which can be packed without gaps or overlaps using &lt;i&gt;n&lt;/i&gt; unit cubes is said to have a volume of &lt;i&gt;n&lt;/i&gt; cubic units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">36D5E16885004574B88BAF6886FA2911</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

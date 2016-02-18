@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="A9EFAC8BB7B0455B8681498B6704A85F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/B/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.B.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know and apply the Remainder Theorem: For a polynomial &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and a number &lt;i&gt;a&lt;/i&gt;, the remainder on division by &lt;i&gt;x - a&lt;/i&gt; is &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;a&lt;/i&gt;), so &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;a&lt;/i&gt;) = 0 if and only if (&lt;i&gt;x - a&lt;/i&gt;) is a factor of &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F807C53F9EDE43FDB34DF614CA072F87</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="167C41930CA145BC80099871ECDCD20F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F807C53F9EDE43FDB34DF614CA072F87</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C6A2AB2938E447BEA1860CF04A23E51F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that polynomials form a system analogous to the integers, namely, they are closed under the operations of addition, subtraction, and multiplication; add, subtract, and multiply polynomials.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">86029C6936A24246AC435CA696634800</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A9EFAC8BB7B0455B8681498B6704A85F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/B/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.B.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know and apply the Remainder Theorem: For a polynomial &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and a number &lt;i&gt;a&lt;/i&gt;, the remainder on division by &lt;i&gt;x - a&lt;/i&gt; is &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;a&lt;/i&gt;), so &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;a&lt;/i&gt;) = 0 if and only if (&lt;i&gt;x - a&lt;/i&gt;) is a factor of &lt;i&gt;p&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F807C53F9EDE43FDB34DF614CA072F87</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="167C41930CA145BC80099871ECDCD20F">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F807C53F9EDE43FDB34DF614CA072F87</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C7BC027B615547799C1CE8D7F7896DAD">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/C/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.C.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Prove polynomial identities and use them to describe numerical relationships. &lt;i&gt;For example, the polynomial identity (x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; = (x&lt;sup&gt;2&lt;/sup&gt; - y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; + (2xy)&lt;sup&gt;2&lt;/sup&gt; can be used to generate Pythagorean triples.&lt;/i&gt;&lt;/li&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A2539A99653A47DBAFA1740D2F0BE124</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="217B91B942D647F6B3E78E4B3FC90196">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Know and apply the Binomial Theorem for the expansion of (&lt;i&gt;x&lt;/i&gt; + &lt;i&gt;y&lt;/i&gt;)&lt;sup&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sup&gt; in powers of &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt; for a positive integer &lt;i&gt;n&lt;/i&gt;, where &lt;i&gt;x&lt;/i&gt; and &lt;i&gt;y&lt;/i&gt; are any numbers, with coefficients determined for example by Pascal's Triangle.&lt;sup&gt;1&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A2539A99653A47DBAFA1740D2F0BE124</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="8A2EA76C20624FB690F10DAE3C354D5B">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/D/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.D.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Rewrite simple rational expressions in different forms; write &lt;sup&gt;&lt;i&gt;a&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sup&gt;/&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sub&gt; in the form &lt;i&gt;q&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) + &lt;sup&gt;&lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sup&gt;/&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sub&gt;, where &lt;i&gt;a&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;q&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), and &lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) are polynomials with the degree of &lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) less than the degree of &lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), using inspection, long division, or, for the more complicated examples, a computer algebra system.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0EC032FAF5F34E04B00A864C2E588A09</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6C6F6417C2EF4908A018E4005ADBB318">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/D/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.D.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Understand that rational expressions form a system analogous to the rational numbers, closed under addition, subtraction, multiplication, and division by a nonzero rational expression; add, subtract, multiply, and divide rational expressions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0EC032FAF5F34E04B00A864C2E588A09</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3902BC1F876F4ADD997BC890F86E3AF2">
+    <RefURI>http://corestandards.org/Math/Content/HSA/CED/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-CED.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Create equations and inequalities in one variable and use them to solve problems. &lt;i&gt;Include equations arising from linear and quadratic functions, and simple rational and exponential functions&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2B387BDF43CB43B58983E460B46BE605</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FB5932C0274F4E11A08D688F357B057D">
+    <RefURI>http://corestandards.org/Math/Content/HSA/CED/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-CED.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2B387BDF43CB43B58983E460B46BE605</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="3675146E49EF46338FB77B95B9E24100">
+    <RefURI>http://corestandards.org/Math/Content/HSA/CED/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-CED.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent constraints by equations or inequalities, and by systems of equations and/or inequalities, and interpret solutions as viable or nonviable options in a modeling context. &lt;i&gt;For example, represent inequalities describing nutritional and cost constraints on combinations of different foods&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2B387BDF43CB43B58983E460B46BE605</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9036E098F6A7415B899E533424ABBECB">
+    <RefURI>http://corestandards.org/Math/Content/HSA/CED/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-CED.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations. &lt;i&gt;For example, rearrange Ohm's law V = IR to highlight resistance R&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">2B387BDF43CB43B58983E460B46BE605</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9D6E9F4486CE4E0FA2F08E70CF2B8EC7">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain each step in solving a simple equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">76A52762F6C540829E34B961AC57ED32</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D8E88CC6F9C24EE7A7B89D35F093B2B9">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve simple rational and radical equations in one variable, and give examples showing how extraneous solutions may arise.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">76A52762F6C540829E34B961AC57ED32</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="52F1125E7D4F4CC8AFD2BDDB15BF256A">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7F7DAA3BD975420E9A21319845B45A2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="87B0241DE22D4A18943F3BC6CBF5DA82">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve quadratic equations in one variable.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7F7DAA3BD975420E9A21319845B45A2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>5BD6F36D021A429E951EE42C678F1CF5</Child>
+      <Child>617091A725F44F42A823052465447328</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5BD6F36D021A429E951EE42C678F1CF5">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the method of completing the square to transform any quadratic equation in &lt;i&gt;x&lt;/i&gt; into an equation of the form (&lt;i&gt;x&lt;/i&gt; - &lt;i&gt;p&lt;/i&gt;)&lt;sup&gt;2&lt;/sup&gt; = &lt;i&gt;q&lt;/i&gt; that has the same solutions. Derive the quadratic formula from this form.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">87B0241DE22D4A18943F3BC6CBF5DA82</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="617091A725F44F42A823052465447328">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve quadratic equations by inspection (e.g., for &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; = 49), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as &lt;i&gt;a&lt;/i&gt; &amp;plusmn; &lt;i&gt;bi&lt;/i&gt; for real numbers &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">87B0241DE22D4A18943F3BC6CBF5DA82</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="090DE6FDA67B45FEA288899B26A1E026">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/C/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.C.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Prove that, given a system of two equations in two variables, replacing one equation by the sum of that equation and a multiple of the other produces a system with the same solutions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DA79BD4E58434CAABB4C784D994D19E8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F66FDF1EBB2A45B583D175D152C46E04">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/C/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.C.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on pairs of linear equations in two variables.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DA79BD4E58434CAABB4C784D994D19E8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FDF33C3EC6C74CE393506F5ECC465D74">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/C/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.C.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically and graphically. For example, find the points of intersection between the line &lt;i&gt;y&lt;/i&gt; = -3&lt;i&gt;x&lt;/i&gt; and the circle &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; + &lt;i&gt;y&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; = 3.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DA79BD4E58434CAABB4C784D994D19E8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="33BA402261BE40868559890F7E9613D7">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/C/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.C.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Represent a system of linear equations as a single matrix equation in a vector variable.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DA79BD4E58434CAABB4C784D994D19E8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7595C1E536714FA5BA7FC034E1F55556">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/C/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.C.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Find the inverse of a matrix if it exists and use it to solve systems of linear equations (using technology for matrices of dimension 3 &amp;times; 3 or greater).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">DA79BD4E58434CAABB4C784D994D19E8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="916EED53C7DB4D2D8BD6ACB4E277B714">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/D/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.D.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A65B3884A9784D21B409AC13B11DFD9B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FBFBA64C70074AC99425390F527D0A85">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/D/11/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.D.11</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explain why the &lt;i&gt;x&lt;/i&gt;-coordinates of the points where the graphs of the equations &lt;i&gt;y&lt;/i&gt; = &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and &lt;i&gt;y&lt;/i&gt; = &lt;i&gt;g&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) intersect are the solutions of the equation &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) = &lt;i&gt;g&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;); find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where &lt;i&gt;f&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) and/or &lt;i&gt;g&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A65B3884A9784D21B409AC13B11DFD9B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="37C6331417654D34A416EE557CE4430E">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/D/12/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.D.12</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Graph the solutions to a linear inequality in two variables as a half-plane (excluding the boundary in the case of a strict inequality), and graph the solution set to a system of linear inequalities in two variables as the intersection of the corresponding half-planes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A65B3884A9784D21B409AC13B11DFD9B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="137C90D24DE949558F17713B84161B4D">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret expressions that represent a quantity in terms of its context.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">16247FEF153B4404A115600AF3C81E03</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>529B17211FDB499292FE9DCD0CAAA928</Child>
+      <Child>5155CED2475A42D88AD48B7A676C7943</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="529B17211FDB499292FE9DCD0CAAA928">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret parts of an expression, such as terms, factors, and coefficients.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">137C90D24DE949558F17713B84161B4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5155CED2475A42D88AD48B7A676C7943">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret complicated expressions by viewing one or more of their parts as a single entity. &lt;i&gt;For example, interpret P(1+r)&lt;sup&gt;n&lt;/sup&gt; as the product of P and a factor not depending on P&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">137C90D24DE949558F17713B84161B4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DE5D310B24EA4A7398462924C80EC4BA">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the structure of an expression to identify ways to rewrite it. &lt;i&gt;For example, see x&lt;sup&gt;4&lt;/sup&gt; - y&lt;sup&gt;4&lt;/sup&gt; as (x&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; - (y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;, thus recognizing it as a difference of squares that can be factored as (x&lt;sup&gt;2&lt;/sup&gt; - y&lt;sup&gt;2&lt;/sup&gt;)(x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt;)&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">16247FEF153B4404A115600AF3C81E03</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C705AD3CCF9641C9A3101BDB10737B11">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BEA7E3EF2A4C4C8F85F12D9743C25155</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>194A6E971ED74A3695C6CE468E337562</Child>
+      <Child>C057EE31BA98447FB241F2F732B896BD</Child>
+      <Child>D07C6A24D9F045EFACB20582472FC7EB</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="194A6E971ED74A3695C6CE468E337562">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Factor a quadratic expression to reveal the zeros of the function it defines.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C057EE31BA98447FB241F2F732B896BD">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Complete the square in a quadratic expression to reveal the maximum or minimum value of the function it defines.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D07C6A24D9F045EFACB20582472FC7EB">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the properties of exponents to transform expressions for exponential functions. &lt;i&gt;For example the expression 1.15&lt;sup&gt;t&lt;/sup&gt; can be rewritten as (1.15&lt;sup&gt;1/12&lt;/sup&gt;)&lt;sup&gt;12t&lt;/sup&gt; &amp;asymp; 1.012&lt;sup&gt;12t&lt;/sup&gt; to reveal the approximate equivalent monthly interest rate if the annual rate is 15%&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="132D975B6090471A975C1780357F9D37">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Derive the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems. &lt;i&gt;For example, calculate mortgage payments.&lt;/i&gt;&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BEA7E3EF2A4C4C8F85F12D9743C25155</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

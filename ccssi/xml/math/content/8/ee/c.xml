@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="7276B02F0B004E889E6355C98B8C1F62">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve linear equations in one variable.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">29419E561D0F4947929F5400799CB6ED</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>37D0AF8DE45246A1BE82DA6ACB8DC0D4</Child>
+      <Child>DC8116E17B134614B9C311DB843BD9FA</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="37D0AF8DE45246A1BE82DA6ACB8DC0D4">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/7/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.7a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Give examples of linear equations in one variable with one solution, infinitely many solutions, or no solutions. Show which of these possibilities is the case by successively transforming the given equation into simpler forms, until an equivalent equation of the form &lt;i&gt;x&lt;/i&gt; = &lt;i&gt;a&lt;/i&gt;, &lt;i&gt;a&lt;/i&gt; = &lt;i&gt;a&lt;/i&gt;, or &lt;i&gt;a&lt;/i&gt; = &lt;i&gt;b&lt;/i&gt; results (where &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt; are different numbers).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7276B02F0B004E889E6355C98B8C1F62</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DC8116E17B134614B9C311DB843BD9FA">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/7/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.7b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve linear equations with rational number coefficients, including equations whose solutions require expanding expressions using the distributive property and collecting like terms.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7276B02F0B004E889E6355C98B8C1F62</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6FC2501BA58B4695979EA68AC7E2C987">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Analyze and solve pairs of simultaneous linear equations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">29419E561D0F4947929F5400799CB6ED</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>C8EFEC63BD1C4E8AB40AE467EF904347</Child>
+      <Child>C837C873D4C94DC9BB08D7525EA73A5C</Child>
+      <Child>6319C40BAA4B4B2F8D2B8BF2CA02D465</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C8EFEC63BD1C4E8AB40AE467EF904347">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/8/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.8a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that solutions to a system of two linear equations in two variables correspond to points of intersection of their graphs, because points of intersection satisfy both equations simultaneously.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6FC2501BA58B4695979EA68AC7E2C987</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C837C873D4C94DC9BB08D7525EA73A5C">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/8/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.8b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations. Solve simple cases by inspection. &lt;i&gt;For example, 3x + 2y = 5 and 3x + 2y = 6 have no solution because 3x + 2y cannot simultaneously be 5 and 6&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6FC2501BA58B4695979EA68AC7E2C987</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6319C40BAA4B4B2F8D2B8BF2CA02D465">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/C/8/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.C.8c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve real-world and mathematical problems leading to two linear equations in two variables. &lt;i&gt;For example, given coordinates for two pairs of points, determine whether the line through the first pair of points intersects the line through the second pair&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">6FC2501BA58B4695979EA68AC7E2C987</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

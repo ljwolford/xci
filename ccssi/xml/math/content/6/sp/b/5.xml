@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="25270B3E4531410DA4BECFDE1F058E6A">
+    <RefURI>http://corestandards.org/Math/Content/6/SP/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.SP.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Summarize numerical data sets in relation to their context, such as by:</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D0BBF510F9F543828994AF283582A18F</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>F2D6B6FB63E14C8098655981124EBC79</Child>
+      <Child>61E5ED58B8D14F3DBEBF8C11108ADDD4</Child>
+      <Child>00314B63F7C044B48D1E6021D30FA77A</Child>
+      <Child>EEB4EB9C540C46E79C61B867FF4B1BF9</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="F2D6B6FB63E14C8098655981124EBC79">
+    <RefURI>http://corestandards.org/Math/Content/6/SP/B/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.SP.B.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Reporting the number of observations.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">25270B3E4531410DA4BECFDE1F058E6A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="61E5ED58B8D14F3DBEBF8C11108ADDD4">
+    <RefURI>http://corestandards.org/Math/Content/6/SP/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.SP.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">25270B3E4531410DA4BECFDE1F058E6A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="00314B63F7C044B48D1E6021D30FA77A">
+    <RefURI>http://corestandards.org/Math/Content/6/SP/B/5/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.SP.B.5c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">25270B3E4531410DA4BECFDE1F058E6A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EEB4EB9C540C46E79C61B867FF4B1BF9">
+    <RefURI>http://corestandards.org/Math/Content/6/SP/B/5/d/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.SP.B.5d</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">25270B3E4531410DA4BECFDE1F058E6A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

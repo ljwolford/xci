@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="F4781959C4BF44A88E3A4B89A00AA4FC">
+    <RefURI>http://corestandards.org/Math/Content/HSN/CN/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-CN.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Know there is a complex number &lt;i&gt;i&lt;/i&gt; such that &lt;i&gt;i&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; = -1, and every complex number has the form &lt;i&gt;a + bi&lt;/i&gt; with &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt; real.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">34739C4FC4AD468B909C63CB696B4153</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="9EF1ABB59B754CB89DB0297316F03EB0">
+    <RefURI>http://corestandards.org/Math/Content/HSN/CN/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-CN.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the relation &lt;i&gt;i&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; = -1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">34739C4FC4AD468B909C63CB696B4153</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="BBAF058809C4475FAEC0B409DB23FF7A">
+    <RefURI>http://corestandards.org/Math/Content/HSN/CN/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-CN.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Find the conjugate of a complex number; use conjugates to find moduli and quotients of complex numbers.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">34739C4FC4AD468B909C63CB696B4153</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

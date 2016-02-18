@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="B5969B9BA727452CAB1EF05C4694974C">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand vector subtraction &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; - &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; as &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; + (-&lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt;), where -&lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; is the additive inverse of &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt;, with the same magnitude as &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

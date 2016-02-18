@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="E79B4F6A6EE74BB78ACB7561507A27D8">
+    <RefURI>http://corestandards.org/Math/Content/HSS/CP/B/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSS-CP.B.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find the conditional probability of &lt;i&gt;A&lt;/i&gt; given &lt;i&gt;B&lt;/i&gt; as the fraction of &lt;i&gt;B&lt;/i&gt;'s outcomes that also belong to &lt;i&gt;A&lt;/i&gt;, and interpret the answer in terms of the model.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">4174F5D4916B4D11BD2B5964660E814D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

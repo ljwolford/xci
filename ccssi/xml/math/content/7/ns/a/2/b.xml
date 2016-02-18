@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="8E31252383F148FEA1E748BEB841036E">
+    <RefURI>http://corestandards.org/Math/Content/7/NS/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.7.NS.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If &lt;i&gt;p&lt;/i&gt; and &lt;i&gt;q&lt;/i&gt; are integers, then -(&lt;i&gt;p&lt;/i&gt;/&lt;i&gt;q&lt;/i&gt;) = (-&lt;i&gt;p&lt;/i&gt;)/&lt;i&gt;q&lt;/i&gt; = &lt;i&gt;p&lt;/i&gt;/(-&lt;i&gt;q&lt;/i&gt;). Interpret quotients of rational numbers by describing real-world contexts.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>07</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">416206BA82F74726987E836991FB89F8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

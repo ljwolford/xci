@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C915B8DFF14243069B4916D5C35CF763">
+    <RefURI>http://corestandards.org/ELA-Literacy/RL/2/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>6</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.ELA-Literacy.RL.2.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Ask and answer such questions as &lt;i&gt;who, what, where, when, why&lt;/i&gt;, and &lt;i&gt;how&lt;/i&gt; to demonstrate understanding of key details in a text.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>02</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>0FAC40650F514a459951A657F942B845</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A982A8277DCA486bB5F970ED51EE6AB2</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

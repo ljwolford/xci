@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="05BAE0DE74104B1AADC31E85AA1A6128">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;, |&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;|, ||&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;||, &lt;i&gt;v&lt;/i&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E509597287964EA2B70FDD2F10BF988E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A9F2C3A58194456C9F31B5A8E6D761FE">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E509597287964EA2B70FDD2F10BF988E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="A2C32D9A05114A7A9DF0F41BCD26AA8B">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Solve problems involving velocity and other quantities that can be represented by vectors.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E509597287964EA2B70FDD2F10BF988E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FA9C047FE1C547998A6CBB16C323FAD8">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Add and subtract vectors.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">608A98D224DE4CA9B945897C7A58799C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>E71EAB46BC9E474C861A53C60CAB9D2C</Child>
+      <Child>984534D6C05B4CFB9E257E5BB29EF018</Child>
+      <Child>B5969B9BA727452CAB1EF05C4694974C</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="E71EAB46BC9E474C861A53C60CAB9D2C">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="984534D6C05B4CFB9E257E5BB29EF018">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B5969B9BA727452CAB1EF05C4694974C">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/4/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.4c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand vector subtraction &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; - &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; as &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; + (-&lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt;), where -&lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; is the additive inverse of &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt;, with the same magnitude as &lt;b&gt;&lt;i&gt;w&lt;/i&gt;&lt;/b&gt; and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FA9C047FE1C547998A6CBB16C323FAD8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5B4228464AF24FC2A8B23CF733ABD5D8">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Multiply a vector by a scalar.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">608A98D224DE4CA9B945897C7A58799C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>FA032D8A02564B37A0BAF505A0296FB5</Child>
+      <Child>FA032D8A02564B37A0BAF505A0296FB4</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FA032D8A02564B37A0BAF505A0296FB5">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as &lt;i&gt;c&lt;/i&gt;(&lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;, &lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt;) = (&lt;i&gt;cv&lt;/i&gt;&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;, &lt;i&gt;cv&lt;/i&gt;&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt;).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5B4228464AF24FC2A8B23CF733ABD5D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FA032D8A02564B37A0BAF505A0296FB4">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compute the magnitude of a scalar multiple &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; using ||&lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;|| = |&lt;i&gt;c&lt;/i&gt;|&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt;. Compute the direction of &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; knowing that when |&lt;i&gt;c&lt;/i&gt;|&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; &amp;ne; 0, the direction of &lt;i&gt;c&lt;/i&gt;&lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; is either along &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; (for &lt;i&gt;c&lt;/i&gt; &amp;gt; 0) or against &lt;b&gt;&lt;i&gt;v&lt;/i&gt;&lt;/b&gt; (for &lt;i&gt;c&lt;/i&gt; &amp;lt; 0).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">5B4228464AF24FC2A8B23CF733ABD5D8</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DB45830F7002427C8AF399E8819DA20E">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Use matrices to represent and manipulate data, e.g., to represent payoffs or incidence relationships in a network.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="78273CD72AB84C1F89EF871ABC7D60B4">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/7/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.7</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs in a game are doubled.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="EF959899935A49ECA71CA8D7C93C62E8">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Add, subtract, and multiply matrices of appropriate dimensions.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DDF504ABEDC044A3AF6404D0D1C99CAA">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/9/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.9</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="562F1267C46B49BC81C70A0016A3653B">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/10/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.10</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="08134501F5AE4D0FBC25F19F5521A66B">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/11/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.11</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="957863C430684DCC9DCB4B0BAB51F1C9">
+    <RefURI>http://corestandards.org/Math/Content/HSN/VM/C/12/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSN-VM.C.12</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>(+) Work with 2 &amp;times; 2 matrices as a transformations of the plane, and interpret the absolute value of the determinant in terms of area.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">22F88FBD48CB4D73A3A0D0177BE00314</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

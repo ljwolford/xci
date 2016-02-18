@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="B217829E5F084E90A41194DC4C80F050">
+    <RefURI>http://corestandards.org/Math/Content/8/F/A/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.F.A.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret the equation &lt;i&gt;y = mx + b&lt;/i&gt; as defining a linear function, whose graph is a straight line; give examples of functions that are not linear. &lt;i&gt;For example, the function A = s&lt;sup&gt;2&lt;/sup&gt; giving the area of a square as a function of its side length is not linear because its graph contains the points (1,1), (2,4) and (3,9), which are not on a straight line&lt;/i&gt;. </Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B9013BEAF8364E749A2E6C67FDA59EE5</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

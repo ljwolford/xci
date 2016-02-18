@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="D270A624395246338200753501C0BF0E">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>6B92A5720478456FAFF81454BA4CFDA2</Child>
+      <Child>7A2B7EB8894848DD84B9B4E869755FE1</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="6B92A5720478456FAFF81454BA4CFDA2">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret the product (&lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt;) × &lt;i&gt;q&lt;/i&gt; as &lt;em&gt;a&lt;/em&gt; parts of a partition of &lt;i&gt;q&lt;/i&gt; into &lt;i&gt;b&lt;/i&gt; equal parts; equivalently, as the result of a sequence of operations&lt;i&gt; a&lt;/i&gt; × &lt;i&gt;q&lt;/i&gt; ÷ &lt;i&gt;b&lt;/i&gt;. &lt;i&gt;For example, use a visual fraction model to show (2/3) × 4 = 8/3, and create a story context for this equation. Do the same with (2/3) × (4/5) = 8/15. (In general, (a/b) × (c/d) = ac/bd.)&lt;/i&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D270A624395246338200753501C0BF0E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="7A2B7EB8894848DD84B9B4E869755FE1">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">D270A624395246338200753501C0BF0E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

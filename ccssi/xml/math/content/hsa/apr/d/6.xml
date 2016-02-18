@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="8A2EA76C20624FB690F10DAE3C354D5B">
+    <RefURI>http://corestandards.org/Math/Content/HSA/APR/D/6/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-APR.D.6</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Rewrite simple rational expressions in different forms; write &lt;sup&gt;&lt;i&gt;a&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sup&gt;/&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sub&gt; in the form &lt;i&gt;q&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) + &lt;sup&gt;&lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sup&gt;/&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;)&lt;/sub&gt;, where &lt;i&gt;a&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), &lt;i&gt;q&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), and &lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) are polynomials with the degree of &lt;i&gt;r&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;) less than the degree of &lt;i&gt;b&lt;/i&gt;(&lt;i&gt;x&lt;/i&gt;), using inspection, long division, or, for the more complicated examples, a computer algebra system.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0EC032FAF5F34E04B00A864C2E588A09</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

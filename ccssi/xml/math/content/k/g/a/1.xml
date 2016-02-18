@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="D55BE0EDAFBC47B0BBDB1B88F9DF8781">
+    <RefURI>http://corestandards.org/Math/Content/K/G/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.K.G.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Describe objects in the environment using names of shapes, and describe the relative positions of these objects using terms such as &lt;i&gt;above&lt;/i&gt;, &lt;i&gt;below&lt;/i&gt;, &lt;i&gt;beside&lt;/i&gt;, &lt;i&gt;in front of&lt;/i&gt;, &lt;i&gt;behind&lt;/i&gt;, and &lt;i&gt;next to&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>K</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">B1AC98EADE4145689E70EEEBD9B8CC18</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

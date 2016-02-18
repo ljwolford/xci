@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="5179CBDD896D4FD2973CDDAEC393C948">
+    <RefURI>http://corestandards.org/Math/Content/8/EE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.8.EE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use square root and cube root symbols to represent solutions to equations of the form &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; = &lt;i&gt;p&lt;/i&gt; and &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;3&lt;/sup&gt; = p, where &lt;i&gt;p&lt;/i&gt; is a positive rational number. Evaluate square roots of small perfect squares and cube roots of small perfect cubes. Know that &amp;radic;2 is irrational.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>08</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">42D43D973FEF4A028D2AEAC7151A01DB</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

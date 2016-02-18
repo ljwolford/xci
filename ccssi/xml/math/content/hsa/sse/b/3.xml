@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="C705AD3CCF9641C9A3101BDB10737B11">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BEA7E3EF2A4C4C8F85F12D9743C25155</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>194A6E971ED74A3695C6CE468E337562</Child>
+      <Child>C057EE31BA98447FB241F2F732B896BD</Child>
+      <Child>D07C6A24D9F045EFACB20582472FC7EB</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="194A6E971ED74A3695C6CE468E337562">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Factor a quadratic expression to reveal the zeros of the function it defines.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C057EE31BA98447FB241F2F732B896BD">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Complete the square in a quadratic expression to reveal the maximum or minimum value of the function it defines.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D07C6A24D9F045EFACB20582472FC7EB">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the properties of exponents to transform expressions for exponential functions. &lt;i&gt;For example the expression 1.15&lt;sup&gt;t&lt;/sup&gt; can be rewritten as (1.15&lt;sup&gt;1/12&lt;/sup&gt;)&lt;sup&gt;12t&lt;/sup&gt; &amp;asymp; 1.012&lt;sup&gt;12t&lt;/sup&gt; to reveal the approximate equivalent monthly interest rate if the annual rate is 15%&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

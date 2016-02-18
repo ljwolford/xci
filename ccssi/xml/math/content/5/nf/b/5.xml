@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="F81FE2BA03074CD7AFB0C48A37A9D51A">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/5/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.5</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret multiplication as scaling (resizing), by:</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">366753EC60DE4400AC95657B754A9F34</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>036DA6C72EEB4DA38D456F6CD768A182</Child>
+      <Child>FD677276B89E4F55AEEC482260D345C2</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="036DA6C72EEB4DA38D456F6CD768A182">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/5/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.5a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F81FE2BA03074CD7AFB0C48A37A9D51A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="FD677276B89E4F55AEEC482260D345C2">
+    <RefURI>http://corestandards.org/Math/Content/5/NF/B/5/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.NF.B.5b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; = (&lt;i&gt;n&lt;/i&gt; &amp;times; &lt;i&gt;a&lt;/i&gt;)/(&lt;i&gt;n&lt;/i&gt; &amp;times; &lt;i&gt;b&lt;/i&gt;) to the effect of multiplying &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; by 1.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">F81FE2BA03074CD7AFB0C48A37A9D51A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

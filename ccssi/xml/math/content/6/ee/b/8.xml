@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="AC4D37B9DF88460E98D9B2B8B014BD72">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/B/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.B.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Write an inequality of the form &lt;i&gt;x&lt;/i&gt; &amp;gt; &lt;i&gt;c&lt;/i&gt; or &lt;i&gt;x&lt;/i&gt; &amp;lt; &lt;i&gt;c&lt;/i&gt; to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form &lt;i&gt;x&lt;/i&gt; &amp;gt; &lt;i&gt;c&lt;/i&gt; or&lt;i&gt; x&lt;/i&gt; &amp;lt; c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">E67594E323034EDFAD123E9BC4B258BE</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

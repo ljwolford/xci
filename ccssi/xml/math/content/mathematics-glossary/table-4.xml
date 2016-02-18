@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>2647</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Table 4</title>
+  <content>The properties of equality. Here a, b and c stand for arbitrary numbers in the rational, real, or complex number systems.&#13;
+&lt;div class="table-2-columns-container"&gt;&#13;
+&lt;table border="0" width="100%"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Reflexive property of equality&lt;/td&gt;&#13;
+&lt;td&gt;a = a.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Symmetric property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b, then b = a.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Transitive property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b and b = c , then a = c.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Addition property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b, then a +c = b + c.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Subtraction property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b then a - c = b - c.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Multiplication property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b, then a x c = b x c.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Division property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b and c ≠ 0, then a ÷ c = b ÷ c.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;Substitution property of equality&lt;/td&gt;&#13;
+&lt;td&gt;If a = b, then b may be substituted for a in any expression containing a.&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/div&gt;</content>
+  <date>2014-06-17 12:03:54 UTC</date>
+</page>

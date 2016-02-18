@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="4590DEFD95E44B6B9BF6A9425DE30D1A">
+    <RefURI>http://corestandards.org/Math/Content/6/NS/C/7/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.NS.C.7a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram. &lt;i&gt;For example, interpret -3 &amp;gt; -7 as a statement that -3 is located to the right of -7 on a number line oriented from left to right&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">71F96ADF450A4133A258FDACE2D3910D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

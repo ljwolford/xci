@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="588D68D7F3194E65B77F61FAFA99694D">
+    <RefURI>http://corestandards.org/Math/Content/6/EE/A/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.6.EE.A.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them). &lt;i&gt;For example, the expressions y + y + y and 3y are equivalent because they name the same number regardless of which number y stands for.&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>06</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">A7D3275BC52147618D6CFEE43FB1A47E</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

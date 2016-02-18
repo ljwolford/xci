@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>1917</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Introduction</title>
+  <content>&lt;h2&gt;Numbers and Number Systems.&lt;/h2&gt;&#13;
+During the years from kindergarten to eighth grade, students must repeatedly extend their conception of number. At first, "number" means "counting number": 1, 2, 3, … Soon after that, 0 is used to represent "none" and the whole numbers are formed by the counting numbers together with zero. The next extension is fractions. At first, fractions are barely numbers and tied strongly to pictorial representations. Yet by the time students understand division of fractions, they have a strong concept of fractions as numbers and have connected them, via their decimal representations, with the base-ten system used to represent the whole numbers. During middle school, fractions are augmented by negative fractions to form the rational numbers. In Grade 8, students extend this system once more, augmenting the rational numbers with the irrational numbers to form the real numbers. In high school, students will be exposed to yet another extension of number, when the real numbers are augmented by the imaginary numbers to form the complex numbers.&#13;
+&#13;
+This ascent through number systems makes it fair to ask: what does the word number mean that it can mean all of these things? One possible answer is that a number is something that can be used to do mathematics: calculate, solve equations, or represent measurements.&#13;
+&#13;
+Although the notion of number changes, the four operations stay the same in important ways. The commutative, associative, and distributive properties extend the properties of operations to the integers, rational numbers, real numbers, and complex numbers. Extending the properties of exponents leads to new and productive notation; for example, since the properties of exponents suggest that (5&lt;sup&gt;1/3&lt;/sup&gt;)&lt;sup&gt;3&lt;/sup&gt; = 5&lt;sup&gt;(1/3)·3&lt;/sup&gt; = 5&lt;sup&gt;1&lt;/sup&gt; = 5, we define 5&lt;sup&gt;1/3&lt;/sup&gt; to be the cube root of 5.&#13;
+&#13;
+Calculators are useful in this strand to generate data for numerical experiments, to help understand the workings of matrix, vector, and complex number algebra, and to experiment with non-integer exponents.&#13;
+&lt;h2&gt;Quantities.&lt;/h2&gt;&#13;
+In their work in measurement up through Grade 8, students primarily measure commonly used attributes such as length, area, and volume. In high school, students encounter a wider variety of units in modeling, e.g. acceleration, currency conversions, derived quantities such as person-hours and heating degree days, social science rates such as per-capita income, and rates in everyday life such as points scored per game or batting averages. They also encounter novel situations in which they themselves must conceive the attributes of interest. For example, to find a good measure of overall highway safety, they might propose measures such as fatalities per year, fatalities per year per driver, or fatalities per vehicle-mile traveled. Such a conceptual process might be called quantification. Quantification is important for science, as when surface area suddenly "stands out" as an important variable in evaporation. Quantification is also important for companies, which must conceptualize relevant attributes and create or choose suitable measures for them.&#13;
+&lt;h2&gt;Number and Quantity Overview&lt;/h2&gt;&#13;
+&lt;h3&gt;The Real Number System&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Extend the properties of exponents to rational exponents&lt;/li&gt;&#13;
+	&lt;li&gt;Use properties of rational and irrational numbers.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;h3&gt;Quantities&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Reason quantitatively and use units to solve problems&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;h3&gt;The Complex Number System&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Perform arithmetic operations with complex numbers&lt;/li&gt;&#13;
+	&lt;li&gt;Represent complex numbers and their operations on the complex plane&lt;/li&gt;&#13;
+	&lt;li&gt;Use complex numbers in polynomial identities and equations&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;h3&gt;Vector and Matrix Quantities&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Represent and model with vector quantities.&lt;/li&gt;&#13;
+	&lt;li&gt;Perform operations on vectors.&lt;/li&gt;&#13;
+	&lt;li&gt;Perform operations on matrices and use matrices in applications.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;h3&gt;Mathematical Practices&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+	&lt;li&gt;Make sense of problems and persevere in solving them.&lt;/li&gt;&#13;
+	&lt;li&gt;Reason abstractly and quantitatively.&lt;/li&gt;&#13;
+	&lt;li&gt;Construct viable arguments and critique the reasoning of others.&lt;/li&gt;&#13;
+	&lt;li&gt;Model with mathematics.&lt;/li&gt;&#13;
+	&lt;li&gt;Use appropriate tools strategically.&lt;/li&gt;&#13;
+	&lt;li&gt;Attend to precision.&lt;/li&gt;&#13;
+	&lt;li&gt;Look for and make use of structure.&lt;/li&gt;&#13;
+	&lt;li&gt;Look for and express regularity in repeated reasoning.&lt;/li&gt;&#13;
+&lt;/ol&gt;</content>
+  <date>2014-02-15 19:11:55 UTC</date>
+</page>

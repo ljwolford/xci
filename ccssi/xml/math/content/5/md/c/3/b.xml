@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="E92C6ADEAB084243BE335C4B561D1CEA">
+    <RefURI>http://corestandards.org/Math/Content/5/MD/C/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.5.MD.C.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>A solid figure which can be packed without gaps or overlaps using &lt;i&gt;n&lt;/i&gt; unit cubes is said to have a volume of &lt;i&gt;n&lt;/i&gt; cubic units.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>05</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">36D5E16885004574B88BAF6886FA2911</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

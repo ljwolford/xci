@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="137C90D24DE949558F17713B84161B4D">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret expressions that represent a quantity in terms of its context.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">16247FEF153B4404A115600AF3C81E03</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>529B17211FDB499292FE9DCD0CAAA928</Child>
+      <Child>5155CED2475A42D88AD48B7A676C7943</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="529B17211FDB499292FE9DCD0CAAA928">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret parts of an expression, such as terms, factors, and coefficients.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">137C90D24DE949558F17713B84161B4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5155CED2475A42D88AD48B7A676C7943">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/1/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.1b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Interpret complicated expressions by viewing one or more of their parts as a single entity. &lt;i&gt;For example, interpret P(1+r)&lt;sup&gt;n&lt;/sup&gt; as the product of P and a factor not depending on P&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">137C90D24DE949558F17713B84161B4D</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="DE5D310B24EA4A7398462924C80EC4BA">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the structure of an expression to identify ways to rewrite it. &lt;i&gt;For example, see x&lt;sup&gt;4&lt;/sup&gt; - y&lt;sup&gt;4&lt;/sup&gt; as (x&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; - (y&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;, thus recognizing it as a difference of squares that can be factored as (x&lt;sup&gt;2&lt;/sup&gt; - y&lt;sup&gt;2&lt;/sup&gt;)(x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt;)&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">16247FEF153B4404A115600AF3C81E03</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C705AD3CCF9641C9A3101BDB10737B11">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BEA7E3EF2A4C4C8F85F12D9743C25155</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>194A6E971ED74A3695C6CE468E337562</Child>
+      <Child>C057EE31BA98447FB241F2F732B896BD</Child>
+      <Child>D07C6A24D9F045EFACB20582472FC7EB</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="194A6E971ED74A3695C6CE468E337562">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Factor a quadratic expression to reveal the zeros of the function it defines.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C057EE31BA98447FB241F2F732B896BD">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Complete the square in a quadratic expression to reveal the maximum or minimum value of the function it defines.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D07C6A24D9F045EFACB20582472FC7EB">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/3/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.3c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the properties of exponents to transform expressions for exponential functions. &lt;i&gt;For example the expression 1.15&lt;sup&gt;t&lt;/sup&gt; can be rewritten as (1.15&lt;sup&gt;1/12&lt;/sup&gt;)&lt;sup&gt;12t&lt;/sup&gt; &amp;asymp; 1.012&lt;sup&gt;12t&lt;/sup&gt; to reveal the approximate equivalent monthly interest rate if the annual rate is 15%&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">C705AD3CCF9641C9A3101BDB10737B11</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="132D975B6090471A975C1780357F9D37">
+    <RefURI>http://corestandards.org/Math/Content/HSA/SSE/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-SSE.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Derive the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems. &lt;i&gt;For example, calculate mortgage payments.&lt;/i&gt;&lt;sup&gt;*&lt;/sup&gt;</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">BEA7E3EF2A4C4C8F85F12D9743C25155</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

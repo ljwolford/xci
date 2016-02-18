@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="0B8F8764427D4A1D9FE9EBA6D2EC0C95">
+    <RefURI>http://corestandards.org/Math/Content/1/NBT/B/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.NBT.B.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand that the two digits of a two-digit number represent amounts of tens and ones. Understand the following as special cases:</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">97A52B26167842E49CD8C78C04481304</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>537AAD09E07C43D0968D7C9D9E07FAC4</Child>
+      <Child>B9A7CBDAD2C94286837A25AE81B46920</Child>
+      <Child>1125E1AD13944E35A3BF5358FD157DF3</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="537AAD09E07C43D0968D7C9D9E07FAC4">
+    <RefURI>http://corestandards.org/Math/Content/1/NBT/B/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.NBT.B.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>10 can be thought of as a bundle of ten ones &amp;mdash; called a "ten."</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B8F8764427D4A1D9FE9EBA6D2EC0C95</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="B9A7CBDAD2C94286837A25AE81B46920">
+    <RefURI>http://corestandards.org/Math/Content/1/NBT/B/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.NBT.B.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>The numbers from 11 to 19 are composed of a ten and one, two, three, four, five, six, seven, eight, or nine ones.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B8F8764427D4A1D9FE9EBA6D2EC0C95</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="1125E1AD13944E35A3BF5358FD157DF3">
+    <RefURI>http://corestandards.org/Math/Content/1/NBT/B/2/c/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.NBT.B.2c</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>The numbers 10, 20, 30, 40, 50, 60, 70, 80, 90 refer to one, two, three, four, five, six, seven, eight, or nine tens (and 0 ones).</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">0B8F8764427D4A1D9FE9EBA6D2EC0C95</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="C20A87396FC74159818466765D45D084">
+    <RefURI>http://corestandards.org/Math/Content/1/NBT/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.1.NBT.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Compare two two-digit numbers based on meanings of the tens and ones digits, recording the results of comparisons with the symbols &amp;gt;, =, and &amp;lt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>01</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">97A52B26167842E49CD8C78C04481304</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

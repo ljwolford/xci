@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="62363EDC2EC343c4BE5484B1FAC81B19">
+    <RefURI>http://corestandards.org/Math/Content/HSF/TF/C/8/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSF-TF.C.8</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Prove the Pythagorean identity sin&lt;sup&gt;2&lt;/sup&gt;(&amp;theta;) + cos&lt;sup&gt;2&lt;/sup&gt;(&amp;theta;) = 1 and use it to find  sin(&amp;theta;), cos(&amp;theta;), or tan(&amp;theta;) given sin(&amp;theta;), cos(&amp;theta;), or tan(&amp;theta;) and the  quadrant of the angle.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">601ED08534CF40a5977CEBAD49863725</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

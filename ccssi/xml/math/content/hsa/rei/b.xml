@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="52F1125E7D4F4CC8AFD2BDDB15BF256A">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/3/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.3</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7F7DAA3BD975420E9A21319845B45A2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="87B0241DE22D4A18943F3BC6CBF5DA82">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve quadratic equations in one variable.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">7F7DAA3BD975420E9A21319845B45A2A</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>5BD6F36D021A429E951EE42C678F1CF5</Child>
+      <Child>617091A725F44F42A823052465447328</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="5BD6F36D021A429E951EE42C678F1CF5">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Use the method of completing the square to transform any quadratic equation in &lt;i&gt;x&lt;/i&gt; into an equation of the form (&lt;i&gt;x&lt;/i&gt; - &lt;i&gt;p&lt;/i&gt;)&lt;sup&gt;2&lt;/sup&gt; = &lt;i&gt;q&lt;/i&gt; that has the same solutions. Derive the quadratic formula from this form.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">87B0241DE22D4A18943F3BC6CBF5DA82</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="617091A725F44F42A823052465447328">
+    <RefURI>http://corestandards.org/Math/Content/HSA/REI/B/4/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.HSA-REI.B.4b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Solve quadratic equations by inspection (e.g., for &lt;i&gt;x&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; = 49), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as &lt;i&gt;a&lt;/i&gt; &amp;plusmn; &lt;i&gt;bi&lt;/i&gt; for real numbers &lt;i&gt;a&lt;/i&gt; and &lt;i&gt;b&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>09</GradeLevel>
+      <GradeLevel>10</GradeLevel>
+      <GradeLevel>11</GradeLevel>
+      <GradeLevel>12</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">87B0241DE22D4A18943F3BC6CBF5DA82</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

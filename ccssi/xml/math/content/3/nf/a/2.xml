@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="8C551F4EF2224A61AED96E27F7BB8852">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/2/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.2</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Understand a fraction as a number on the number line; represent fractions on a number line diagram.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">FB0C3EF6E0254112BE3E1A3B3BBE691C</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+    <ChildrenAre>
+      <Child>74D0C6FACE7E4939BD8B01C5E729871C</Child>
+      <Child>D31E57DF888541EAA539B9C1954C76E1</Child>
+    </ChildrenAre>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="74D0C6FACE7E4939BD8B01C5E729871C">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/2/a/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.2a</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent a fraction 1/&lt;i&gt;b&lt;/i&gt; on a number line diagram by defining the interval from 0 to 1 as the whole and partitioning it into &lt;i&gt;b&lt;/i&gt; equal parts. Recognize that each part has size 1/&lt;i&gt;b&lt;/i&gt; and that the endpoint of the part based at 0 locates the number 1/&lt;i&gt;b&lt;/i&gt; on the number line.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8C551F4EF2224A61AED96E27F7BB8852</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+  <LearningStandardItem xml:lang="en" RefID="D31E57DF888541EAA539B9C1954C76E1">
+    <RefURI>http://corestandards.org/Math/Content/3/NF/A/2/b/</RefURI>
+    <StandardHierarchyLevel>
+      <number>8</number>
+      <description>Component</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.3.NF.A.2b</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Represent a fraction &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; on a number line diagram by marking off a lengths 1/&lt;i&gt;b&lt;/i&gt; from 0. Recognize that the resulting interval has size &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; and that its endpoint locates the number &lt;i&gt;a&lt;/i&gt;/&lt;i&gt;b&lt;/i&gt; on the number line.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>03</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8C551F4EF2224A61AED96E27F7BB8852</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

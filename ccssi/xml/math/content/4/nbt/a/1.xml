@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandards>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <LearningStandardItem xml:lang="en" RefID="548A31123CE54B52A78A720510E36503">
+    <RefURI>http://corestandards.org/Math/Content/4/NBT/A/1/</RefURI>
+    <StandardHierarchyLevel>
+      <number>7</number>
+      <description>Standard</description>
+    </StandardHierarchyLevel>
+    <StatementCodes>
+      <StatementCode>CCSS.Math.Content.4.NBT.A.1</StatementCode>
+    </StatementCodes>
+    <Statements>
+      <Statement>Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right.&lt;i&gt; For example, recognize that 700 &amp;divide; 70 = 10 by applying concepts of place value and division&lt;/i&gt;.</Statement>
+    </Statements>
+    <GradeLevels>
+      <GradeLevel>04</GradeLevel>
+    </GradeLevels>
+    <LearningStandardDocumentRefId>B62C1C106873438AA0126760075A65A3</LearningStandardDocumentRefId>
+    <RelatedLearningStandardItems>
+      <LearningStandardItemRefId RelationshipType="childOf">8FD3F69556544361BDEA345B9D5DAC6B</LearningStandardItemRefId>
+    </RelatedLearningStandardItems>
+  </LearningStandardItem>
+</LearningStandards>

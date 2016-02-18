@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <id>2631</id>
+  <CoreStandardVersion>1.1</CoreStandardVersion>
+  <title>Table 1</title>
+  <content>Common addition and subtraction.&lt;sup&gt;1&lt;/sup&gt;&#13;
+&lt;div class="table-4-columns-container"&gt;&#13;
+&lt;table border="0" width="100%"&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr class="sub-header"&gt;&#13;
+&lt;td&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Result Unknown&lt;/td&gt;&#13;
+&lt;td&gt;Change Unknown&lt;/td&gt;&#13;
+&lt;td&gt;Start Unknown&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;Add to&lt;/td&gt;&#13;
+&lt;td&gt;Two bunnies sat on the grass. Three more bunnies hopped there. How many bunnies are on the grass now? &lt;strong&gt;2 + 3 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Two bunnies were sitting on the grass. Some more bunnies hopped there. Then there were five bunnies. How many bunnies hopped over to the first two? &lt;strong&gt;2 + ? = 5&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Some bunnies were sitting on the grass. Three more bunnies hopped there. Then there were five bunnies. How many bunnies were on the grass before? &lt;strong&gt;? + 3 =5&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;Take from&lt;/td&gt;&#13;
+&lt;td&gt;Five apples were on the table. I ate two apples. How many apples are on the table now?&lt;strong&gt;5-2 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Five apples were on the table. I ate some apples. Then there were three apples. How many apples did I eat?&lt;strong&gt;5 - ? = 3&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Some apples were on the table. I ate two apples. Then there were three apples. How many apples were on the table before?&lt;strong&gt;? -2 = 3&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr class="sub-header"&gt;&#13;
+&lt;td&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Total Unknown&lt;/td&gt;&#13;
+&lt;td&gt;Addend Unknown&lt;/td&gt;&#13;
+&lt;td&gt;Both Addends Unknown&lt;sup&gt;2&lt;/sup&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td class="sub-header"&gt;Put Together / Take Apart&lt;sup&gt;3&lt;/sup&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Three red apples and two green apples are on the table. How many apples are on the table? &lt;strong&gt;3 + 2 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Five apples are on the table. Three are red and the rest are green. How many apples are green? &lt;strong&gt;3 + ? = 5&lt;/strong&gt;, &lt;strong&gt;5-3 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;Grandma has five flowers. How many can she put in the red vase and how many in her blue vase? &lt;strong&gt;5 = 0 + 5&lt;/strong&gt;, &lt;strong&gt;5 + 0&#13;
+&lt;/strong&gt;&lt;strong&gt;5 = 1 +4&lt;/strong&gt;, &lt;strong&gt;5 = 4 +1&#13;
+&lt;/strong&gt;&lt;strong style="line-height: 1.5em;"&gt;5 = 2 + 3&lt;/strong&gt;&lt;span style="line-height: 1.5em;"&gt;, &lt;/span&gt;&lt;strong style="line-height: 1.5em;"&gt;5 = 3 + 2&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr class="sub-header"&gt;&#13;
+&lt;td&gt;Compare&lt;/td&gt;&#13;
+&lt;td&gt;Difference Uknown&lt;/td&gt;&#13;
+&lt;td&gt;Bigger Unknown&lt;/td&gt;&#13;
+&lt;td&gt;Smaller Unknown&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;tr&gt;&#13;
+&lt;td&gt;&lt;/td&gt;&#13;
+&lt;td&gt;("How many more?" version):Lucy has two apples. Julie has five apples. How many more apples does Julie have than Lucy?("How many fewer?" version): Lucy has two apples. Julie has five apples. How many fewer apples does Lucy have then Julie? &lt;strong&gt;2 + ? = 5&lt;/strong&gt;, &lt;strong&gt;5 - 2 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;(Version with "more"): Julie has three more apples than Lucy. Lucy has two apples. How many apples does Julie have?   (Version with "fewer"): Lucy has 3 fewer apples than Julie. Lucy has two apples. How many apples does Julie have? &lt;strong&gt;2 + 3 = ?, 3 + 2 = ?&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;td&gt;(Version with "more"):Julie has three more apples than Lucy. Julie has five apples. How many apples does Lucy have?(Version with “fewer”):&#13;
+Lucy has 3 fewer apples than Julie. Julie has five apples. How many apples does Lucy have? &lt;strong&gt;5 – 3 = ?, ? + 3 = 5&lt;/strong&gt;&lt;/td&gt;&#13;
+&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;1 &lt;/sup&gt;Adapted from Box 2-4 of Mathematics Learning in Early Childhood, National Research Council (2009, pp. 32, 33).&lt;/p&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;2 &lt;/sup&gt;These take apart situations can be used to show all the decompositions of a given number. The associated equations, which have the total on the left of the equal sign, help children understand that the = sign does not always mean, makes or results in but always does mean is the same number as.&lt;/p&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;3 &lt;/sup&gt;Either addend can be unknown, so there are three variations of these problem situations. Both addends Unknown is a productive extension of the basic situation, especially for small numbers less than or equal to 10.&lt;/p&gt;&#13;
+&lt;p class="citation"&gt;&lt;sup&gt;4 &lt;/sup&gt;For the Bigger Unknown or Smaller Unknown situations, one version directs the correct operation (the version using more for the bigger unknown and using less for the smaller unknown). The other versions are more difficult.&lt;/p&gt;</content>
+  <date>2014-06-17 11:19:47 UTC</date>
+</page>
